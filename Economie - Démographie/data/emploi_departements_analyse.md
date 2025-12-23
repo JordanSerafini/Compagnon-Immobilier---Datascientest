@@ -115,9 +115,9 @@
 
 ---
 
-## Recommandations
+## Synthèse pour le traitement
 
-### Colonnes à conserver
+### Colonnes retenues
 - **CODEGEO**: Clé de jointure - ESSENTIELLE
 - **UNIT**: Filtrage données - IMPORTANTE
 - **NA17**: Secteur activité - IMPORTANTE
@@ -125,7 +125,7 @@
 - **SPHEREECO**: Sphère économique - IMPORTANTE
 - **DOMPUB**: Public/Privé - IMPORTANTE
 
-### Colonnes à supprimer
+### Colonnes exclues
 - NIVGEO
 - NA17_label
 - DATASET_VERSION
@@ -133,7 +133,7 @@
 - SPHEREECO_label
 - DOMPUB_label
 
-### Nettoyage recommandé
+### Nettoyage à effectuer
 - Supprimer les 5402 lignes avec valeurs manquantes
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin

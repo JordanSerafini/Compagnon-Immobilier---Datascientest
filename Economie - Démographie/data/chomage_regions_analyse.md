@@ -92,9 +92,9 @@
 
 ---
 
-## Recommandations
+## Synthèse pour le traitement
 
-### Colonnes à conserver (essentielles)
+### Colonnes retenues
 
 - **TIME_PERIOD**: Clé temporelle
 - **OBS_VALUE**: Taux de chômage
@@ -102,7 +102,7 @@
 - **REGION**: Région administrative
 - **DATE**: Date formatée
 
-### Colonnes à supprimer (redondantes)
+### Colonnes exclues
 
 - Toutes les colonnes `*_label_en` (labels anglais)
 - OBS_REV, OBS_REV_label_fr, OBS_REV_label_en (95% manquantes)
@@ -112,4 +112,4 @@
 
 - **Couverture partielle**: Seulement 12 départements sur 96
 - Les départements couverts sont dans la tranche 70-81
-- Pour une analyse France entière, compléter avec d'autres séries IDBANK
+- Une analyse France entière nécessite d'autres séries IDBANK

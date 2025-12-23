@@ -55,7 +55,7 @@
 
 ---
 
-## Utilisation recommandée
+## Exploitation envisagée
 
 ### Indicateurs à calculer
 
@@ -78,9 +78,9 @@
 
 ---
 
-## Recommandations
+## Synthèse pour le traitement
 
-### Colonnes à conserver
+### Colonnes retenues
 
 - **TIME_PERIOD**: Année
 - **OBS_VALUE**: Population
@@ -88,12 +88,12 @@
 - **SEXE**: Ventilation sexe
 - **AGE**: Tranche d'âge
 
-### Colonnes à supprimer
+### Colonnes exclues
 
 - Toutes les colonnes `*_label_en`
 - Colonnes métadonnées (IDBANK, DATASET, etc.)
 
-### Nettoyage
+### Nettoyage à effectuer
 
 - Pivoter les données pour avoir une colonne par tranche d'âge
 - Calculer les ratios démographiques

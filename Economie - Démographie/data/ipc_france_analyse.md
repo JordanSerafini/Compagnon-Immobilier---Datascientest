@@ -110,13 +110,13 @@
 
 ---
 
-## Recommandations
+## Synthèse pour le traitement
 
-### Colonnes à conserver
+### Colonnes retenues
 - **TIME_PERIOD**: Clé temporelle - ESSENTIELLE
 - **OBS_VALUE**: Donnée principale - ESSENTIELLE
 
-### Colonnes à supprimer
+### Colonnes exclues
 - FREQ_label_fr
 - FREQ_label_en
 - INDICATEUR_label_fr
@@ -148,6 +148,6 @@
 - OBS_QUAL_label_fr
 - OBS_QUAL_label_en
 
-### Nettoyage recommandé
+### Nettoyage à effectuer
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin

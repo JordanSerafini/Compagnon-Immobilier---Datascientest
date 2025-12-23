@@ -88,21 +88,21 @@
 
 ---
 
-## Recommandations
+## Synthèse pour le traitement
 
-### Colonnes à conserver
+### Colonnes retenues
 - **CODEGEO**: Clé de jointure - ESSENTIELLE
 - **UNIT**: Filtrage données - IMPORTANTE
 - **OBS_VALUE**: Donnée principale - ESSENTIELLE
 
-### Colonnes à supprimer
+### Colonnes exclues
 - NIVGEO
 - INDICS_FILO_DISP_label
 - DATASET_VERSION
 - DATASET_NAME
 - INDICS_FILO_DISP_DET_label
 
-### Nettoyage recommandé
+### Nettoyage à effectuer
 - Supprimer les 1770 lignes avec valeurs manquantes
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin

@@ -56,9 +56,9 @@
 
 ---
 
-## Utilisation recommandée
+## Exploitation envisagée
 
-### Indicateurs à exploiter
+### Indicateurs exploitables
 
 1. **Taux de pauvreté global (_T)**
    - Indicateur de précarité territoriale
