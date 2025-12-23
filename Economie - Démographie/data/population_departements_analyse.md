@@ -87,21 +87,21 @@
 
 ---
 
-## Recommandations
+## Synthèse pour le traitement
 
-### Colonnes à conserver
+### Colonnes retenues
 - **CODEGEO**: Clé de jointure - ESSENTIELLE
 - **UNIT**: Filtrage données - IMPORTANTE
 - **STOCD**: Statut occupation - IMPORTANTE
 - **OBS_VALUE**: Donnée principale - ESSENTIELLE
 
-### Colonnes à supprimer
+### Colonnes exclues
 - NIVGEO
 - STOCD_label
 - DATASET_VERSION
 - DATASET_NAME
 
-### Nettoyage recommandé
+### Nettoyage à effectuer
 - Supprimer les 203 lignes avec valeurs manquantes
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin

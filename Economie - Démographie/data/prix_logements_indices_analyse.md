@@ -87,9 +87,9 @@
 
 ---
 
-## Utilisation recommandée
+## Exploitation envisagée
 
-### Analyses possibles
+### Analyses envisageables
 
 1. **Évolution prix sur 30 ans**
    - Tendances longues du marché

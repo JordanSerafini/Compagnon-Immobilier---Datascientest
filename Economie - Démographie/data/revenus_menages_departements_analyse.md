@@ -44,9 +44,9 @@
 
 ---
 
-## Utilisation recommandée
+## Exploitation envisagée
 
-### Indicateurs à exploiter
+### Indicateurs exploitables
 
 1. **Revenu médian par département**
    - Indicateur clé du pouvoir d'achat
@@ -71,4 +71,4 @@
 ## Limitations
 
 - **Période limitée**: Données 2012-2015 uniquement
-- Compléter avec revenus_departements.csv (FILOSOFI 2018) pour données plus récentes
+- Données plus récentes disponibles dans revenus_departements.csv (FILOSOFI 2018)

@@ -90,9 +90,9 @@ Le nouveau fichier remplace chomage_regions.csv avec une couverture complète.
 
 ---
 
-## Recommandations
+## Synthèse pour le traitement
 
-### Colonnes à conserver
+### Colonnes retenues
 
 - **TIME_PERIOD**: Clé temporelle
 - **OBS_VALUE**: Taux de chômage
@@ -100,12 +100,12 @@ Le nouveau fichier remplace chomage_regions.csv avec une couverture complète.
 - **REF_AREA_label_fr**: Nom département
 - **REGION**: Région administrative
 
-### Colonnes à supprimer
+### Colonnes exclues
 
 - Toutes les colonnes `*_label_en`
 - Colonnes métadonnées redondantes
 
-### Utilisation
+### Exploitation envisagée
 
 - Analyse des disparités territoriales du chômage
 - Corrélation chômage / prix immobilier par département

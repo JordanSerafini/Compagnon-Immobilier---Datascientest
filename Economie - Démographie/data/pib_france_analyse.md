@@ -61,20 +61,20 @@
 
 ---
 
-## Recommandations
+## Synthèse pour le traitement
 
-### Colonnes à conserver
+### Colonnes retenues
 
 - **TIME_PERIOD**: Clé temporelle
 - **OBS_VALUE**: Taux de croissance
 - **DATE**: Pour jointures temporelles
 
-### Colonnes à supprimer
+### Colonnes exclues
 
 - Toutes les colonnes `*_label_en` (labels anglais)
 - Colonnes métadonnées redondantes
 
-### Utilisation
+### Exploitation envisagée
 
 - Indicateur macro-économique pour contextualiser le marché immobilier
 - Corrélation avec cycles immobiliers
