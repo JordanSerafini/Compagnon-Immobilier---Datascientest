@@ -56,7 +56,7 @@
 
 ---
 
-## Exploitation envisagée
+## Utilisation prévue
 
 ### Indicateurs exploitables
 

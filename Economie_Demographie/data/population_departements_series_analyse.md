@@ -55,7 +55,7 @@
 
 ---
 
-## Exploitation envisagée
+## Utilisation prévue
 
 ### Indicateurs à calculer
 

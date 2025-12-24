@@ -1,0 +1,1801 @@
+code_dept,nb_logements,annee,unite,STOCD_label,UNIT
+01,274538.375368,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+01,171307.121971,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+01,54028.486208,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+01,39004.585669,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+01,5205.88373,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+01,4992.29779,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+01,634390.746502,2018,Population,Statut d'occupation du logement,POP
+01,416790.823221,2018,Population,Statut d'occupation du logement,POP
+01,109775.784792,2018,Population,Statut d'occupation du logement,POP
+01,89353.238998,2018,Population,Statut d'occupation du logement,POP
+01,8443.790311,2018,Population,Statut d'occupation du logement,POP
+01,10027.109179,2018,Population,Statut d'occupation du logement,POP
+01,4051523.223507,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+01,3270256.500354,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+01,312603.734143,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+01,386411.867726,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+01,22387.481924,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+01,59863.639361,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+02,231215.055899,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+02,142464.13807,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+02,45269.805911,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+02,36716.052539,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+02,2700.428281,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+02,4064.631098,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+02,522698.34067,2018,Population,Statut d'occupation du logement,POP
+02,330403.183893,2018,Population,Statut d'occupation du logement,POP
+02,101103.59288,2018,Population,Statut d'occupation du logement,POP
+02,78869.43707,2018,Population,Statut d'occupation du logement,POP
+02,4112.127977,2018,Population,Statut d'occupation du logement,POP
+02,8209.99885,2018,Population,Statut d'occupation du logement,POP
+02,4070482.844802,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+02,3276264.80701,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+02,321007.013451,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+02,399569.997229,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+02,14290.044239,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+02,59350.982873,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+03,162853.779701,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+03,105802.525648,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+03,34395.916664,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+03,16458.206912,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+03,2899.508443,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+03,3297.622034,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+03,326606.968718,2018,Population,Statut d'occupation du logement,POP
+03,223177.404695,2018,Population,Statut d'occupation du logement,POP
+03,61033.001928,2018,Population,Statut d'occupation du logement,POP
+03,32756.859125,2018,Population,Statut d'occupation du logement,POP
+03,3643.428159,2018,Population,Statut d'occupation du logement,POP
+03,5996.274811,2018,Population,Statut d'occupation du logement,POP
+03,2843543.027976,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+03,2350320.339579,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+03,262155.362201,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+03,171971.248402,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+03,12499.312794,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+03,46596.764999,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+04,78089.671174,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+04,46355.91791,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+04,20338.435979,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+04,6273.996322,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+04,2141.98667,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+04,2979.334293,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+04,160093.628693,2018,Population,Statut d'occupation du logement,POP
+04,97781.233165,2018,Population,Statut d'occupation du logement,POP
+04,38895.349736,2018,Population,Statut d'occupation du logement,POP
+04,14330.12097,2018,Population,Statut d'occupation du logement,POP
+04,3320.273693,2018,Population,Statut d'occupation du logement,POP
+04,5766.65113,2018,Population,Statut d'occupation du logement,POP
+04,1163718.228193,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+04,920978.332069,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+04,137492.845467,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+04,62733.887933,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+04,8681.720315,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+04,33831.44241,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+05,66428.288308,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+05,40249.923386,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+05,14571.667329,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+05,7084.208261,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+05,1981.480195,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+05,2541.009138,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+05,136519.254989,2018,Population,Statut d'occupation du logement,POP
+05,85098.462804,2018,Population,Statut d'occupation du logement,POP
+05,28295.022112,2018,Population,Statut d'occupation du logement,POP
+05,15079.840232,2018,Population,Statut d'occupation du logement,POP
+05,3055.1002,2018,Population,Statut d'occupation du logement,POP
+05,4990.829641,2018,Population,Statut d'occupation du logement,POP
+05,1029236.5296,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+05,816779.425237,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+05,94581.515854,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+05,79477.738787,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+05,8528.222777,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+05,29869.626945,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+06,512562.813128,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+06,283361.846586,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+06,135919.919556,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+06,48665.956898,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+06,26163.148731,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+06,18451.941357,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+06,1060706.129748,2018,Population,Statut d'occupation du logement,POP
+06,596006.739815,2018,Population,Statut d'occupation du logement,POP
+06,268984.523166,2018,Population,Statut d'occupation du logement,POP
+06,118838.753965,2018,Population,Statut d'occupation du logement,POP
+06,41050.973281,2018,Population,Statut d'occupation du logement,POP
+06,35825.139521,2018,Population,Statut d'occupation du logement,POP
+06,7305466.398783,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+06,5154083.087556,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+06,1119852.755522,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+06,692599.702101,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+06,102766.237924,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+06,236164.615679,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+07,148173.754556,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+07,99184.317556,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+07,30849.86559,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+07,11714.166848,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+07,2629.863966,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+07,3795.540598,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+07,317834.929231,2018,Population,Statut d'occupation du logement,POP
+07,221576.115063,2018,Population,Statut d'occupation du logement,POP
+07,60209.701178,2018,Population,Statut d'occupation du logement,POP
+07,24462.999676,2018,Population,Statut d'occupation du logement,POP
+07,4016.393772,2018,Population,Statut d'occupation du logement,POP
+07,7569.719542,2018,Population,Statut d'occupation du logement,POP
+07,2498943.800477,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+07,2131647.925349,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+07,197409.077084,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+07,110332.649186,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+07,11588.471858,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+07,47965.677,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+08,121658.938489,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+08,73568.155851,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+08,23885.663728,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+08,20698.610231,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+08,1377.555183,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+08,2128.953497,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+08,266427.250326,2018,Population,Statut d'occupation du logement,POP
+08,167746.428457,2018,Population,Statut d'occupation du logement,POP
+08,49471.545847,2018,Population,Statut d'occupation du logement,POP
+08,42777.982054,2018,Population,Statut d'occupation du logement,POP
+08,2176.3745,2018,Population,Statut d'occupation du logement,POP
+08,4254.919468,2018,Population,Statut d'occupation du logement,POP
+08,2180565.618358,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+08,1735081.115584,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+08,170523.144404,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+08,234862.160774,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+08,9676.013742,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+08,30423.183855,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+09,72404.901714,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+09,47989.647441,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+09,17833.357156,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+09,3174.749042,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+09,1239.299253,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+09,2167.848822,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+09,148817.082105,2018,Population,Statut d'occupation du logement,POP
+09,101405.512864,2018,Population,Statut d'occupation du logement,POP
+09,34478.679416,2018,Population,Statut d'occupation du logement,POP
+09,6723.14521,2018,Population,Statut d'occupation du logement,POP
+09,1958.22632,2018,Population,Statut d'occupation du logement,POP
+09,4251.518295,2018,Population,Statut d'occupation du logement,POP
+09,1228991.406007,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+09,1058381.532894,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+09,109949.913053,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+09,28200.55754,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+09,5248.14386,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+09,27211.25866,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+10,141918.708312,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+10,82024.294562,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+10,26118.294383,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+10,28285.921004,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+10,2857.490547,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+10,2632.707816,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+10,301921.472818,2018,Population,Statut d'occupation du logement,POP
+10,183104.235603,2018,Population,Statut d'occupation du logement,POP
+10,49938.015601,2018,Population,Statut d'occupation du logement,POP
+10,60039.583702,2018,Population,Statut d'occupation du logement,POP
+10,3769.802427,2018,Population,Statut d'occupation du logement,POP
+10,5069.835485,2018,Population,Statut d'occupation du logement,POP
+10,2285957.331207,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+10,1810916.477214,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+10,152126.760705,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+10,279482.361567,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+10,9177.281226,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+10,34254.450494,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+11,174294.260148,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+11,108639.783434,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+11,42287.449321,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+11,15055.833364,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+11,3614.479141,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+11,4696.714887,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+11,363927.426913,2018,Population,Statut d'occupation du logement,POP
+11,231174.351731,2018,Population,Statut d'occupation du logement,POP
+11,83967.213665,2018,Population,Statut d'occupation du logement,POP
+11,33894.918441,2018,Population,Statut d'occupation du logement,POP
+11,5625.786632,2018,Population,Statut d'occupation du logement,POP
+11,9265.156442,2018,Population,Statut d'occupation du logement,POP
+11,2638432.032209,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+11,2189137.720863,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+11,229837.773648,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+11,146162.63449,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+11,14164.431085,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+11,59129.472123,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+12,130680.886022,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+12,90534.811199,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+12,27124.891842,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+12,7404.203458,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+12,2485.275703,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+12,3131.70382,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+12,270109.469916,2018,Population,Statut d'occupation du logement,POP
+12,196220.420329,2018,Population,Statut d'occupation du logement,POP
+12,48844.452765,2018,Population,Statut d'occupation du logement,POP
+12,15571.873948,2018,Population,Statut d'occupation du logement,POP
+12,3494.701256,2018,Population,Statut d'occupation du logement,POP
+12,5978.021618,2018,Population,Statut d'occupation du logement,POP
+12,2453262.640155,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+12,2166338.542965,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+12,154764.757919,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+12,74715.626052,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+12,10599.172532,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+12,46844.540688,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+13,908790.279249,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+13,461633.528092,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+13,251479.246636,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+13,136688.837726,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+13,34931.891487,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+13,24056.775308,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+13,1982757.263544,2018,Population,Statut d'occupation du logement,POP
+13,1038867.508206,2018,Population,Statut d'occupation du logement,POP
+13,510559.871035,2018,Population,Statut d'occupation du logement,POP
+13,332439.082841,2018,Population,Statut d'occupation du logement,POP
+13,51977.003645,2018,Population,Statut d'occupation du logement,POP
+13,48913.797816,2018,Population,Statut d'occupation du logement,POP
+13,13296626.483691,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+13,9108203.718005,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+13,1782079.093099,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+13,1969635.325847,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+13,134024.401729,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+13,302683.945011,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+14,315751.375788,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+14,179853.613466,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+14,68879.783466,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+14,53949.03126,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+14,7966.289096,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+14,5102.6585,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+14,676507.153686,2018,Population,Statut d'occupation du logement,POP
+14,414837.296955,2018,Population,Statut d'occupation du logement,POP
+14,123626.566931,2018,Population,Statut d'occupation du logement,POP
+14,117178.735035,2018,Population,Statut d'occupation du logement,POP
+14,10572.761358,2018,Population,Statut d'occupation du logement,POP
+14,10291.793407,2018,Population,Statut d'occupation du logement,POP
+14,4642503.467699,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+14,3522295.338919,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+14,394946.017277,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+14,641157.711526,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+14,27703.826262,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+14,56400.573715,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+15,68833.669843,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+15,48479.617687,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+15,12081.704505,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+15,5175.255381,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+15,1354.422592,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+15,1742.669678,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+15,139872.138576,2018,Population,Statut d'occupation du logement,POP
+15,102936.075046,2018,Population,Statut d'occupation du logement,POP
+15,21456.284559,2018,Population,Statut d'occupation du logement,POP
+15,10403.647115,2018,Population,Statut d'occupation du logement,POP
+15,1834.73127,2018,Population,Statut d'occupation du logement,POP
+15,3241.400586,2018,Population,Statut d'occupation du logement,POP
+15,1351199.315748,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+15,1176679.967528,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+15,92143.651024,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+15,50098.063658,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+15,6196.534166,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+15,26081.099372,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+16,164551.657022,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+16,109960.762746,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+16,34748.020442,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+16,14350.41393,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+16,2208.540719,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+16,3283.919185,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+16,342497.88998,2018,Population,Statut d'occupation du logement,POP
+16,238823.945732,2018,Population,Statut d'occupation du logement,POP
+16,65424.345859,2018,Population,Statut d'occupation du logement,POP
+16,28723.652951,2018,Population,Statut d'occupation du logement,POP
+16,3232.313332,2018,Population,Statut d'occupation du logement,POP
+16,6293.632106,2018,Population,Statut d'occupation du logement,POP
+16,2909104.393779,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+16,2505148.444463,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+16,207860.273507,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+16,136269.551843,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+16,8905.822071,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+16,50920.301895,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+17,308933.465879,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+17,201479.426038,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+17,67084.060033,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+17,24376.866946,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+17,9800.214385,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+17,6192.898478,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+17,631428.002353,2018,Population,Statut d'occupation du logement,POP
+17,430108.489939,2018,Population,Statut d'occupation du logement,POP
+17,128002.733402,2018,Population,Statut d'occupation du logement,POP
+17,48138.921701,2018,Population,Statut d'occupation du logement,POP
+17,13349.135758,2018,Population,Statut d'occupation du logement,POP
+17,11828.721552,2018,Population,Statut d'occupation du logement,POP
+17,4772958.347432,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+17,4012917.460634,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+17,383350.755117,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+17,265628.149781,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+17,30016.43752,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+17,81045.544381,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+18,142526.897734,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+18,95618.224215,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+18,24674.588677,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+18,17343.506232,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+18,2174.863661,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+18,2715.714947,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+18,295168.982592,2018,Population,Statut d'occupation du logement,POP
+18,204775.25012,2018,Population,Statut d'occupation du logement,POP
+18,46844.500936,2018,Population,Statut d'occupation du logement,POP
+18,35360.693371,2018,Population,Statut d'occupation du logement,POP
+18,3053.861975,2018,Population,Statut d'occupation du logement,POP
+18,5134.676189,2018,Population,Statut d'occupation du logement,POP
+18,2506293.060587,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+18,2122798.653436,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+18,162122.327664,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+18,177119.996976,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+18,9601.624236,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+18,34650.458276,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+19,114177.62294,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+19,78163.500754,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+19,23426.69701,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+19,8171.086337,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+19,1726.653981,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+19,2689.684857,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+19,231988.941849,2018,Population,Statut d'occupation du logement,POP
+19,164850.522751,2018,Population,Statut d'occupation du logement,POP
+19,41874.824008,2018,Population,Statut d'occupation du logement,POP
+19,17665.987305,2018,Population,Statut d'occupation du logement,POP
+19,2527.015735,2018,Population,Statut d'occupation du logement,POP
+19,5070.59205,2018,Population,Statut d'occupation du logement,POP
+19,2105146.117012,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+19,1817148.05193,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+19,160685.722673,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+19,81007.150985,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+19,8033.407684,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+19,38271.783741,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+21,249765.240288,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+21,149518.918352,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+21,54453.160139,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+21,32359.822359,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+21,8032.811481,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+21,5400.527958,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+21,517314.85529,2018,Population,Statut d'occupation du logement,POP
+21,332382.817837,2018,Population,Statut d'occupation du logement,POP
+21,93120.65,2018,Population,Statut d'occupation du logement,POP
+21,70939.039615,2018,Population,Statut d'occupation du logement,POP
+21,10415.915295,2018,Population,Statut d'occupation du logement,POP
+21,10456.432543,2018,Population,Statut d'occupation du logement,POP
+21,3817155.73911,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+21,3109997.678284,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+21,290071.85848,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+21,334719.19927,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+21,22394.587587,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+21,59972.415489,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+22,277289.857791,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+22,197210.827473,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+22,50835.11949,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+22,20519.584271,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+22,4813.867721,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+22,3910.458836,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+22,584582.091161,2018,Population,Statut d'occupation du logement,POP
+22,434815.363565,2018,Population,Statut d'occupation du logement,POP
+22,96356.01702,2018,Population,Statut d'occupation du logement,POP
+22,39183.492204,2018,Population,Statut d'occupation du logement,POP
+22,6801.158555,2018,Population,Statut d'occupation du logement,POP
+22,7426.059817,2018,Population,Statut d'occupation du logement,POP
+22,4708422.221266,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+22,4180575.928385,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+22,279783.33892,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+22,182317.421003,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+22,17325.373824,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+22,48420.159134,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+23,57456.759037,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+23,41682.123586,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+23,8793.810805,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+23,4514.310471,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+23,679.271511,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+23,1787.242664,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+23,113545.079779,2018,Population,Statut d'occupation du logement,POP
+23,84926.204143,2018,Population,Statut d'occupation du logement,POP
+23,16083.746284,2018,Population,Statut d'occupation du logement,POP
+23,8313.654451,2018,Population,Statut d'occupation du logement,POP
+23,1035.421118,2018,Population,Statut d'occupation du logement,POP
+23,3186.053782,2018,Population,Statut d'occupation du logement,POP
+23,1195200.183184,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+23,1053425.828438,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+23,61114.10465,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+23,47672.358082,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+23,3607.3466,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+23,29380.545415,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+24,195895.699159,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+24,134125.160904,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+24,41107.372716,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+24,12188.107425,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+24,3245.993188,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+24,5229.064926,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+24,401161.02347,2018,Population,Statut d'occupation du logement,POP
+24,284121.661134,2018,Population,Statut d'occupation du logement,POP
+24,77462.594962,2018,Population,Statut d'occupation du logement,POP
+24,24670.873566,2018,Population,Statut d'occupation du logement,POP
+24,4933.580191,2018,Population,Statut d'occupation du logement,POP
+24,9972.313617,2018,Population,Statut d'occupation du logement,POP
+24,3423016.373022,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+24,2957353.042398,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+24,256092.946202,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+24,116257.708657,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+24,14447.605447,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+24,78865.070317,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+25,245757.018335,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+25,146024.862468,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+25,55580.566936,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+25,32031.806834,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+25,7428.089588,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+25,4691.692508,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+25,529591.053236,2018,Population,Statut d'occupation du logement,POP
+25,336950.246837,2018,Population,Statut d'occupation du logement,POP
+25,101974.953364,2018,Population,Statut d'occupation du logement,POP
+25,72058.94064,2018,Population,Statut d'occupation du logement,POP
+25,10022.666862,2018,Population,Statut d'occupation du logement,POP
+25,8584.245533,2018,Population,Statut d'occupation du logement,POP
+25,3837194.040382,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+25,3095760.003349,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+25,312219.725045,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+25,339849.580688,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+25,25441.063848,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+25,63923.667451,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+26,229776.962504,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+26,142117.112498,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+26,52423.152454,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+26,24920.987263,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+26,5155.760013,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+26,5159.950275,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+26,504726.766476,2018,Population,Statut d'occupation du logement,POP
+26,326651.117721,2018,Population,Statut d'occupation du logement,POP
+26,103253.031332,2018,Population,Statut d'occupation du logement,POP
+26,57047.107488,2018,Population,Statut d'occupation du logement,POP
+26,7356.160495,2018,Population,Statut d'occupation du logement,POP
+26,10419.349439,2018,Population,Statut d'occupation du logement,POP
+26,3486271.977818,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+26,2852530.002176,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+26,310791.386012,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+26,240981.557995,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+26,18941.011912,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+26,63028.019724,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+27,253986.371001,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+27,165878.880178,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+27,44860.073326,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+27,36529.275251,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+27,2476.838817,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+27,4241.303429,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+27,587579.363577,2018,Population,Statut d'occupation du logement,POP
+27,398702.319574,2018,Population,Statut d'occupation du logement,POP
+27,91520.687075,2018,Population,Statut d'occupation du logement,POP
+27,84102.119957,2018,Population,Statut d'occupation du logement,POP
+27,4390.312875,2018,Population,Statut d'occupation du logement,POP
+27,8863.924096,2018,Population,Statut d'occupation du logement,POP
+27,4044780.811784,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+27,3330801.524969,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+27,282884.078704,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+27,363399.158706,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+27,14514.354217,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+27,53181.695189,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+28,185040.002384,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+28,122547.658614,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+28,29210.24544,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+28,28598.73506,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+28,1866.036802,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+28,2817.326468,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+28,423010.254746,2018,Population,Statut d'occupation du logement,POP
+28,290291.954373,2018,Population,Statut d'occupation du logement,POP
+28,58292.412967,2018,Population,Statut d'occupation du logement,POP
+28,65633.309812,2018,Population,Statut d'occupation du logement,POP
+28,2999.166074,2018,Population,Statut d'occupation du logement,POP
+28,5793.411519,2018,Population,Statut d'occupation du logement,POP
+28,3061416.532727,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+28,2529658.6731,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+28,164292.498931,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+28,323082.057443,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+28,9933.745814,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+28,34449.557439,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+29,430088.010368,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+29,296333.203129,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+29,74652.24319,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+29,43124.54285,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+29,9628.627157,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+29,6349.394042,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+29,887343.987146,2018,Population,Statut d'occupation du logement,POP
+29,648878.146428,2018,Population,Statut d'occupation du logement,POP
+29,133722.083914,2018,Population,Statut d'occupation du logement,POP
+29,79705.471951,2018,Population,Statut d'occupation du logement,POP
+29,13242.312799,2018,Population,Statut d'occupation du logement,POP
+29,11795.972055,2018,Population,Statut d'occupation du logement,POP
+29,7200576.366234,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+29,6328798.557858,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+29,352785.243374,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+29,413189.734316,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+29,31232.606957,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+29,74570.223729,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+30,336215.809096,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+30,198647.438163,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+30,87172.904629,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+30,33738.072509,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+30,7670.234277,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+30,8987.159519,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+30,729782.505927,2018,Population,Statut d'occupation du logement,POP
+30,447117.928291,2018,Population,Statut d'occupation du logement,POP
+30,174711.851279,2018,Population,Statut d'occupation du logement,POP
+30,78364.706985,2018,Population,Statut d'occupation du logement,POP
+30,11517.595717,2018,Population,Statut d'occupation du logement,POP
+30,18070.423656,2018,Population,Statut d'occupation du logement,POP
+30,5010515.071994,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+30,3940093.439691,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+30,539992.270079,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+30,384102.764164,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+30,29893.48028,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+30,116433.11778,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+31,643337.928889,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+31,336415.009755,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+31,190758.659903,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+31,70152.245556,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+31,33107.746548,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+31,12904.267128,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+31,1353697.341315,2018,Population,Statut d'occupation du logement,POP
+31,776729.353785,2018,Population,Statut d'occupation du logement,POP
+31,345403.517185,2018,Population,Statut d'occupation du logement,POP
+31,163071.034929,2018,Population,Statut d'occupation du logement,POP
+31,44381.009604,2018,Population,Statut d'occupation du logement,POP
+31,24112.425812,2018,Population,Statut d'occupation du logement,POP
+31,8157958.54499,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+31,6363030.336222,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+31,934919.424193,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+31,627991.644234,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+31,93208.989689,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+31,138808.150651,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+32,88771.420035,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+32,61135.44581,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+32,18771.725581,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+32,4964.047846,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+32,1297.058695,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+32,2603.142104,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+32,186472.166692,2018,Population,Statut d'occupation du logement,POP
+32,133729.882829,2018,Population,Statut d'occupation du logement,POP
+32,35328.575053,2018,Population,Statut d'occupation du logement,POP
+32,10515.419134,2018,Population,Statut d'occupation du logement,POP
+32,1965.412883,2018,Population,Statut d'occupation du logement,POP
+32,4932.876793,2018,Population,Statut d'occupation du logement,POP
+32,1664094.692688,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+32,1448558.340757,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+32,119721.696915,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+32,45263.184594,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+32,5442.293295,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+32,45109.177126,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+33,740536.267066,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+33,404880.836195,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+33,202519.573753,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+33,93626.310176,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+33,24167.854921,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+33,15341.692021,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+33,1572790.571981,2018,Population,Statut d'occupation du logement,POP
+33,932383.936616,2018,Population,Statut d'occupation du logement,POP
+33,371299.329093,2018,Population,Statut d'occupation du logement,POP
+33,205576.201572,2018,Population,Statut d'occupation du logement,POP
+33,33295.765581,2018,Population,Statut d'occupation du logement,POP
+33,30235.339118,2018,Population,Statut d'occupation du logement,POP
+33,10097439.443134,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+33,7813863.330479,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+33,1069921.067893,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+33,953739.50101,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+33,70316.420751,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+33,189599.123001,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+34,543017.361803,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+34,288852.061124,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+34,160214.991954,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+34,54732.211721,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+34,25975.002711,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+34,13243.094293,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+34,1134713.435153,2018,Population,Statut d'occupation du logement,POP
+34,635041.00661,2018,Population,Statut d'occupation du logement,POP
+34,305927.649452,2018,Population,Statut d'occupation du logement,POP
+34,131280.741139,2018,Population,Statut d'occupation du logement,POP
+34,36607.205547,2018,Population,Statut d'occupation du logement,POP
+34,25856.832405,2018,Population,Statut d'occupation du logement,POP
+34,6903398.689476,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+34,5237032.086844,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+34,861672.619495,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+34,588966.504624,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+34,73116.751796,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+34,142610.726716,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+35,478061.025303,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+35,285842.755915,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+35,109532.43334,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+35,63305.187608,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+35,13767.542977,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+35,5613.105463,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+35,1041229.067033,2018,Population,Statut d'occupation du logement,POP
+35,683170.97997,2018,Population,Statut d'occupation du logement,POP
+35,201246.467901,2018,Population,Statut d'occupation du logement,POP
+35,127019.904138,2018,Population,Statut d'occupation du logement,POP
+35,18853.260608,2018,Population,Statut d'occupation du logement,POP
+35,10938.454415,2018,Population,Statut d'occupation du logement,POP
+35,6651544.419265,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+35,5462463.404666,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+35,499326.027208,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+35,595006.763497,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+35,37368.536651,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+35,57379.687244,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+36,105675.138236,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+36,72024.874484,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+36,15705.517731,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+36,14708.985338,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+36,1117.54698,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+36,2118.213703,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+36,214009.811656,2018,Population,Statut d'occupation du logement,POP
+36,151016.913097,2018,Population,Statut d'occupation du logement,POP
+36,29339.497341,2018,Population,Statut d'occupation du logement,POP
+36,28073.748651,2018,Population,Statut d'occupation du logement,POP
+36,1624.013915,2018,Population,Statut d'occupation du logement,POP
+36,3955.638653,2018,Population,Statut d'occupation du logement,POP
+36,1991796.433806,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+36,1704634.254207,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+36,106390.706695,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+36,144508.417828,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+36,6392.985782,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+36,29870.069294,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+37,281840.578258,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+37,166603.47844,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+37,57568.72781,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+37,46315.385524,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+37,7111.152791,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+37,4241.833692,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+37,592491.35033,2018,Population,Statut d'occupation du logement,POP
+37,378542.727894,2018,Population,Statut d'occupation du logement,POP
+37,102790.369421,2018,Population,Statut d'occupation du logement,POP
+37,94075.23986,2018,Population,Statut d'occupation du logement,POP
+37,8992.252908,2018,Population,Statut d'occupation du logement,POP
+37,8090.760248,2018,Population,Statut d'occupation du logement,POP
+37,4247472.830072,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+37,3378855.288607,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+37,300780.400402,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+37,497132.931969,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+37,23675.508445,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+37,47028.70065,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+38,548468.413123,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+38,335274.187549,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+38,107732.980066,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+38,75333.659736,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+38,19248.267798,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+38,10879.317974,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+38,1239799.974296,2018,Population,Statut d'occupation du logement,POP
+38,801481.897912,2018,Population,Statut d'occupation du logement,POP
+38,211350.383134,2018,Population,Statut d'occupation du logement,POP
+38,177756.763444,2018,Population,Statut d'occupation du logement,POP
+38,27575.990826,2018,Population,Statut d'occupation du logement,POP
+38,21634.93898,2018,Population,Statut d'occupation du logement,POP
+38,8226902.351002,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+38,6620170.204221,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+38,595922.405591,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+38,821538.347986,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+38,62384.424176,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+38,126886.969028,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+39,119876.975615,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+39,78841.162426,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+39,23515.799827,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+39,12672.608029,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+39,2258.837023,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+39,2588.568311,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+39,254109.456853,2018,Population,Statut d'occupation du logement,POP
+39,176472.086748,2018,Population,Statut d'occupation du logement,POP
+39,43339.450544,2018,Population,Statut d'occupation du logement,POP
+39,26252.744936,2018,Population,Statut d'occupation du logement,POP
+39,3188.223782,2018,Population,Statut d'occupation du logement,POP
+39,4856.950844,2018,Population,Statut d'occupation du logement,POP
+39,2081460.185479,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+39,1749497.596532,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+39,144500.613285,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+39,141493.453417,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+39,8603.710752,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+39,37364.811493,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+40,188793.207826,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+40,124480.248359,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+40,44545.90457,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+40,11955.706933,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+40,3444.170458,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+40,4367.177507,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+40,401032.819251,2018,Population,Statut d'occupation du logement,POP
+40,275811.137984,2018,Population,Statut d'occupation du logement,POP
+40,86525.24882,2018,Population,Statut d'occupation du logement,POP
+40,24972.228989,2018,Population,Statut d'occupation du logement,POP
+40,5347.962262,2018,Population,Statut d'occupation du logement,POP
+40,8376.241196,2018,Population,Statut d'occupation du logement,POP
+40,3010145.08084,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+40,2529417.235288,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+40,290968.542303,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+40,117806.771547,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+40,14547.519522,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+40,57405.012181,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+41,150035.946225,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+41,102470.042313,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+41,24923.401907,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+41,17826.130462,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+41,2082.873388,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+41,2733.498154,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+41,320595.801358,2018,Population,Statut d'occupation du logement,POP
+41,225791.285314,2018,Population,Statut d'occupation du logement,POP
+41,46773.011083,2018,Population,Statut d'occupation du logement,POP
+41,39586.681263,2018,Population,Statut d'occupation du logement,POP
+41,2943.179968,2018,Population,Statut d'occupation du logement,POP
+41,5501.643731,2018,Population,Statut d'occupation du logement,POP
+41,2585761.164181,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+41,2217330.197345,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+41,152072.737184,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+41,175385.968663,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+41,7710.137445,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+41,33262.123544,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+42,341580.845671,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+42,200546.105966,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+42,75960.65028,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+42,51664.62038,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+42,7805.863984,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+42,5603.60506,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+42,745141.809876,2018,Population,Statut d'occupation du logement,POP
+42,469810.602912,2018,Population,Statut d'occupation du logement,POP
+42,144566.641252,2018,Population,Statut d'occupation du logement,POP
+42,109345.175657,2018,Population,Statut d'occupation du logement,POP
+42,10819.908795,2018,Population,Statut d'occupation du logement,POP
+42,10599.48126,2018,Population,Statut d'occupation du logement,POP
+42,5447181.514078,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+42,4232716.907813,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+42,521689.932169,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+42,583843.774425,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+42,27676.509889,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+42,81254.389782,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+43,102719.388328,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+43,71944.25928,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+43,19935.541468,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+43,6840.54241,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+43,1702.927997,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+43,2296.117173,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+43,221571.730475,2018,Population,Statut d'occupation du logement,POP
+43,164445.479124,2018,Population,Statut d'occupation du logement,POP
+43,37283.343839,2018,Population,Statut d'occupation du logement,POP
+43,13099.680626,2018,Population,Statut d'occupation du logement,POP
+43,2329.319836,2018,Population,Statut d'occupation du logement,POP
+43,4413.907051,2018,Population,Statut d'occupation du logement,POP
+43,1824394.046688,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+43,1581217.558542,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+43,131379.45331,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+43,70195.993749,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+43,7791.388694,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+43,33809.652393,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+44,631802.650463,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+44,390098.971809,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+44,138928.957343,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+44,75724.741888,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+44,19735.494611,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+44,7314.484812,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+44,1382203.930208,2018,Population,Statut d'occupation du logement,POP
+44,928565.424852,2018,Population,Statut d'occupation du logement,POP
+44,251895.488566,2018,Population,Statut d'occupation du logement,POP
+44,161288.099461,2018,Population,Statut d'occupation du logement,POP
+44,26114.308892,2018,Population,Statut d'occupation du logement,POP
+44,14340.608437,2018,Population,Statut d'occupation du logement,POP
+44,8898748.434616,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+44,7401601.610922,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+44,622259.275165,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+44,747724.402047,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+44,52717.875056,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+44,74445.271427,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+45,298950.464154,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+45,185071.83078,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+45,57251.827375,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+45,44063.152273,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+45,7496.981301,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+45,5066.672425,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+45,664022.422166,2018,Population,Statut d'occupation du logement,POP
+45,427099.04528,2018,Population,Statut d'occupation du logement,POP
+45,111011.650962,2018,Population,Statut d'occupation du logement,POP
+45,105117.679319,2018,Population,Statut d'occupation du logement,POP
+45,10283.167145,2018,Population,Statut d'occupation du logement,POP
+45,10510.87946,2018,Population,Statut d'occupation du logement,POP
+45,4606146.441908,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+45,3757474.613859,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+45,318218.441977,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+45,447580.19241,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+45,24880.893643,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+45,57992.30002,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+46,84060.533094,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+46,58634.30423,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+46,16669.106533,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+46,4781.75754,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+46,1643.037792,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+46,2332.327,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+46,169474.175526,2018,Population,Statut d'occupation du logement,POP
+46,122553.175843,2018,Population,Statut d'occupation du logement,POP
+46,30711.206024,2018,Population,Statut d'occupation du logement,POP
+46,9439.173285,2018,Population,Statut d'occupation du logement,POP
+46,2400.406927,2018,Population,Statut d'occupation du logement,POP
+46,4370.213447,2018,Population,Statut d'occupation du logement,POP
+46,1499076.176569,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+46,1321327.488756,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+46,99825.166647,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+46,40315.998463,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+46,7097.533918,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+46,30509.988784,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+47,153366.714376,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+47,98850.369999,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+47,38426.317709,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+47,9867.895688,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+47,2465.254424,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+47,3756.876556,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+47,323359.673932,2018,Population,Statut d'occupation du logement,POP
+47,216864.257266,2018,Population,Statut d'occupation du logement,POP
+47,76179.219498,2018,Population,Statut d'occupation du logement,POP
+47,19725.359239,2018,Population,Statut d'occupation du logement,POP
+47,3640.098709,2018,Population,Statut d'occupation du logement,POP
+47,6950.73922,2018,Population,Statut d'occupation du logement,POP
+47,2572984.916168,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+47,2175500.947273,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+47,239916.295571,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+47,92561.505988,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+47,10269.736765,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+47,54736.43057,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+48,35191.094544,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+48,23091.401681,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+48,6886.925957,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+48,2525.880381,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+48,1398.100572,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+48,1288.785952,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+48,72352.344023,2018,Population,Statut d'occupation du logement,POP
+48,50056.397964,2018,Population,Statut d'occupation du logement,POP
+48,12808.940587,2018,Population,Statut d'occupation du logement,POP
+48,5122.95716,2018,Population,Statut d'occupation du logement,POP
+48,1900.894441,2018,Population,Statut d'occupation du logement,POP
+48,2463.15387,2018,Population,Statut d'occupation du logement,POP
+48,627358.546622,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+48,539824.810821,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+48,43520.032052,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+48,22857.778108,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+48,5198.738689,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+48,15957.186953,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+49,358513.043933,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+49,216306.028632,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+49,69447.834082,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+49,60246.771031,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+49,8948.484171,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+49,3563.926016,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+49,795247.79825,2018,Population,Statut d'occupation du logement,POP
+49,525866.615916,2018,Population,Statut d'occupation du logement,POP
+49,125787.957586,2018,Population,Statut d'occupation du logement,POP
+49,124923.856208,2018,Population,Statut d'occupation du logement,POP
+49,11651.246791,2018,Population,Statut d'occupation du logement,POP
+49,7018.121749,2018,Population,Statut d'occupation du logement,POP
+49,5454079.495268,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+49,4416408.573308,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+49,350501.379206,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+49,616006.805632,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+49,27956.515282,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+49,43206.221839,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+50,228960.57483,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+50,145341.18983,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+50,43406.167992,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+50,34366.241478,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+50,2921.809383,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+50,2925.166147,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+50,484661.847588,2018,Population,Statut d'occupation du logement,POP
+50,325654.014186,2018,Population,Statut d'occupation du logement,POP
+50,83293.855113,2018,Population,Statut d'occupation du logement,POP
+50,65652.729684,2018,Population,Statut d'occupation du logement,POP
+50,4168.023252,2018,Population,Statut d'occupation du logement,POP
+50,5893.225352,2018,Population,Statut d'occupation du logement,POP
+50,3818974.589257,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+50,3069388.457603,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+50,285552.114032,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+50,408909.750653,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+50,14510.664853,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+50,40613.602116,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+51,260554.214036,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+51,134764.928949,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+51,49734.06946,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+51,63511.277447,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+51,7781.091799,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+51,4762.846381,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+51,553751.013115,2018,Population,Statut d'occupation du logement,POP
+51,306975.830092,2018,Population,Statut d'occupation du logement,POP
+51,90615.393676,2018,Population,Statut d'occupation du logement,POP
+51,136620.359658,2018,Population,Statut d'occupation du logement,POP
+51,10027.025103,2018,Population,Statut d'occupation du logement,POP
+51,9512.404585,2018,Population,Statut d'occupation du logement,POP
+51,4010408.908943,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+51,2928468.526316,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+51,271530.229759,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+51,726505.661887,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+51,26692.80681,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+51,57211.684173,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+52,81254.289215,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+52,52532.944487,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+52,12719.402381,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+52,13313.622151,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+52,974.303161,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+52,1714.017035,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+52,168848.08708,2018,Population,Statut d'occupation du logement,POP
+52,113337.263424,2018,Population,Statut d'occupation du logement,POP
+52,25490.327815,2018,Population,Statut d'occupation du logement,POP
+52,25211.2777,2018,Population,Statut d'occupation du logement,POP
+52,1468.213572,2018,Population,Statut d'occupation du logement,POP
+52,3341.00457,2018,Population,Statut d'occupation du logement,POP
+52,1586064.784186,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+52,1329710.066809,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+52,84488.246922,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+52,143337.222111,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+52,4752.217534,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+52,23777.030809,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+53,134870.351866,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+53,90015.387704,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+53,26699.623985,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+53,14246.992966,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+53,2399.545985,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+53,1508.801227,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+53,299516.311762,2018,Population,Statut d'occupation du logement,POP
+53,213881.572725,2018,Population,Statut d'occupation du logement,POP
+53,51421.210473,2018,Population,Statut d'occupation du logement,POP
+53,28123.763218,2018,Population,Statut d'occupation du logement,POP
+53,3093.572363,2018,Population,Statut d'occupation du logement,POP
+53,2996.192983,2018,Population,Statut d'occupation du logement,POP
+53,2210900.606341,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+53,1869729.15807,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+53,172589.186414,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+53,142600.924926,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+53,8174.457207,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+53,17806.879723,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+54,335359.133979,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+54,192303.052823,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+54,82744.119524,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+54,45103.356416,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+54,9543.593581,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+54,5665.011634,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+54,714134.619135,2018,Population,Statut d'occupation du logement,POP
+54,442893.168088,2018,Population,Statut d'occupation du logement,POP
+54,148928.48807,2018,Population,Statut d'occupation du logement,POP
+54,99270.003935,2018,Population,Statut d'occupation du logement,POP
+54,12585.899744,2018,Population,Statut d'occupation du logement,POP
+54,10457.0593,2018,Population,Statut d'occupation du logement,POP
+54,5271483.000021,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+54,4173724.905247,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+54,493796.858181,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+54,500237.435389,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+54,31597.738876,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+54,72126.062328,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+55,83213.642495,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+55,56131.5412,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+55,16173.183901,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+55,8111.933223,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+55,848.108639,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+55,1948.875533,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+55,179913.335622,2018,Population,Statut d'occupation du logement,POP
+55,125958.963659,2018,Population,Statut d'occupation du logement,POP
+55,32564.103422,2018,Population,Statut d'occupation du logement,POP
+55,16417.938699,2018,Population,Statut d'occupation du logement,POP
+55,1303.174542,2018,Population,Statut d'occupation du logement,POP
+55,3669.1553,2018,Population,Statut d'occupation du logement,POP
+55,1544635.774287,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+55,1314689.207315,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+55,106567.788183,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+55,91571.49229,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+55,4830.504096,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+55,26976.782403,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+56,350465.143088,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+56,237242.470766,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+56,67544.049797,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+56,33935.90949,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+56,7014.81744,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+56,4727.895594,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+56,737150.011166,2018,Population,Statut d'occupation du logement,POP
+56,524621.594113,2018,Population,Statut d'occupation du logement,POP
+56,127449.00146,2018,Population,Statut d'occupation du logement,POP
+56,66066.989665,2018,Population,Statut d'occupation du logement,POP
+56,9973.435993,2018,Population,Statut d'occupation du logement,POP
+56,9038.989934,2018,Population,Statut d'occupation du logement,POP
+56,5536636.827322,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+56,4796941.683606,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+56,343854.786281,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+56,317485.697082,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+56,23930.932957,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+56,54423.727396,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+57,460366.813479,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+57,275404.921922,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+57,105033.158747,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+57,59658.67907,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+57,7919.661656,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+57,12350.392084,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+57,1019285.496993,2018,Population,Statut d'occupation du logement,POP
+57,643061.333758,2018,Population,Statut d'occupation du logement,POP
+57,203436.153327,2018,Population,Statut d'occupation du logement,POP
+57,136372.596171,2018,Population,Statut d'occupation du logement,POP
+57,12113.428378,2018,Population,Statut d'occupation du logement,POP
+57,24301.985359,2018,Population,Statut d'occupation du logement,POP
+57,8125688.781111,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+57,6363702.636349,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+57,747245.008373,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+57,737918.655849,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+57,38861.138513,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+57,237961.342027,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+58,100743.249512,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+58,68074.949939,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+58,18383.040705,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+58,10444.467715,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+58,1525.089599,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+58,2315.701555,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+58,199433.992363,2018,Population,Statut d'occupation du logement,POP
+58,140059.102995,2018,Population,Statut d'occupation du logement,POP
+58,33066.171984,2018,Population,Statut d'occupation du logement,POP
+58,19784.064856,2018,Population,Statut d'occupation du logement,POP
+58,2102.001062,2018,Population,Statut d'occupation du logement,POP
+58,4422.651466,2018,Population,Statut d'occupation du logement,POP
+58,1827420.794519,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+58,1544314.285381,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+58,136074.500165,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+58,108242.287021,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+58,7019.372613,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+58,31770.34934,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+59,1111650.581572,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+59,608272.596467,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+59,220376.648078,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+59,234807.003079,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+59,31585.967971,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+59,16608.365976,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+59,2554650.223295,2018,Population,Statut d'occupation du logement,POP
+59,1483785.978939,2018,Population,Statut d'occupation du logement,POP
+59,450388.918852,2018,Population,Statut d'occupation du logement,POP
+59,542802.992022,2018,Population,Statut d'occupation du logement,POP
+59,44578.592501,2018,Population,Statut d'occupation du logement,POP
+59,33093.740981,2018,Population,Statut d'occupation du logement,POP
+59,17414560.160092,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+59,12931026.057567,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+59,1325969.40138,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+59,2785573.225011,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+59,112889.668734,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+59,259101.8074,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+60,340146.455777,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+60,208862.305804,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+60,58188.119655,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+60,60894.360482,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+60,6084.220484,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+60,6117.449353,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+60,808611.92038,2018,Population,Statut d'occupation du logement,POP
+60,515766.787085,2018,Population,Statut d'occupation du logement,POP
+60,121388.548088,2018,Population,Statut d'occupation du logement,POP
+60,148294.485633,2018,Population,Statut d'occupation du logement,POP
+60,9893.836648,2018,Population,Statut d'occupation du logement,POP
+60,13268.262926,2018,Population,Statut d'occupation du logement,POP
+60,5361156.22411,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+60,4185512.367175,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+60,336975.5662,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+60,738454.375417,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+60,27400.634692,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+60,72813.280626,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+61,129524.210537,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+61,83280.308567,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+61,24783.781452,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+61,18099.590508,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+61,1241.662421,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+61,2118.86759,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+61,272727.579254,2018,Population,Statut d'occupation du logement,POP
+61,183829.91722,2018,Population,Statut d'occupation du logement,POP
+61,46866.394691,2018,Population,Statut d'occupation du logement,POP
+61,35999.250895,2018,Population,Statut d'occupation du logement,POP
+61,1870.565053,2018,Population,Statut d'occupation du logement,POP
+61,4161.451395,2018,Population,Statut d'occupation du logement,POP
+61,2250976.36178,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+61,1861431.382655,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+61,168080.93237,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+61,186655.433009,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+61,6406.793388,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+61,28401.820359,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+62,617546.855164,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+62,356654.897515,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+62,116163.412322,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+62,125483.638224,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+62,8394.674486,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+62,10850.232617,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+62,1439500.337865,2018,Population,Statut d'occupation du logement,POP
+62,859799.836234,2018,Population,Statut d'occupation du logement,POP
+62,257913.437913,2018,Population,Statut d'occupation du logement,POP
+62,287607.976838,2018,Population,Statut d'occupation du logement,POP
+62,12856.33561,2018,Population,Statut d'occupation du logement,POP
+62,21322.75127,2018,Population,Statut d'occupation du logement,POP
+62,10764923.786068,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+62,8077786.310258,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+62,885519.841564,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+62,1518850.341086,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+62,45853.921344,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+62,236913.371816,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+63,309808.425769,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+63,190681.32548,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+63,64809.515329,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+63,37224.257124,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+63,10404.465228,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+63,6688.862608,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+63,639621.115642,2018,Population,Statut d'occupation du logement,POP
+63,420735.224677,2018,Population,Statut d'occupation du logement,POP
+63,113056.35685,2018,Population,Statut d'occupation du logement,POP
+63,80070.84429,2018,Population,Statut d'occupation du logement,POP
+63,12945.810607,2018,Population,Statut d'occupation du logement,POP
+63,12812.879218,2018,Population,Statut d'occupation du logement,POP
+63,4962540.82603,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+63,4080026.874449,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+63,368410.476375,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+63,398447.361746,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+63,33600.896372,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+63,82055.217088,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+64,320924.173237,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+64,196860.017165,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+64,73608.234601,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+64,32804.318093,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+64,9985.7421,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+64,7665.861278,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+64,662823.622431,2018,Population,Statut d'occupation du logement,POP
+64,434061.286939,2018,Population,Statut d'occupation du logement,POP
+64,134806.498436,2018,Population,Statut d'occupation du logement,POP
+64,65108.069608,2018,Population,Statut d'occupation du logement,POP
+64,14318.098319,2018,Population,Statut d'occupation du logement,POP
+64,14529.669129,2018,Population,Statut d'occupation du logement,POP
+64,5234190.546741,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+64,4266067.816723,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+64,441427.960907,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+64,379687.01134,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+64,33552.709041,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+64,113455.048729,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+65,109301.968113,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+65,70960.489788,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+65,22160.335277,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+65,11007.717374,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+65,2464.193484,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+65,2709.232189,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+65,221606.287455,2018,Population,Statut d'occupation du logement,POP
+65,151971.287065,2018,Population,Statut d'occupation du logement,POP
+65,39986.894273,2018,Population,Statut d'occupation du logement,POP
+65,21142.216207,2018,Population,Statut d'occupation du logement,POP
+65,3324.342876,2018,Population,Statut d'occupation du logement,POP
+65,5181.547034,2018,Population,Statut d'occupation du logement,POP
+65,2010612.965278,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+65,1702602.267708,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+65,140405.045282,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+65,113630.032347,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+65,10435.197616,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+65,43540.422325,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+66,224381.809006,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+66,133897.370752,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+66,57321.324187,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+66,20480.827344,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+66,6319.92139,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+66,6362.365333,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+66,466192.428801,2018,Population,Statut d'occupation du logement,POP
+66,282482.369842,2018,Population,Statut d'occupation du logement,POP
+66,113609.649546,2018,Population,Statut d'occupation du logement,POP
+66,48045.086149,2018,Population,Statut d'occupation du logement,POP
+66,9651.173636,2018,Population,Statut d'occupation du logement,POP
+66,12404.149627,2018,Population,Statut d'occupation du logement,POP
+66,3110458.38821,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+66,2471910.777462,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+66,355733.636945,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+66,185794.728342,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+66,23898.831018,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+66,73120.414443,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+67,499905.411054,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+67,281666.023392,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+67,133616.178586,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+67,57470.974084,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+67,15807.340896,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+67,11344.894096,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+67,1110081.029177,2018,Population,Statut d'occupation du logement,POP
+67,663537.669389,2018,Population,Statut d'occupation du logement,POP
+67,258102.990031,2018,Population,Statut d'occupation du logement,POP
+67,143672.694906,2018,Population,Statut d'occupation du logement,POP
+67,22395.957876,2018,Population,Statut d'occupation du logement,POP
+67,22371.716975,2018,Population,Statut d'occupation du logement,POP
+67,8426682.427547,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+67,6575345.428847,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+67,895626.593325,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+67,721313.500569,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+67,58454.839035,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+67,175942.065771,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+68,333661.276146,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+68,201780.905845,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+68,75996.323674,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+68,43160.498813,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+68,5943.094647,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+68,6780.453166,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+68,748597.883735,2018,Population,Statut d'occupation du logement,POP
+68,471197.365764,2018,Population,Statut d'occupation du logement,POP
+68,152490.819486,2018,Population,Statut d'occupation du logement,POP
+68,102121.032014,2018,Population,Statut d'occupation du logement,POP
+68,9143.458988,2018,Population,Statut d'occupation du logement,POP
+68,13645.207483,2018,Population,Statut d'occupation du logement,POP
+68,5787245.961421,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+68,4621302.648306,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+68,520471.125649,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+68,510030.020926,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+68,27721.476382,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+68,107720.690157,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+69,829300.302159,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+69,401251.959183,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+69,225697.837125,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+69,143965.953787,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+69,42574.85385,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+69,15809.698214,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+69,1816641.974785,2018,Population,Statut d'occupation du logement,POP
+69,944742.702104,2018,Population,Statut d'occupation du logement,POP
+69,427159.920202,2018,Population,Statut d'occupation du logement,POP
+69,355911.792514,2018,Population,Statut d'occupation du logement,POP
+69,58438.482489,2018,Population,Statut d'occupation du logement,POP
+69,30389.077475,2018,Population,Statut d'occupation du logement,POP
+69,10919994.628312,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+69,7419243.271778,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+69,1367066.080393,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+69,1833899.185954,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+69,124871.418371,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+69,174914.671816,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+70,106579.240324,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+70,73252.34421,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+70,19816.30029,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+70,10294.682133,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+70,1015.103323,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+70,2200.810368,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+70,231141.280387,2018,Population,Statut d'occupation du logement,POP
+70,165523.275768,2018,Population,Statut d'occupation du logement,POP
+70,39474.495176,2018,Population,Statut d'occupation du logement,POP
+70,20312.03543,2018,Population,Statut d'occupation du logement,POP
+70,1612.509152,2018,Population,Statut d'occupation du logement,POP
+70,4218.964863,2018,Population,Statut d'occupation du logement,POP
+70,1953384.412285,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+70,1675242.773074,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+70,130361.782436,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+70,108763.160059,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+70,5411.343079,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+70,33605.353638,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+71,256157.914539,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+71,164130.591956,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+71,48762.871849,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+71,35067.495851,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+71,3560.286335,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+71,4636.668549,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+71,537641.83028,2018,Population,Statut d'occupation du logement,POP
+71,362685.550647,2018,Population,Statut d'occupation du logement,POP
+71,89786.936626,2018,Population,Statut d'occupation du logement,POP
+71,71181.02046,2018,Population,Statut d'occupation du logement,POP
+71,4987.823006,2018,Population,Statut d'occupation du logement,POP
+71,9000.499541,2018,Population,Statut d'occupation du logement,POP
+71,4487424.75042,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+71,3660759.041092,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+71,354172.251369,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+71,386983.268466,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+71,17049.106641,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+71,68461.082852,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+72,251958.24074,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+72,162790.551878,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+72,47385.50194,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+72,35252.908592,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+72,3858.22808,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+72,2671.050249,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+72,551689.105958,2018,Population,Statut d'occupation du logement,POP
+72,375412.237955,2018,Population,Statut d'occupation du logement,POP
+72,92650.594786,2018,Population,Statut d'occupation du logement,POP
+72,72598.43048,2018,Population,Statut d'occupation du logement,POP
+72,5589.36264,2018,Population,Statut d'occupation du logement,POP
+72,5438.480097,2018,Population,Statut d'occupation du logement,POP
+72,4005986.849571,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+72,3326116.931817,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+72,279555.305079,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+72,354666.402227,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+72,15799.968353,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+72,29848.242095,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+73,198138.367482,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+73,119274.219245,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+73,35684.422989,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+73,29143.755826,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+73,8450.468951,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+73,5585.500471,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+73,424849.808744,2018,Population,Statut d'occupation du logement,POP
+73,267300.970949,2018,Population,Statut d'occupation du logement,POP
+73,69585.954693,2018,Population,Statut d'occupation du logement,POP
+73,64322.288675,2018,Population,Statut d'occupation du logement,POP
+73,12536.825146,2018,Population,Statut d'occupation du logement,POP
+73,11103.769281,2018,Population,Statut d'occupation du logement,POP
+73,3062789.483043,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+73,2434039.634735,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+73,206336.138255,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+73,328242.749129,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+73,30257.489578,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+73,63913.471346,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+74,360944.92714,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+74,216716.868043,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+74,77695.841127,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+74,42867.804581,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+74,13938.042232,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+74,9726.371157,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+74,803022.764554,2018,Population,Statut d'occupation du logement,POP
+74,503791.028566,2018,Population,Statut d'occupation du logement,POP
+74,153532.315081,2018,Population,Statut d'occupation du logement,POP
+74,103645.153101,2018,Population,Statut d'occupation du logement,POP
+74,22379.966994,2018,Population,Statut d'occupation du logement,POP
+74,19674.300812,2018,Population,Statut d'occupation du logement,POP
+74,5076284.612977,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+74,4018281.230466,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+74,415342.656082,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+74,477692.834611,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+74,53715.697542,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+74,111252.194276,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+75,1140771.700438,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+75,378190.007548,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+75,377619.039858,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+75,204183.94811,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+75,124813.104988,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+75,55965.599934,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+75,2133458.601802,2018,Population,Statut d'occupation du logement,POP
+75,731321.680673,2018,Population,Statut d'occupation du logement,POP
+75,666514.091448,2018,Population,Statut d'occupation du logement,POP
+75,464898.417343,2018,Population,Statut d'occupation du logement,POP
+75,172403.794773,2018,Population,Statut d'occupation du logement,POP
+75,98320.617564,2018,Population,Statut d'occupation du logement,POP
+75,14832119.931624,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+75,6908580.827312,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+75,3367670.762015,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+75,3470398.842215,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+75,501203.399401,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+75,584266.100681,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+76,568220.222196,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+76,301147.493309,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+76,116981.136778,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+76,129082.200268,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+76,13646.326719,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+76,7363.065124,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+76,1231662.39282,2018,Population,Statut d'occupation du logement,POP
+76,702712.595413,2018,Population,Statut d'occupation du logement,POP
+76,215246.186179,2018,Population,Statut d'occupation du logement,POP
+76,280629.94218,2018,Population,Statut d'occupation du logement,POP
+76,18264.029222,2018,Population,Statut d'occupation du logement,POP
+76,14809.639825,2018,Population,Statut d'occupation du logement,POP
+76,8537913.456574,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+76,6124750.25654,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+76,731234.928396,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+76,1545743.980671,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+76,51919.877857,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+76,84264.413111,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+77,559614.494903,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+77,345935.851047,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+77,98545.457755,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+77,90865.360338,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+77,14023.719461,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+77,10244.106301,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+77,1388396.306498,2018,Population,Statut d'occupation du logement,POP
+77,893548.485826,2018,Population,Statut d'occupation du logement,POP
+77,207017.599914,2018,Population,Statut d'occupation du logement,POP
+77,241889.482864,2018,Population,Statut d'occupation du logement,POP
+77,22738.664061,2018,Population,Statut d'occupation du logement,POP
+77,23202.073833,2018,Population,Statut d'occupation du logement,POP
+77,7952003.162671,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+77,6153906.907578,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+77,545544.314016,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+77,1079660.821777,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+77,58674.728095,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+77,114216.391205,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+78,586449.676616,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+78,343666.988141,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+78,104537.344966,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+78,110455.311046,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+78,14894.392722,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+78,12895.639742,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+78,1413661.970096,2018,Population,Statut d'occupation du logement,POP
+78,855167.580752,2018,Population,Statut d'occupation du logement,POP
+78,220161.686373,2018,Population,Statut d'occupation du logement,POP
+78,286652.041312,2018,Population,Statut d'occupation du logement,POP
+78,23253.211273,2018,Population,Statut d'occupation du logement,POP
+78,28427.450385,2018,Population,Statut d'occupation du logement,POP
+78,8598748.054537,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+78,6268619.917387,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+78,645922.4662,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+78,1474998.170374,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+78,71550.623063,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+78,137656.877513,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+79,167961.979325,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+79,116334.622033,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+79,33138.040158,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+79,14249.744793,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+79,2303.346086,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+79,1936.226254,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+79,364487.60647,2018,Population,Statut d'occupation du logement,POP
+79,266023.200711,2018,Population,Statut d'occupation du logement,POP
+79,63979.192361,2018,Population,Statut d'occupation du logement,POP
+79,27527.217012,2018,Population,Statut d'occupation du logement,POP
+79,3234.66041,2018,Population,Statut d'occupation du logement,POP
+79,3723.335976,2018,Population,Statut d'occupation du logement,POP
+79,2929065.910789,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+79,2559969.616311,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+79,188631.591386,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+79,141899.421941,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+79,9382.069032,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+79,29183.212119,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+80,251457.870273,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+80,151511.513534,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+80,52873.07122,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+80,36571.061777,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+80,5691.136514,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+80,4811.087228,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+80,558742.312159,2018,Population,Statut d'occupation du logement,POP
+80,350255.990398,2018,Population,Statut d'occupation du logement,POP
+80,106775.245771,2018,Population,Statut d'occupation du logement,POP
+80,83844.593569,2018,Population,Statut d'occupation du logement,POP
+80,8322.312207,2018,Population,Statut d'occupation du logement,POP
+80,9544.170214,2018,Population,Statut d'occupation du logement,POP
+80,4301044.276582,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+80,3496817.132053,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+80,313170.180743,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+80,404965.247938,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+80,21626.481637,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+80,64465.234212,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+81,177548.388219,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+81,118660.4513,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+81,39274.385982,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+81,12445.46149,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+81,3392.387417,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+81,3775.70203,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+81,378600.446725,2018,Population,Statut d'occupation du logement,POP
+81,265410.88722,2018,Population,Statut d'occupation du logement,POP
+81,76409.154321,2018,Population,Statut d'occupation du logement,POP
+81,25007.748696,2018,Population,Statut d'occupation du logement,POP
+81,4676.295898,2018,Population,Statut d'occupation du logement,POP
+81,7096.360591,2018,Population,Statut d'occupation du logement,POP
+81,3098754.933579,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+81,2684350.861461,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+81,221888.554265,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+81,122897.125104,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+81,11631.482132,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+81,57986.910616,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+82,111851.953566,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+82,74309.37568,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+82,26868.776291,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+82,7042.927445,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+82,1163.787932,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+82,2467.086218,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+82,252678.182712,2018,Population,Statut d'occupation du logement,POP
+82,173510.392858,2018,Population,Statut d'occupation du logement,POP
+82,55291.655587,2018,Population,Statut d'occupation du logement,POP
+82,16837.012543,2018,Population,Statut d'occupation du logement,POP
+82,2117.922727,2018,Population,Statut d'occupation du logement,POP
+82,4921.198998,2018,Population,Statut d'occupation du logement,POP
+82,1823021.052207,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+82,1567013.174151,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+82,153878.703616,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+82,56932.467043,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+82,7649.161995,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+82,37547.545402,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+83,494739.497071,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+83,288942.655296,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+83,134684.235503,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+83,41006.723047,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+83,14379.148562,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+83,15726.734664,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+83,1042478.02176,2018,Population,Statut d'occupation du logement,POP
+83,621233.694619,2018,Population,Statut d'occupation du logement,POP
+83,267295.642508,2018,Population,Statut d'occupation du logement,POP
+83,99633.245779,2018,Population,Statut d'occupation du logement,POP
+83,22360.385216,2018,Population,Statut d'occupation du logement,POP
+83,31955.053638,2018,Population,Statut d'occupation du logement,POP
+83,6830361.937562,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+83,5118214.406899,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+83,940990.616424,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+83,524178.320279,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+83,60224.96539,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+83,186753.62857,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+84,249368.764315,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+84,139345.390533,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+84,65680.833121,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+84,29820.936768,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+84,7352.547421,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+84,7169.056473,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+84,549294.060589,2018,Population,Statut d'occupation du logement,POP
+84,315145.990333,2018,Population,Statut d'occupation du logement,POP
+84,133273.802786,2018,Population,Statut d'occupation du logement,POP
+84,74920.562843,2018,Population,Statut d'occupation du logement,POP
+84,10912.870287,2018,Population,Statut d'occupation du logement,POP
+84,15040.834341,2018,Population,Statut d'occupation du logement,POP
+84,3717492.88565,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+84,2836316.025286,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+84,422910.297081,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+84,335023.287839,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+84,32405.88504,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+84,90837.390405,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+85,301490.810607,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+85,217258.301764,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+85,54409.126759,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+85,21552.767638,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+85,4677.417491,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+85,3593.196956,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+85,663398.702917,2018,Population,Statut d'occupation du logement,POP
+85,503841.562531,2018,Population,Statut d'occupation du logement,POP
+85,105351.320861,2018,Population,Statut d'occupation du logement,POP
+85,40714.800271,2018,Population,Statut d'occupation du logement,POP
+85,6697.752647,2018,Population,Statut d'occupation du logement,POP
+85,6793.266607,2018,Population,Statut d'occupation du logement,POP
+85,4780375.602039,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+85,4251419.136081,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+85,281870.632536,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+85,188091.584047,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+85,17032.714322,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+85,41961.535053,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+86,204488.231893,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+86,126185.762151,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+86,47440.436693,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+86,21765.664799,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+86,5878.174366,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+86,3218.193884,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+86,424716.901207,2018,Population,Statut d'occupation du logement,POP
+86,283395.724732,2018,Population,Statut d'occupation du logement,POP
+86,83780.118943,2018,Population,Statut d'occupation du logement,POP
+86,44201.998768,2018,Population,Statut d'occupation du logement,POP
+86,7285.631944,2018,Population,Statut d'occupation du logement,POP
+86,6053.426821,2018,Population,Statut d'occupation du logement,POP
+86,3197071.628441,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+86,2708174.987601,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+86,230071.938088,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+86,203141.160943,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+86,16641.422701,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+86,39042.119108,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+87,182193.974736,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+87,113367.112952,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+87,37695.763082,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+87,22494.382409,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+87,5084.986803,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+87,3551.72949,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+87,364987.592488,2018,Population,Statut d'occupation du logement,POP
+87,241757.931996,2018,Population,Statut d'occupation du logement,POP
+87,63556.598082,2018,Population,Statut d'occupation du logement,POP
+87,46986.457868,2018,Population,Statut d'occupation du logement,POP
+87,6331.85638,2018,Population,Statut d'occupation du logement,POP
+87,6354.748161,2018,Population,Statut d'occupation du logement,POP
+87,2985657.499961,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+87,2454595.462631,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+87,222337.619338,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+87,246017.697869,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+87,15320.496809,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+87,47386.223315,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+88,169386.334464,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+88,108704.790454,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+88,34364.907235,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+88,21221.912364,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+88,1909.229959,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+88,3185.494451,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+88,356476.216752,2018,Population,Statut d'occupation du logement,POP
+88,240927.598469,2018,Population,Statut d'occupation du logement,POP
+88,66198.239771,2018,Population,Statut d'occupation du logement,POP
+88,40342.855982,2018,Population,Statut d'occupation du logement,POP
+88,2988.986016,2018,Population,Statut d'occupation du logement,POP
+88,6018.536514,2018,Population,Statut d'occupation du logement,POP
+88,3123006.889952,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+88,2573203.528805,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+88,234275.230511,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+88,251968.695393,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+88,10525.554486,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+88,53033.880756,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+89,153251.193012,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+89,103301.474688,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+89,26881.795579,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+89,18053.363575,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+89,1590.710281,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+89,3423.84889,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+89,326955.955441,2018,Population,Statut d'occupation du logement,POP
+89,226694.757703,2018,Population,Statut d'occupation du logement,POP
+89,51273.846839,2018,Population,Statut d'occupation du logement,POP
+89,40138.87371,2018,Population,Statut d'occupation du logement,POP
+89,2396.251232,2018,Population,Statut d'occupation du logement,POP
+89,6452.225956,2018,Population,Statut d'occupation du logement,POP
+89,2588059.627875,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+89,2194153.901452,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+89,161112.317838,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+89,177646.530365,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+89,10826.846148,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+89,44320.032073,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+90,64708.602405,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+90,36014.184088,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+90,13188.108656,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+90,11865.60745,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+90,2620.874617,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+90,1019.827594,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+90,138487.646107,2018,Population,Statut d'occupation du logement,POP
+90,82432.948694,2018,Population,Statut d'occupation du logement,POP
+90,24864.861529,2018,Population,Statut d'occupation du logement,POP
+90,25924.00026,2018,Population,Statut d'occupation du logement,POP
+90,3275.56419,2018,Population,Statut d'occupation du logement,POP
+90,1990.271433,2018,Population,Statut d'occupation du logement,POP
+90,1020829.080404,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+90,772900.563398,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+90,84042.270938,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+90,143011.662145,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+90,7526.708743,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+90,13347.87518,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+91,518768.016079,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+91,304292.961206,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+91,90737.843547,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+91,100927.21043,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+91,13865.097344,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+91,8944.903552,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+91,1265489.442695,2018,Population,Statut d'occupation du logement,POP
+91,757895.088718,2018,Population,Statut d'occupation du logement,POP
+91,191686.336858,2018,Population,Statut d'occupation du logement,POP
+91,272716.316242,2018,Population,Statut d'occupation du logement,POP
+91,23546.600382,2018,Population,Statut d'occupation du logement,POP
+91,19645.100496,2018,Population,Statut d'occupation du logement,POP
+91,7575648.52536,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+91,5638647.841391,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+91,522341.622566,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+91,1249911.406864,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+91,61531.509211,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+91,103216.145328,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+92,719924.794049,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+92,306038.137684,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+92,179239.454963,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+92,180152.555261,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+92,35983.861336,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+92,18510.784805,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+92,1591715.335845,2018,Population,Statut d'occupation du logement,POP
+92,712898.138696,2018,Population,Statut d'occupation du logement,POP
+92,355323.619183,2018,Population,Statut d'occupation du logement,POP
+92,432196.824305,2018,Population,Statut d'occupation du logement,POP
+92,53732.050362,2018,Population,Statut d'occupation du logement,POP
+92,37564.703298,2018,Population,Statut d'occupation du logement,POP
+92,9598908.379881,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+92,5126681.60897,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+92,1323938.746924,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+92,2790599.869187,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+92,162016.272905,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+92,195671.881894,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+93,632024.931575,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+93,245230.981284,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+93,142450.888039,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+93,201797.61111,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+93,30290.06426,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+93,12255.386882,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+93,1606062.82447,2018,Population,Statut d'occupation du logement,POP
+93,634987.412719,2018,Population,Statut d'occupation du logement,POP
+93,334625.492727,2018,Population,Statut d'occupation du logement,POP
+93,552942.438447,2018,Population,Statut d'occupation du logement,POP
+93,54660.421388,2018,Population,Statut d'occupation du logement,POP
+93,28847.059188,2018,Population,Statut d'occupation du logement,POP
+93,8465775.194693,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+93,4299812.797916,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+93,1007870.893388,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+93,2876696.408733,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+93,147560.425569,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+93,133834.669088,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+94,592118.056979,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+94,266209.828442,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+94,126870.985532,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+94,157294.694457,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+94,27839.054199,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+94,13903.494349,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+94,1372384.600277,2018,Population,Statut d'occupation du logement,POP
+94,629288.686832,2018,Population,Statut d'occupation du logement,POP
+94,267474.512173,2018,Population,Statut d'occupation du logement,POP
+94,400549.864235,2018,Population,Statut d'occupation du logement,POP
+94,44745.944589,2018,Population,Statut d'occupation du logement,POP
+94,30325.592448,2018,Population,Statut d'occupation du logement,POP
+94,8339243.740306,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+94,4794814.047068,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+94,960758.420545,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+94,2299839.200361,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+94,126760.544519,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+94,157071.527813,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+95,473372.798183,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+95,264939.919256,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+95,78860.99408,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+95,108289.007271,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+95,12188.666037,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+95,9094.211539,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+95,1218258.097327,2018,Population,Statut d'occupation du logement,POP
+95,697241.854599,2018,Population,Statut d'occupation du logement,POP
+95,178400.218902,2018,Population,Statut d'occupation du logement,POP
+95,299036.704203,2018,Population,Statut d'occupation du logement,POP
+95,22690.294646,2018,Population,Statut d'occupation du logement,POP
+95,20889.024978,2018,Population,Statut d'occupation du logement,POP
+95,6829307.863842,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+95,4708924.774448,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+95,481534.486832,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+95,1479622.238123,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+95,58834.024729,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+95,100392.33971,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2A,69342.273032,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2A,38857.153993,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2A,18399.389748,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2A,5500.488847,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2A,2726.731879,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2A,3858.508565,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2A,155386.728873,2018,Population,Statut d'occupation du logement,POP
+2A,86050.118336,2018,Population,Statut d'occupation du logement,POP
+2A,42023.298995,2018,Population,Statut d'occupation du logement,POP
+2A,13966.894653,2018,Population,Statut d'occupation du logement,POP
+2A,5151.529974,2018,Population,Statut d'occupation du logement,POP
+2A,8194.886915,2018,Population,Statut d'occupation du logement,POP
+2A,1087334.050184,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2A,787483.895054,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2A,159504.876031,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2A,81074.049342,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2A,14493.120772,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2A,44778.108985,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2B,80642.228202,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2B,44124.534875,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2B,22402.06989,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2B,6624.568061,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2B,3638.349081,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2B,3852.706295,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+2B,176580.269185,2018,Population,Statut d'occupation du logement,POP
+2B,96850.935572,2018,Population,Statut d'occupation du logement,POP
+2B,50247.452077,2018,Population,Statut d'occupation du logement,POP
+2B,15716.540305,2018,Population,Statut d'occupation du logement,POP
+2B,5790.757847,2018,Population,Statut d'occupation du logement,POP
+2B,7974.583384,2018,Population,Statut d'occupation du logement,POP
+2B,1231989.402584,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2B,903559.797365,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2B,167740.233897,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2B,96501.635793,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2B,13223.817756,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+2B,50963.917772,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+971,172818.03539,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+971,101280.384558,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+971,31518.636796,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+971,26864.414517,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+971,4013.402406,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+971,9141.197112,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+971,383104.346807,2018,Population,Statut d'occupation du logement,POP
+971,222472.066622,2018,Population,Statut d'occupation du logement,POP
+971,74196.495979,2018,Population,Statut d'occupation du logement,POP
+971,60808.828738,2018,Population,Statut d'occupation du logement,POP
+971,7337.061103,2018,Population,Statut d'occupation du logement,POP
+971,18289.894365,2018,Population,Statut d'occupation du logement,POP
+971,2912558.181416,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+971,2242600.598223,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+971,220523.234935,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+971,275594.457097,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+971,18411.19406,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+971,155428.697102,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+972,167251.268996,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+972,91267.754107,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+972,33115.727628,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+972,27284.112649,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+972,3165.881777,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+972,12417.792835,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+972,362713.111627,2018,Population,Statut d'occupation du logement,POP
+972,197917.534726,2018,Population,Statut d'occupation du logement,POP
+972,72428.447949,2018,Population,Statut d'occupation du logement,POP
+972,61222.347233,2018,Population,Statut d'occupation du logement,POP
+972,6001.081894,2018,Population,Statut d'occupation du logement,POP
+972,25143.699824,2018,Population,Statut d'occupation du logement,POP
+972,2989125.5198,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+972,2128316.737954,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+972,237027.870655,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+972,356965.739029,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+972,16835.660426,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+972,249979.511735,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+973,80060.357069,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+973,33723.414666,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+973,24540.824166,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+973,12764.689078,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+973,2370.868267,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+973,6660.560891,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+973,265713.425054,2018,Population,Statut d'occupation du logement,POP
+973,123916.094956,2018,Population,Statut d'occupation du logement,POP
+973,71860.4574,2018,Population,Statut d'occupation du logement,POP
+973,41166.722205,2018,Population,Statut d'occupation du logement,POP
+973,5925.17269,2018,Population,Statut d'occupation du logement,POP
+973,22844.977802,2018,Population,Statut d'occupation du logement,POP
+973,809362.824747,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+973,503061.241566,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+973,136412.876355,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+973,105249.653539,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+973,9279.223021,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+973,55359.830266,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+974,332399.645456,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+974,168370.07427,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+974,88663.489025,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+974,56320.697653,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+974,5302.325832,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+974,13743.058677,2018,Nombre de logements,Statut d'occupation du logement,NBLOG
+974,848756.384102,2018,Population,Statut d'occupation du logement,POP
+974,441232.273577,2018,Population,Statut d'occupation du logement,POP
+974,216421.843,2018,Population,Statut d'occupation du logement,POP
+974,147303.745667,2018,Population,Statut d'occupation du logement,POP
+974,10973.869555,2018,Population,Statut d'occupation du logement,POP
+974,32824.652304,2018,Population,Statut d'occupation du logement,POP
+974,4839103.746362,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+974,3506551.495235,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+974,543561.247596,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+974,550923.069239,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+974,23698.042646,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE
+974,214369.891646,2018,Nombre d'heures annuelles travaillées,Statut d'occupation du logement,DUREE

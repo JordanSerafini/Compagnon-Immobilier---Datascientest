@@ -1,8 +1,8 @@
 # Analyse: pib_france.csv
 
-> **Description**: Évolution PIB trimestriel France (taux de croissance)
-> **Source**: INSEE - Séries IDBANK (base 2020)
-> **Date d'analyse**: 2025-12-23
+> **Description**: Comptes trimestriels du PIB France (équilibre ressources-emplois)
+> **Source**: INSEE - Dataset CNT-2020-PIB-EQB-RF via pynsee
+> **Date d'extraction**: 2025-12-24
 
 ---
 
@@ -10,20 +10,31 @@
 
 | Métrique | Valeur |
 |----------|--------|
-| **Nombre de lignes** | 306 |
-| **Période couverte** | 1949-Q2 à 2025-Q3 |
+| **Nombre de lignes** | 20,435 |
+| **Nombre de colonnes** | 56 |
+| **Période couverte** | 1949-Q1 à 2025-Q3 |
 | **Fréquence** | Trimestrielle |
-| **Série active** | Oui |
 | **Base comptable** | 2020 |
 
 ---
 
-## Description de la série
+## Contenu des séries
 
-- **Indicateur**: Taux de croissance du PIB (variation trimestrielle en %)
-- **Valorisation**: Volumes aux prix de l'année précédente chaînés
-- **Correction**: CVS-CJO (corrigé des variations saisonnières et jours ouvrables)
-- **Zone**: France
+Le dataset contient plusieurs types de séries :
+- Taux de croissance du PIB (variation trimestrielle en %)
+- Contributions à la croissance (demande intérieure, exports, imports...)
+- Valeurs absolues en millions d'euros
+
+### Indicateurs principaux
+
+| Indicateur | Description |
+|------------|-------------|
+| PIB | Produit intérieur brut |
+| P3 | Dépenses de consommation finale |
+| P51G | Formation brute de capital fixe |
+| P6 | Exportations |
+| P7 | Importations |
+| B1G | Valeur ajoutée brute |
 
 ---
 
@@ -32,50 +43,40 @@
 | Colonne | Type | Description | Pertinence |
 |---------|------|-------------|------------|
 | TIME_PERIOD | object | Trimestre (YYYY-QN) | ESSENTIELLE |
-| OBS_VALUE | float64 | Taux de croissance (%) | ESSENTIELLE |
-| DATE | datetime | Date formatée | UTILE |
-| SERIE_ARRETEE | bool | FALSE = série active | INFO |
+| OBS_VALUE | float64 | Valeur (taux ou montant) | ESSENTIELLE |
+| TITLE_FR | object | Description de la série | UTILE |
+| REF_AREA | object | Zone géographique (FE=France) | INFO |
+| IDBANK | int64 | Identifiant série INSEE | TECHNIQUE |
+| NATURE | object | Type de donnée (TAUX, VALEUR_ABSOLUE...) | IMPORTANTE |
 
 ---
 
-## Statistiques OBS_VALUE (Taux de croissance %)
+## Statistiques OBS_VALUE
+
+Les valeurs sont de nature différente selon les séries :
+- Taux de croissance : entre -13.5% et +17.5%
+- Montants absolus : jusqu'à 750 milliards d'euros
 
 | Statistique | Valeur |
 |-------------|--------|
-| Min | -13.5% (COVID Q2-2020) |
-| Max | +17.5% (rebond Q3-2020) |
-| Moyenne | +0.8% |
-| Médiane | +0.7% |
-| Écart-type | 1.6 |
-
----
-
-## Dernières observations
-
-| Trimestre | Croissance |
-|-----------|------------|
-| 2024-Q4 | +0.0% |
-| 2025-Q1 | +0.1% |
-| 2025-Q2 | +0.3% |
-| 2025-Q3 | +0.5% |
+| Min | -26,184 |
+| Max | 750,662 |
+| Valeurs négatives | 2,104 (contributions négatives) |
 
 ---
 
 ## Synthèse pour le traitement
 
 ### Colonnes retenues
-
 - **TIME_PERIOD**: Clé temporelle
-- **OBS_VALUE**: Taux de croissance
-- **DATE**: Pour jointures temporelles
+- **OBS_VALUE**: Valeur
+- **TITLE_FR**: Description
+- **REF_AREA**: Zone
 
 ### Colonnes exclues
-
 - Toutes les colonnes `*_label_en` (labels anglais)
-- Colonnes métadonnées redondantes
+- Colonnes métadonnées redondantes (56 → 5-7 colonnes)
 
-### Exploitation envisagée
-
-- Indicateur macro-économique pour contextualiser le marché immobilier
-- Corrélation avec cycles immobiliers
-- Base pour modèles prédictifs
+### Notes
+- Les valeurs négatives sont normales (contributions négatives au PIB)
+- Filtrer sur NATURE='TAUX' pour n'avoir que les taux de croissance
