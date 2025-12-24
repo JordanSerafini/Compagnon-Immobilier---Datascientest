@@ -134,6 +134,11 @@
 - DOMPUB_label
 
 ### Nettoyage à effectuer
-- Supprimer les 5402 lignes avec valeurs manquantes
+- Supprimer les lignes avec valeurs manquantes
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin
+
+### Utilisation prévue
+- Analyse du tissu économique local par département
+- Corrélation emploi / attractivité immobilière
+- Variable explicative pour les modèles de prix

@@ -105,6 +105,11 @@
 - ENTR_INDIVIDUELLE_label
 
 ### Nettoyage à effectuer
-- Supprimer les 3333 lignes avec valeurs manquantes
+- Supprimer les colonnes avec >50% de valeurs manquantes
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin
+
+### Utilisation prévue
+- Dynamisme économique local (créations d'entreprises)
+- Corrélation tissu entrepreneurial / attractivité immobilière
+- Variable explicative pour les modèles de prix

@@ -129,6 +129,11 @@
 - OBS_QUAL_label_en
 
 ### Nettoyage à effectuer
-- Supprimer les 337 lignes avec valeurs manquantes
+- Supprimer les colonnes avec >50% de valeurs manquantes
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin
+
+### Utilisation prévue
+- Indicateur macroéconomique national
+- Contexte du marché de l'emploi pour l'analyse immobilière
+- Corrélation chômage national / dynamique des prix

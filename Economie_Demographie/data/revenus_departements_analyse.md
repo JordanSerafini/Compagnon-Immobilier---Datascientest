@@ -103,6 +103,11 @@
 - INDICS_FILO_DISP_DET_label
 
 ### Nettoyage à effectuer
-- Supprimer les 1770 lignes avec valeurs manquantes
+- Supprimer les lignes avec valeurs manquantes
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin
+
+### Utilisation prévue
+- Pouvoir d'achat immobilier par territoire
+- Corrélation revenus médians / prix de l'immobilier
+- Segmentation des marchés locaux

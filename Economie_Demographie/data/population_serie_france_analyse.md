@@ -141,3 +141,8 @@
 ### Nettoyage à effectuer
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin
+
+### Utilisation prévue
+- Évolution démographique nationale
+- Contexte macro pour l'analyse immobilière
+- Tendances long terme de la population française
