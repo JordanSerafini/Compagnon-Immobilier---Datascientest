@@ -1,0 +1,20 @@
+Points Intéressants
+-------------------
+Inflation (IPC)
+Pic à 6.3% en février 2023 (crise énergétique)
+Retour à 0.9% en novembre 2025
+
+Prix des Logements
++228% entre 1996 et 2025 (indice 38.8 → 127.2)
+32 zones couvertes (grandes agglomérations + France métro)
+
+Chômage
+Moyenne récente : 7.4%
+Plus bas : Cantal (D15)
+Plus haut : Réunion (D974)
+
+Limites à Noter
+Problème	Impact
+Revenus/Pauvreté 2012-2015 uniquement	Données obsolètes pour analyse actuelle
+Prix logements : 32 zones seulement	Pas de granularité départementale complète
+Colonnes brutes : ~50 colonnes	Nettoyage réduit à 5-7 colonnes utiles
