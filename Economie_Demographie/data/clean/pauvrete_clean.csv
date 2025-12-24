@@ -1,0 +1,2717 @@
+periode,taux_pauvrete,description,zone,id_serie,annee
+2012,13.6,Taux de pauvreté : Moins de 30 ans - Vendée,D85,1742658,2012
+2013,14.5,Taux de pauvreté : Moins de 30 ans - Vendée,D85,1742658,2013
+2014,14.5,Taux de pauvreté : Moins de 30 ans - Vendée,D85,1742658,2014
+2015,14.8,Taux de pauvreté : Moins de 30 ans - Vendée,D85,1742658,2015
+2012,23.6,Taux de pauvreté : Moins de 30 ans - Vienne,D86,1742659,2012
+2013,24.9,Taux de pauvreté : Moins de 30 ans - Vienne,D86,1742659,2013
+2014,25.5,Taux de pauvreté : Moins de 30 ans - Vienne,D86,1742659,2014
+2015,26.4,Taux de pauvreté : Moins de 30 ans - Vienne,D86,1742659,2015
+2012,28.1,Taux de pauvreté : Moins de 30 ans - Haute-Vienne,D87,1742660,2012
+2013,29.3,Taux de pauvreté : Moins de 30 ans - Haute-Vienne,D87,1742660,2013
+2014,29.1,Taux de pauvreté : Moins de 30 ans - Haute-Vienne,D87,1742660,2014
+2015,28.8,Taux de pauvreté : Moins de 30 ans - Haute-Vienne,D87,1742660,2015
+2012,25.5,Taux de pauvreté : Moins de 30 ans - Vosges,D88,1742661,2012
+2013,27.0,Taux de pauvreté : Moins de 30 ans - Vosges,D88,1742661,2013
+2014,27.8,Taux de pauvreté : Moins de 30 ans - Vosges,D88,1742661,2014
+2015,27.4,Taux de pauvreté : Moins de 30 ans - Vosges,D88,1742661,2015
+2012,22.3,Taux de pauvreté : Moins de 30 ans - Yonne,D89,1742662,2012
+2013,22.7,Taux de pauvreté : Moins de 30 ans - Yonne,D89,1742662,2013
+2014,23.0,Taux de pauvreté : Moins de 30 ans - Yonne,D89,1742662,2014
+2015,22.2,Taux de pauvreté : Moins de 30 ans - Yonne,D89,1742662,2015
+2012,24.9,Taux de pauvreté : Moins de 30 ans - Territoire de Belfort,D90,1742663,2012
+2013,25.1,Taux de pauvreté : Moins de 30 ans - Territoire de Belfort,D90,1742663,2013
+2014,25.3,Taux de pauvreté : Moins de 30 ans - Territoire de Belfort,D90,1742663,2014
+2015,24.9,Taux de pauvreté : Moins de 30 ans - Territoire de Belfort,D90,1742663,2015
+2012,17.4,Taux de pauvreté : Moins de 30 ans - Essonne,D91,1742664,2012
+2013,18.4,Taux de pauvreté : Moins de 30 ans - Essonne,D91,1742664,2013
+2014,17.9,Taux de pauvreté : Moins de 30 ans - Essonne,D91,1742664,2014
+2015,18.6,Taux de pauvreté : Moins de 30 ans - Essonne,D91,1742664,2015
+2012,15.2,Taux de pauvreté : Moins de 30 ans - Hauts-de-Seine,D92,1742665,2012
+2013,15.8,Taux de pauvreté : Moins de 30 ans - Hauts-de-Seine,D92,1742665,2013
+2014,15.7,Taux de pauvreté : Moins de 30 ans - Hauts-de-Seine,D92,1742665,2014
+2015,15.9,Taux de pauvreté : Moins de 30 ans - Hauts-de-Seine,D92,1742665,2015
+2012,29.3,Taux de pauvreté : Moins de 30 ans - Seine-Saint-Denis,D93,1742666,2012
+2013,30.6,Taux de pauvreté : Moins de 30 ans - Seine-Saint-Denis,D93,1742666,2013
+2014,31.1,Taux de pauvreté : Moins de 30 ans - Seine-Saint-Denis,D93,1742666,2014
+2015,31.1,Taux de pauvreté : Moins de 30 ans - Seine-Saint-Denis,D93,1742666,2015
+2012,20.5,Taux de pauvreté : Moins de 30 ans - Val-de-Marne,D94,1742667,2012
+2013,21.7,Taux de pauvreté : Moins de 30 ans - Val-de-Marne,D94,1742667,2013
+2014,21.8,Taux de pauvreté : Moins de 30 ans - Val-de-Marne,D94,1742667,2014
+2015,22.3,Taux de pauvreté : Moins de 30 ans - Val-de-Marne,D94,1742667,2015
+2012,19.4,Taux de pauvreté : Moins de 30 ans - Val-d'Oise,D95,1742668,2012
+2013,20.6,Taux de pauvreté : Moins de 30 ans - Val-d'Oise,D95,1742668,2013
+2014,20.2,Taux de pauvreté : Moins de 30 ans - Val-d'Oise,D95,1742668,2014
+2015,21.0,Taux de pauvreté : Moins de 30 ans - Val-d'Oise,D95,1742668,2015
+2012,15.0,Taux de pauvreté : 75 ans ou plus - Corrèze,D19,1742674,2012
+2013,13.2,Taux de pauvreté : 75 ans ou plus - Corrèze,D19,1742674,2013
+2014,12.4,Taux de pauvreté : 75 ans ou plus - Corrèze,D19,1742674,2014
+2015,11.0,Taux de pauvreté : 75 ans ou plus - Corrèze,D19,1742674,2015
+2012,18.4,Taux de pauvreté : 75 ans ou plus - Corse-du-Sud,D2A,1742675,2012
+2013,16.7,Taux de pauvreté : 75 ans ou plus - Corse-du-Sud,D2A,1742675,2013
+2014,16.2,Taux de pauvreté : 75 ans ou plus - Corse-du-Sud,D2A,1742675,2014
+2015,15.6,Taux de pauvreté : 75 ans ou plus - Corse-du-Sud,D2A,1742675,2015
+2012,23.8,Taux de pauvreté : 75 ans ou plus - Haute-Corse,D2B,1742676,2012
+2013,20.8,Taux de pauvreté : 75 ans ou plus - Haute-Corse,D2B,1742676,2013
+2014,20.3,Taux de pauvreté : 75 ans ou plus - Haute-Corse,D2B,1742676,2014
+2015,19.2,Taux de pauvreté : 75 ans ou plus - Haute-Corse,D2B,1742676,2015
+2012,8.1,Taux de pauvreté : 75 ans ou plus - Côte-d'Or,D21,1742677,2012
+2013,6.8,Taux de pauvreté : 75 ans ou plus - Côte-d'Or,D21,1742677,2013
+2014,6.8,Taux de pauvreté : 75 ans ou plus - Côte-d'Or,D21,1742677,2014
+2015,6.5,Taux de pauvreté : 75 ans ou plus - Côte-d'Or,D21,1742677,2015
+2012,11.4,Taux de pauvreté : 75 ans ou plus - Côtes-d'Armor,D22,1742678,2012
+2013,9.7,Taux de pauvreté : 75 ans ou plus - Côtes-d'Armor,D22,1742678,2013
+2014,9.1,Taux de pauvreté : 75 ans ou plus - Côtes-d'Armor,D22,1742678,2014
+2015,9.0,Taux de pauvreté : 75 ans ou plus - Côtes-d'Armor,D22,1742678,2015
+2012,20.6,Taux de pauvreté : 75 ans ou plus - Creuse,D23,1742679,2012
+2013,18.8,Taux de pauvreté : 75 ans ou plus - Creuse,D23,1742679,2013
+2014,18.1,Taux de pauvreté : 75 ans ou plus - Creuse,D23,1742679,2014
+2015,16.5,Taux de pauvreté : 75 ans ou plus - Creuse,D23,1742679,2015
+2012,15.0,Taux de pauvreté : 75 ans ou plus - Dordogne,D24,1742680,2012
+2013,13.4,Taux de pauvreté : 75 ans ou plus - Dordogne,D24,1742680,2013
+2014,12.7,Taux de pauvreté : 75 ans ou plus - Dordogne,D24,1742680,2014
+2015,12.1,Taux de pauvreté : 75 ans ou plus - Dordogne,D24,1742680,2015
+2012,9.2,Taux de pauvreté : 75 ans ou plus - Doubs,D25,1742681,2012
+2013,7.4,Taux de pauvreté : 75 ans ou plus - Doubs,D25,1742681,2013
+2014,7.0,Taux de pauvreté : 75 ans ou plus - Doubs,D25,1742681,2014
+2015,6.7,Taux de pauvreté : 75 ans ou plus - Doubs,D25,1742681,2015
+2012,9.9,Taux de pauvreté : 75 ans ou plus - Drôme,D26,1742682,2012
+2013,9.1,Taux de pauvreté : 75 ans ou plus - Drôme,D26,1742682,2013
+2014,8.7,Taux de pauvreté : 75 ans ou plus - Drôme,D26,1742682,2014
+2015,8.0,Taux de pauvreté : 75 ans ou plus - Drôme,D26,1742682,2015
+2012,7.7,Taux de pauvreté : 75 ans ou plus - Eure,D27,1742683,2012
+2013,6.2,Taux de pauvreté : 75 ans ou plus - Eure,D27,1742683,2013
+2014,6.2,Taux de pauvreté : 75 ans ou plus - Eure,D27,1742683,2014
+2015,6.4,Taux de pauvreté : 75 ans ou plus - Eure,D27,1742683,2015
+2012,6.5,Taux de pauvreté : 75 ans ou plus - Eure-et-Loir,D28,1742684,2012
+2013,5.8,Taux de pauvreté : 75 ans ou plus - Eure-et-Loir,D28,1742684,2013
+2014,5.8,Taux de pauvreté : 75 ans ou plus - Eure-et-Loir,D28,1742684,2014
+2015,5.8,Taux de pauvreté : 75 ans ou plus - Eure-et-Loir,D28,1742684,2015
+2012,9.5,Taux de pauvreté : 75 ans ou plus - Finistère,D29,1742685,2012
+2013,7.9,Taux de pauvreté : 75 ans ou plus - Finistère,D29,1742685,2013
+2014,7.5,Taux de pauvreté : 75 ans ou plus - Finistère,D29,1742685,2014
+2015,7.6,Taux de pauvreté : 75 ans ou plus - Finistère,D29,1742685,2015
+2012,13.2,Taux de pauvreté : 75 ans ou plus - Gard,D30,1742686,2012
+2013,12.1,Taux de pauvreté : 75 ans ou plus - Gard,D30,1742686,2013
+2014,11.6,Taux de pauvreté : 75 ans ou plus - Gard,D30,1742686,2014
+2015,11.2,Taux de pauvreté : 75 ans ou plus - Gard,D30,1742686,2015
+2012,10.3,Taux de pauvreté : 75 ans ou plus - Haute-Garonne,D31,1742687,2012
+2013,9.1,Taux de pauvreté : 75 ans ou plus - Haute-Garonne,D31,1742687,2013
+2014,8.8,Taux de pauvreté : 75 ans ou plus - Haute-Garonne,D31,1742687,2014
+2015,8.9,Taux de pauvreté : 75 ans ou plus - Haute-Garonne,D31,1742687,2015
+2012,17.5,Taux de pauvreté : 75 ans ou plus - Gers,D32,1742688,2012
+2013,16.0,Taux de pauvreté : 75 ans ou plus - Gers,D32,1742688,2013
+2014,14.9,Taux de pauvreté : 75 ans ou plus - Gers,D32,1742688,2014
+2015,14.5,Taux de pauvreté : 75 ans ou plus - Gers,D32,1742688,2015
+2012,9.7,Taux de pauvreté : 75 ans ou plus - Gironde,D33,1742689,2012
+2013,8.3,Taux de pauvreté : 75 ans ou plus - Gironde,D33,1742689,2013
+2014,8.0,Taux de pauvreté : 75 ans ou plus - Gironde,D33,1742689,2014
+2015,8.0,Taux de pauvreté : 75 ans ou plus - Gironde,D33,1742689,2015
+2012,13.4,Taux de pauvreté : 75 ans ou plus - Hérault,D34,1742690,2012
+2013,12.3,Taux de pauvreté : 75 ans ou plus - Hérault,D34,1742690,2013
+2014,11.9,Taux de pauvreté : 75 ans ou plus - Hérault,D34,1742690,2014
+2015,11.2,Taux de pauvreté : 75 ans ou plus - Hérault,D34,1742690,2015
+2012,8.6,Taux de pauvreté : 75 ans ou plus - Ille-et-Vilaine,D35,1742691,2012
+2013,7.1,Taux de pauvreté : 75 ans ou plus - Ille-et-Vilaine,D35,1742691,2013
+2014,6.8,Taux de pauvreté : 75 ans ou plus - Ille-et-Vilaine,D35,1742691,2014
+2015,6.7,Taux de pauvreté : 75 ans ou plus - Ille-et-Vilaine,D35,1742691,2015
+2012,11.8,Taux de pauvreté : 75 ans ou plus - Indre,D36,1742692,2012
+2013,10.3,Taux de pauvreté : 75 ans ou plus - Indre,D36,1742692,2013
+2014,9.8,Taux de pauvreté : 75 ans ou plus - Indre,D36,1742692,2014
+2015,9.5,Taux de pauvreté : 75 ans ou plus - Indre,D36,1742692,2015
+2012,8.6,Taux de pauvreté : 75 ans ou plus - Indre-et-Loire,D37,1742693,2012
+2013,7.1,Taux de pauvreté : 75 ans ou plus - Indre-et-Loire,D37,1742693,2013
+2014,7.1,Taux de pauvreté : 75 ans ou plus - Indre-et-Loire,D37,1742693,2014
+2015,6.7,Taux de pauvreté : 75 ans ou plus - Indre-et-Loire,D37,1742693,2015
+2012,8.5,Taux de pauvreté : 75 ans ou plus - Isère,D38,1742694,2012
+2013,7.2,Taux de pauvreté : 75 ans ou plus - Isère,D38,1742694,2013
+2014,7.1,Taux de pauvreté : 75 ans ou plus - Isère,D38,1742694,2014
+2015,6.7,Taux de pauvreté : 75 ans ou plus - Isère,D38,1742694,2015
+2012,11.0,Taux de pauvreté : 75 ans ou plus - Jura,D39,1742695,2012
+2013,9.1,Taux de pauvreté : 75 ans ou plus - Jura,D39,1742695,2013
+2014,8.8,Taux de pauvreté : 75 ans ou plus - Jura,D39,1742695,2014
+2015,8.3,Taux de pauvreté : 75 ans ou plus - Jura,D39,1742695,2015
+2012,10.7,Taux de pauvreté : 75 ans ou plus - Landes,D40,1742696,2012
+2013,9.6,Taux de pauvreté : 75 ans ou plus - Landes,D40,1742696,2013
+2014,9.1,Taux de pauvreté : 75 ans ou plus - Landes,D40,1742696,2014
+2015,8.5,Taux de pauvreté : 75 ans ou plus - Landes,D40,1742696,2015
+2012,7.7,Taux de pauvreté : 75 ans ou plus - Loir-et-Cher,D41,1742697,2012
+2013,6.7,Taux de pauvreté : 75 ans ou plus - Loir-et-Cher,D41,1742697,2013
+2014,6.4,Taux de pauvreté : 75 ans ou plus - Loir-et-Cher,D41,1742697,2014
+2015,6.3,Taux de pauvreté : 75 ans ou plus - Loir-et-Cher,D41,1742697,2015
+2012,9.0,Taux de pauvreté : 75 ans ou plus - Loire,D42,1742698,2012
+2013,7.9,Taux de pauvreté : 75 ans ou plus - Loire,D42,1742698,2013
+2014,7.8,Taux de pauvreté : 75 ans ou plus - Loire,D42,1742698,2014
+2015,7.5,Taux de pauvreté : 75 ans ou plus - Loire,D42,1742698,2015
+2012,13.6,Taux de pauvreté : 75 ans ou plus - Haute-Loire,D43,1742699,2012
+2013,11.4,Taux de pauvreté : 75 ans ou plus - Haute-Loire,D43,1742699,2013
+2014,10.9,Taux de pauvreté : 75 ans ou plus - Haute-Loire,D43,1742699,2014
+2015,10.5,Taux de pauvreté : 75 ans ou plus - Haute-Loire,D43,1742699,2015
+2012,8.4,Taux de pauvreté : 75 ans ou plus - Loire-Atlantique,D44,1742700,2012
+2013,6.9,Taux de pauvreté : 75 ans ou plus - Loire-Atlantique,D44,1742700,2013
+2014,6.5,Taux de pauvreté : 75 ans ou plus - Loire-Atlantique,D44,1742700,2014
+2015,6.3,Taux de pauvreté : 75 ans ou plus - Loire-Atlantique,D44,1742700,2015
+2012,6.5,Taux de pauvreté : 75 ans ou plus - Loiret,D45,1742701,2012
+2013,5.7,Taux de pauvreté : 75 ans ou plus - Loiret,D45,1742701,2013
+2014,5.6,Taux de pauvreté : 75 ans ou plus - Loiret,D45,1742701,2014
+2015,5.6,Taux de pauvreté : 75 ans ou plus - Loiret,D45,1742701,2015
+2012,14.5,Taux de pauvreté : 75 ans ou plus - Lot,D46,1742702,2012
+2013,12.9,Taux de pauvreté : 75 ans ou plus - Lot,D46,1742702,2013
+2014,11.8,Taux de pauvreté : 75 ans ou plus - Lot,D46,1742702,2014
+2015,11.6,Taux de pauvreté : 75 ans ou plus - Lot,D46,1742702,2015
+2012,15.2,Taux de pauvreté : 75 ans ou plus - Lot-et-Garonne,D47,1742703,2012
+2013,13.3,Taux de pauvreté : 75 ans ou plus - Lot-et-Garonne,D47,1742703,2013
+2014,12.9,Taux de pauvreté : 75 ans ou plus - Lot-et-Garonne,D47,1742703,2014
+2015,12.2,Taux de pauvreté : 75 ans ou plus - Lot-et-Garonne,D47,1742703,2015
+2012,20.0,Taux de pauvreté : 75 ans ou plus - Lozère,D48,1742704,2012
+2013,16.9,Taux de pauvreté : 75 ans ou plus - Lozère,D48,1742704,2013
+2014,15.2,Taux de pauvreté : 75 ans ou plus - Lozère,D48,1742704,2014
+2015,14.5,Taux de pauvreté : 75 ans ou plus - Lozère,D48,1742704,2015
+2012,8.4,Taux de pauvreté : 75 ans ou plus - Maine-et-Loire,D49,1742705,2012
+2013,7.0,Taux de pauvreté : 75 ans ou plus - Maine-et-Loire,D49,1742705,2013
+2014,6.7,Taux de pauvreté : 75 ans ou plus - Maine-et-Loire,D49,1742705,2014
+2015,6.2,Taux de pauvreté : 75 ans ou plus - Maine-et-Loire,D49,1742705,2015
+2012,11.3,Taux de pauvreté : 75 ans ou plus - Manche,D50,1742706,2012
+2013,9.4,Taux de pauvreté : 75 ans ou plus - Manche,D50,1742706,2013
+2014,9.0,Taux de pauvreté : 75 ans ou plus - Manche,D50,1742706,2014
+2015,8.4,Taux de pauvreté : 75 ans ou plus - Manche,D50,1742706,2015
+2012,7.7,Taux de pauvreté : 75 ans ou plus - Marne,D51,1742707,2012
+2013,6.5,Taux de pauvreté : 75 ans ou plus - Marne,D51,1742707,2013
+2014,6.6,Taux de pauvreté : 75 ans ou plus - Marne,D51,1742707,2014
+2015,6.3,Taux de pauvreté : 75 ans ou plus - Marne,D51,1742707,2015
+2012,12.6,Taux de pauvreté : 75 ans ou plus - Haute-Marne,D52,1742708,2012
+2013,10.3,Taux de pauvreté : 75 ans ou plus - Haute-Marne,D52,1742708,2013
+2014,10.1,Taux de pauvreté : 75 ans ou plus - Haute-Marne,D52,1742708,2014
+2015,9.1,Taux de pauvreté : 75 ans ou plus - Haute-Marne,D52,1742708,2015
+2012,10.3,Taux de pauvreté : 75 ans ou plus - Mayenne,D53,1742709,2012
+2013,8.8,Taux de pauvreté : 75 ans ou plus - Mayenne,D53,1742709,2013
+2014,8.3,Taux de pauvreté : 75 ans ou plus - Mayenne,D53,1742709,2014
+2015,7.6,Taux de pauvreté : 75 ans ou plus - Mayenne,D53,1742709,2015
+2012,8.1,Taux de pauvreté : 75 ans ou plus - Meurthe-et-Moselle,D54,1742710,2012
+2013,7.0,Taux de pauvreté : 75 ans ou plus - Meurthe-et-Moselle,D54,1742710,2013
+2014,6.7,Taux de pauvreté : 75 ans ou plus - Meurthe-et-Moselle,D54,1742710,2014
+2015,7.1,Taux de pauvreté : 75 ans ou plus - Meurthe-et-Moselle,D54,1742710,2015
+2012,7.8,Taux de pauvreté : 75 ans ou plus - Rhône,D69,1742761,2012
+2013,6.7,Taux de pauvreté : 75 ans ou plus - Rhône,D69,1742761,2013
+2014,6.8,Taux de pauvreté : 75 ans ou plus - Rhône,D69,1742761,2014
+2015,6.7,Taux de pauvreté : 75 ans ou plus - Rhône,D69,1742761,2015
+2012,11.8,Taux de pauvreté : 75 ans ou plus - Haute-Saône,D70,1742762,2012
+2013,9.7,Taux de pauvreté : 75 ans ou plus - Haute-Saône,D70,1742762,2013
+2014,9.7,Taux de pauvreté : 75 ans ou plus - Haute-Saône,D70,1742762,2014
+2015,9.0,Taux de pauvreté : 75 ans ou plus - Haute-Saône,D70,1742762,2015
+2012,9.6,Taux de pauvreté : 50 à 59 ans - Côte-d'Or,D21,1742195,2012
+2013,10.1,Taux de pauvreté : 50 à 59 ans - Côte-d'Or,D21,1742195,2013
+2014,10.6,Taux de pauvreté : 50 à 59 ans - Côte-d'Or,D21,1742195,2014
+2015,11.3,Taux de pauvreté : 50 à 59 ans - Côte-d'Or,D21,1742195,2015
+2012,23.1,Taux de pauvreté : Moins de 30 ans - Var,D83,1742656,2012
+2013,23.8,Taux de pauvreté : Moins de 30 ans - Var,D83,1742656,2013
+2014,23.1,Taux de pauvreté : Moins de 30 ans - Var,D83,1742656,2014
+2015,23.6,Taux de pauvreté : Moins de 30 ans - Var,D83,1742656,2015
+2012,26.5,Taux de pauvreté : Moins de 30 ans - Vaucluse,D84,1742657,2012
+2013,28.0,Taux de pauvreté : Moins de 30 ans - Vaucluse,D84,1742657,2013
+2014,28.5,Taux de pauvreté : Moins de 30 ans - Vaucluse,D84,1742657,2014
+2015,27.6,Taux de pauvreté : Moins de 30 ans - Vaucluse,D84,1742657,2015
+2012,10.8,Taux de pauvreté : 30 à 39 ans - Ain,D01,1742737,2012
+2013,11.7,Taux de pauvreté : 30 à 39 ans - Ain,D01,1742737,2013
+2014,12.1,Taux de pauvreté : 30 à 39 ans - Ain,D01,1742737,2014
+2015,12.3,Taux de pauvreté : 30 à 39 ans - Ain,D01,1742737,2015
+2012,21.9,Taux de pauvreté : 30 à 39 ans - Aisne,D02,1742738,2012
+2013,23.3,Taux de pauvreté : 30 à 39 ans - Aisne,D02,1742738,2013
+2014,23.5,Taux de pauvreté : 30 à 39 ans - Aisne,D02,1742738,2014
+2015,24.1,Taux de pauvreté : 30 à 39 ans - Aisne,D02,1742738,2015
+2012,17.7,Taux de pauvreté : 30 à 39 ans - Allier,D03,1742739,2012
+2013,18.6,Taux de pauvreté : 30 à 39 ans - Allier,D03,1742739,2013
+2014,19.5,Taux de pauvreté : 30 à 39 ans - Allier,D03,1742739,2014
+2015,19.8,Taux de pauvreté : 30 à 39 ans - Allier,D03,1742739,2015
+2012,19.3,Taux de pauvreté : 30 à 39 ans - Alpes-de-Haute-Provence,D04,1742740,2012
+2013,19.7,Taux de pauvreté : 30 à 39 ans - Alpes-de-Haute-Provence,D04,1742740,2013
+2014,21.7,Taux de pauvreté : 30 à 39 ans - Alpes-de-Haute-Provence,D04,1742740,2014
+2015,21.7,Taux de pauvreté : 30 à 39 ans - Alpes-de-Haute-Provence,D04,1742740,2015
+2012,15.6,Taux de pauvreté : 30 à 39 ans - Hautes-Alpes,D05,1742741,2012
+2013,16.5,Taux de pauvreté : 30 à 39 ans - Hautes-Alpes,D05,1742741,2013
+2014,17.5,Taux de pauvreté : 30 à 39 ans - Hautes-Alpes,D05,1742741,2014
+2015,16.9,Taux de pauvreté : 30 à 39 ans - Hautes-Alpes,D05,1742741,2015
+2012,16.7,Taux de pauvreté : 30 à 39 ans - Alpes-Maritimes,D06,1742742,2012
+2013,17.9,Taux de pauvreté : 30 à 39 ans - Alpes-Maritimes,D06,1742742,2013
+2014,18.8,Taux de pauvreté : 30 à 39 ans - Alpes-Maritimes,D06,1742742,2014
+2015,18.6,Taux de pauvreté : 30 à 39 ans - Alpes-Maritimes,D06,1742742,2015
+2012,17.4,Taux de pauvreté : 30 à 39 ans - Ardèche,D07,1742743,2012
+2013,17.9,Taux de pauvreté : 30 à 39 ans - Ardèche,D07,1742743,2013
+2014,18.5,Taux de pauvreté : 30 à 39 ans - Ardèche,D07,1742743,2014
+2015,18.3,Taux de pauvreté : 30 à 39 ans - Ardèche,D07,1742743,2015
+2012,22.2,Taux de pauvreté : 30 à 39 ans - Ardennes,D08,1742744,2012
+2013,23.4,Taux de pauvreté : 30 à 39 ans - Ardennes,D08,1742744,2013
+2014,23.6,Taux de pauvreté : 30 à 39 ans - Ardennes,D08,1742744,2014
+2015,24.4,Taux de pauvreté : 30 à 39 ans - Ardennes,D08,1742744,2015
+2012,20.5,Taux de pauvreté : 30 à 39 ans - Ariège,D09,1742745,2012
+2013,22.7,Taux de pauvreté : 30 à 39 ans - Ariège,D09,1742745,2013
+2014,23.7,Taux de pauvreté : 30 à 39 ans - Ariège,D09,1742745,2014
+2015,23.5,Taux de pauvreté : 30 à 39 ans - Ariège,D09,1742745,2015
+2012,18.3,Taux de pauvreté : 30 à 39 ans - Aube,D10,1742746,2012
+2013,19.3,Taux de pauvreté : 30 à 39 ans - Aube,D10,1742746,2013
+2014,19.5,Taux de pauvreté : 30 à 39 ans - Aube,D10,1742746,2014
+2015,20.3,Taux de pauvreté : 30 à 39 ans - Aube,D10,1742746,2015
+2012,11.5,Taux de pauvreté : 75 ans ou plus - Meuse,D55,1742747,2012
+2013,9.1,Taux de pauvreté : 75 ans ou plus - Meuse,D55,1742747,2013
+2014,8.9,Taux de pauvreté : 75 ans ou plus - Meuse,D55,1742747,2014
+2015,9.3,Taux de pauvreté : 75 ans ou plus - Meuse,D55,1742747,2015
+2012,10.3,Taux de pauvreté : 75 ans ou plus - Morbihan,D56,1742748,2012
+2013,8.2,Taux de pauvreté : 75 ans ou plus - Morbihan,D56,1742748,2013
+2014,7.8,Taux de pauvreté : 75 ans ou plus - Morbihan,D56,1742748,2014
+2015,7.6,Taux de pauvreté : 75 ans ou plus - Morbihan,D56,1742748,2015
+2012,9.3,Taux de pauvreté : 75 ans ou plus - Moselle,D57,1742749,2012
+2013,7.9,Taux de pauvreté : 75 ans ou plus - Moselle,D57,1742749,2013
+2014,7.8,Taux de pauvreté : 75 ans ou plus - Moselle,D57,1742749,2014
+2015,8.2,Taux de pauvreté : 75 ans ou plus - Moselle,D57,1742749,2015
+2012,9.8,Taux de pauvreté : 75 ans ou plus - Nièvre,D58,1742750,2012
+2013,8.6,Taux de pauvreté : 75 ans ou plus - Nièvre,D58,1742750,2013
+2014,8.2,Taux de pauvreté : 75 ans ou plus - Nièvre,D58,1742750,2014
+2015,7.9,Taux de pauvreté : 75 ans ou plus - Nièvre,D58,1742750,2015
+2012,10.8,Taux de pauvreté : 75 ans ou plus - Nord,D59,1742751,2012
+2013,9.1,Taux de pauvreté : 75 ans ou plus - Nord,D59,1742751,2013
+2014,9.0,Taux de pauvreté : 75 ans ou plus - Nord,D59,1742751,2014
+2015,9.2,Taux de pauvreté : 75 ans ou plus - Nord,D59,1742751,2015
+2012,8.5,Taux de pauvreté : 75 ans ou plus - Oise,D60,1742752,2012
+2013,6.9,Taux de pauvreté : 75 ans ou plus - Oise,D60,1742752,2013
+2014,6.8,Taux de pauvreté : 75 ans ou plus - Oise,D60,1742752,2014
+2015,6.8,Taux de pauvreté : 75 ans ou plus - Oise,D60,1742752,2015
+2012,10.0,Taux de pauvreté : 75 ans ou plus - Orne,D61,1742753,2012
+2013,8.3,Taux de pauvreté : 75 ans ou plus - Orne,D61,1742753,2013
+2014,8.0,Taux de pauvreté : 75 ans ou plus - Orne,D61,1742753,2014
+2015,7.6,Taux de pauvreté : 75 ans ou plus - Orne,D61,1742753,2015
+2012,12.4,Taux de pauvreté : 75 ans ou plus - Pas-de-Calais,D62,1742754,2012
+2013,10.6,Taux de pauvreté : 75 ans ou plus - Pas-de-Calais,D62,1742754,2013
+2014,10.2,Taux de pauvreté : 75 ans ou plus - Pas-de-Calais,D62,1742754,2014
+2015,10.2,Taux de pauvreté : 75 ans ou plus - Pas-de-Calais,D62,1742754,2015
+2012,10.0,Taux de pauvreté : 75 ans ou plus - Puy-de-Dôme,D63,1742755,2012
+2013,8.8,Taux de pauvreté : 75 ans ou plus - Puy-de-Dôme,D63,1742755,2013
+2014,8.4,Taux de pauvreté : 75 ans ou plus - Puy-de-Dôme,D63,1742755,2014
+2015,8.3,Taux de pauvreté : 75 ans ou plus - Puy-de-Dôme,D63,1742755,2015
+2012,10.3,Taux de pauvreté : 75 ans ou plus - Pyrénées-Atlantiques,D64,1742756,2012
+2013,8.8,Taux de pauvreté : 75 ans ou plus - Pyrénées-Atlantiques,D64,1742756,2013
+2014,8.6,Taux de pauvreté : 75 ans ou plus - Pyrénées-Atlantiques,D64,1742756,2014
+2015,8.4,Taux de pauvreté : 75 ans ou plus - Pyrénées-Atlantiques,D64,1742756,2015
+2012,12.6,Taux de pauvreté : 75 ans ou plus - Hautes-Pyrénées,D65,1742757,2012
+2013,11.2,Taux de pauvreté : 75 ans ou plus - Hautes-Pyrénées,D65,1742757,2013
+2014,10.9,Taux de pauvreté : 75 ans ou plus - Hautes-Pyrénées,D65,1742757,2014
+2015,11.1,Taux de pauvreté : 75 ans ou plus - Hautes-Pyrénées,D65,1742757,2015
+2012,15.8,Taux de pauvreté : 75 ans ou plus - Pyrénées-Orientales,D66,1742758,2012
+2013,14.3,Taux de pauvreté : 75 ans ou plus - Pyrénées-Orientales,D66,1742758,2013
+2014,13.9,Taux de pauvreté : 75 ans ou plus - Pyrénées-Orientales,D66,1742758,2014
+2015,12.8,Taux de pauvreté : 75 ans ou plus - Pyrénées-Orientales,D66,1742758,2015
+2012,6.5,Taux de pauvreté : 75 ans ou plus - Bas-Rhin,D67,1742759,2012
+2013,5.5,Taux de pauvreté : 75 ans ou plus - Bas-Rhin,D67,1742759,2013
+2014,5.5,Taux de pauvreté : 75 ans ou plus - Bas-Rhin,D67,1742759,2014
+2015,6.2,Taux de pauvreté : 75 ans ou plus - Bas-Rhin,D67,1742759,2015
+2012,6.1,Taux de pauvreté : 75 ans ou plus - Haut-Rhin,D68,1742760,2012
+2013,5.3,Taux de pauvreté : 75 ans ou plus - Haut-Rhin,D68,1742760,2013
+2014,5.2,Taux de pauvreté : 75 ans ou plus - Haut-Rhin,D68,1742760,2014
+2015,5.7,Taux de pauvreté : 75 ans ou plus - Haut-Rhin,D68,1742760,2015
+2012,10.3,Taux de pauvreté : 75 ans ou plus - Saône-et-Loire,D71,1742763,2012
+2013,8.7,Taux de pauvreté : 75 ans ou plus - Saône-et-Loire,D71,1742763,2013
+2014,8.4,Taux de pauvreté : 75 ans ou plus - Saône-et-Loire,D71,1742763,2014
+2015,8.2,Taux de pauvreté : 75 ans ou plus - Saône-et-Loire,D71,1742763,2015
+2012,7.9,Taux de pauvreté : 75 ans ou plus - Sarthe,D72,1742764,2012
+2013,6.3,Taux de pauvreté : 75 ans ou plus - Sarthe,D72,1742764,2013
+2014,6.1,Taux de pauvreté : 75 ans ou plus - Sarthe,D72,1742764,2014
+2015,5.8,Taux de pauvreté : 75 ans ou plus - Sarthe,D72,1742764,2015
+2012,8.1,Taux de pauvreté : 75 ans ou plus - Savoie,D73,1742765,2012
+2013,7.0,Taux de pauvreté : 75 ans ou plus - Savoie,D73,1742765,2013
+2014,6.8,Taux de pauvreté : 75 ans ou plus - Savoie,D73,1742765,2014
+2015,6.2,Taux de pauvreté : 75 ans ou plus - Savoie,D73,1742765,2015
+2012,8.3,Taux de pauvreté : 75 ans ou plus - Haute-Savoie,D74,1742766,2012
+2013,7.0,Taux de pauvreté : 75 ans ou plus - Haute-Savoie,D74,1742766,2013
+2014,7.0,Taux de pauvreté : 75 ans ou plus - Haute-Savoie,D74,1742766,2014
+2015,6.4,Taux de pauvreté : 75 ans ou plus - Haute-Savoie,D74,1742766,2015
+2012,9.5,Taux de pauvreté : 75 ans ou plus - Paris,D75,1742767,2012
+2013,8.7,Taux de pauvreté : 75 ans ou plus - Paris,D75,1742767,2013
+2014,8.8,Taux de pauvreté : 75 ans ou plus - Paris,D75,1742767,2014
+2015,9.1,Taux de pauvreté : 75 ans ou plus - Paris,D75,1742767,2015
+2012,7.3,Taux de pauvreté : 75 ans ou plus - Seine-Maritime,D76,1742768,2012
+2013,6.1,Taux de pauvreté : 75 ans ou plus - Seine-Maritime,D76,1742768,2013
+2014,6.2,Taux de pauvreté : 75 ans ou plus - Seine-Maritime,D76,1742768,2014
+2015,6.3,Taux de pauvreté : 75 ans ou plus - Seine-Maritime,D76,1742768,2015
+2012,6.7,Taux de pauvreté : 75 ans ou plus - Seine-et-Marne,D77,1742769,2012
+2013,6.0,Taux de pauvreté : 75 ans ou plus - Seine-et-Marne,D77,1742769,2013
+2014,5.9,Taux de pauvreté : 75 ans ou plus - Seine-et-Marne,D77,1742769,2014
+2015,5.9,Taux de pauvreté : 75 ans ou plus - Seine-et-Marne,D77,1742769,2015
+2012,4.9,Taux de pauvreté : 75 ans ou plus - Yvelines,D78,1742770,2012
+2013,5.0,Taux de pauvreté : 75 ans ou plus - Yvelines,D78,1742770,2013
+2014,5.0,Taux de pauvreté : 75 ans ou plus - Yvelines,D78,1742770,2014
+2015,5.0,Taux de pauvreté : 75 ans ou plus - Yvelines,D78,1742770,2015
+2012,13.1,Taux de pauvreté : 75 ans ou plus - Deux-Sèvres,D79,1742771,2012
+2013,11.0,Taux de pauvreté : 75 ans ou plus - Deux-Sèvres,D79,1742771,2013
+2014,10.4,Taux de pauvreté : 75 ans ou plus - Deux-Sèvres,D79,1742771,2014
+2015,9.9,Taux de pauvreté : 75 ans ou plus - Deux-Sèvres,D79,1742771,2015
+2012,11.1,Taux de pauvreté : 75 ans ou plus - Somme,D80,1742772,2012
+2013,9.2,Taux de pauvreté : 75 ans ou plus - Somme,D80,1742772,2013
+2014,8.6,Taux de pauvreté : 75 ans ou plus - Somme,D80,1742772,2014
+2015,8.5,Taux de pauvreté : 75 ans ou plus - Somme,D80,1742772,2015
+2012,12.3,Taux de pauvreté : 75 ans ou plus - Tarn,D81,1742773,2012
+2013,10.9,Taux de pauvreté : 75 ans ou plus - Tarn,D81,1742773,2013
+2014,10.5,Taux de pauvreté : 75 ans ou plus - Tarn,D81,1742773,2014
+2015,10.4,Taux de pauvreté : 75 ans ou plus - Tarn,D81,1742773,2015
+2012,16.1,Taux de pauvreté : 75 ans ou plus - Tarn-et-Garonne,D82,1742774,2012
+2013,14.6,Taux de pauvreté : 75 ans ou plus - Tarn-et-Garonne,D82,1742774,2013
+2014,14.2,Taux de pauvreté : 75 ans ou plus - Tarn-et-Garonne,D82,1742774,2014
+2015,13.5,Taux de pauvreté : 75 ans ou plus - Tarn-et-Garonne,D82,1742774,2015
+2012,9.9,Taux de pauvreté : 75 ans ou plus - Var,D83,1742775,2012
+2013,9.3,Taux de pauvreté : 75 ans ou plus - Var,D83,1742775,2013
+2014,9.1,Taux de pauvreté : 75 ans ou plus - Var,D83,1742775,2014
+2015,8.4,Taux de pauvreté : 75 ans ou plus - Var,D83,1742775,2015
+2012,13.6,Taux de pauvreté : 75 ans ou plus - Vaucluse,D84,1742776,2012
+2013,12.1,Taux de pauvreté : 75 ans ou plus - Vaucluse,D84,1742776,2013
+2014,11.7,Taux de pauvreté : 75 ans ou plus - Vaucluse,D84,1742776,2014
+2015,10.9,Taux de pauvreté : 75 ans ou plus - Vaucluse,D84,1742776,2015
+2012,10.9,Taux de pauvreté : 75 ans ou plus - Vendée,D85,1742777,2012
+2013,8.9,Taux de pauvreté : 75 ans ou plus - Vendée,D85,1742777,2013
+2014,8.5,Taux de pauvreté : 75 ans ou plus - Vendée,D85,1742777,2014
+2015,7.6,Taux de pauvreté : 75 ans ou plus - Vendée,D85,1742777,2015
+2012,13.1,Taux de pauvreté : 75 ans ou plus - Vienne,D86,1742778,2012
+2013,10.7,Taux de pauvreté : 75 ans ou plus - Vienne,D86,1742778,2013
+2014,10.1,Taux de pauvreté : 75 ans ou plus - Vienne,D86,1742778,2014
+2015,9.6,Taux de pauvreté : 75 ans ou plus - Vienne,D86,1742778,2015
+2012,12.2,Taux de pauvreté : 75 ans ou plus - Haute-Vienne,D87,1742779,2012
+2013,11.0,Taux de pauvreté : 75 ans ou plus - Haute-Vienne,D87,1742779,2013
+2014,10.4,Taux de pauvreté : 75 ans ou plus - Haute-Vienne,D87,1742779,2014
+2015,9.6,Taux de pauvreté : 75 ans ou plus - Haute-Vienne,D87,1742779,2015
+2012,9.0,Taux de pauvreté : 75 ans ou plus - Vosges,D88,1742780,2012
+2013,7.3,Taux de pauvreté : 75 ans ou plus - Vosges,D88,1742780,2013
+2014,7.2,Taux de pauvreté : 75 ans ou plus - Vosges,D88,1742780,2014
+2015,7.6,Taux de pauvreté : 75 ans ou plus - Vosges,D88,1742780,2015
+2012,8.4,Taux de pauvreté : 75 ans ou plus - Yonne,D89,1742781,2012
+2013,7.3,Taux de pauvreté : 75 ans ou plus - Yonne,D89,1742781,2013
+2014,7.1,Taux de pauvreté : 75 ans ou plus - Yonne,D89,1742781,2014
+2015,6.6,Taux de pauvreté : 75 ans ou plus - Yonne,D89,1742781,2015
+2012,7.8,Taux de pauvreté : 75 ans ou plus - Territoire de Belfort,D90,1742782,2012
+2013,6.9,Taux de pauvreté : 75 ans ou plus - Territoire de Belfort,D90,1742782,2013
+2014,6.4,Taux de pauvreté : 75 ans ou plus - Territoire de Belfort,D90,1742782,2014
+2015,6.8,Taux de pauvreté : 75 ans ou plus - Territoire de Belfort,D90,1742782,2015
+2012,5.2,Taux de pauvreté : 75 ans ou plus - Essonne,D91,1742783,2012
+2013,5.0,Taux de pauvreté : 75 ans ou plus - Essonne,D91,1742783,2013
+2014,5.0,Taux de pauvreté : 75 ans ou plus - Essonne,D91,1742783,2014
+2015,5.0,Taux de pauvreté : 75 ans ou plus - Essonne,D91,1742783,2015
+2012,24.1,Taux de pauvreté : 30 à 39 ans - Aude,D11,1742784,2012
+2013,26.0,Taux de pauvreté : 30 à 39 ans - Aude,D11,1742784,2013
+2014,26.7,Taux de pauvreté : 30 à 39 ans - Aude,D11,1742784,2014
+2015,26.8,Taux de pauvreté : 30 à 39 ans - Aude,D11,1742784,2015
+2012,15.3,Taux de pauvreté : 30 à 39 ans - Aveyron,D12,1742785,2012
+2013,16.4,Taux de pauvreté : 30 à 39 ans - Aveyron,D12,1742785,2013
+2014,16.3,Taux de pauvreté : 30 à 39 ans - Aveyron,D12,1742785,2014
+2015,16.7,Taux de pauvreté : 30 à 39 ans - Aveyron,D12,1742785,2015
+2012,17.3,Taux de pauvreté : 50 à 59 ans - Bouches-du-Rhône,D13,1742186,2012
+2013,18.1,Taux de pauvreté : 50 à 59 ans - Bouches-du-Rhône,D13,1742186,2013
+2014,18.6,Taux de pauvreté : 50 à 59 ans - Bouches-du-Rhône,D13,1742186,2014
+2015,19.1,Taux de pauvreté : 50 à 59 ans - Bouches-du-Rhône,D13,1742186,2015
+2012,11.7,Taux de pauvreté : 50 à 59 ans - Calvados,D14,1742187,2012
+2013,12.3,Taux de pauvreté : 50 à 59 ans - Calvados,D14,1742187,2013
+2014,12.6,Taux de pauvreté : 50 à 59 ans - Calvados,D14,1742187,2014
+2015,13.0,Taux de pauvreté : 50 à 59 ans - Calvados,D14,1742187,2015
+2012,15.2,Taux de pauvreté : 50 à 59 ans - Cantal,D15,1742188,2012
+2013,15.4,Taux de pauvreté : 50 à 59 ans - Cantal,D15,1742188,2013
+2014,15.2,Taux de pauvreté : 50 à 59 ans - Cantal,D15,1742188,2014
+2015,15.1,Taux de pauvreté : 50 à 59 ans - Cantal,D15,1742188,2015
+2012,13.5,Taux de pauvreté : 50 à 59 ans - Charente,D16,1742189,2012
+2013,13.8,Taux de pauvreté : 50 à 59 ans - Charente,D16,1742189,2013
+2014,14.5,Taux de pauvreté : 50 à 59 ans - Charente,D16,1742189,2014
+2015,14.7,Taux de pauvreté : 50 à 59 ans - Charente,D16,1742189,2015
+2012,13.3,Taux de pauvreté : 50 à 59 ans - Charente-Maritime,D17,1742190,2012
+2013,13.9,Taux de pauvreté : 50 à 59 ans - Charente-Maritime,D17,1742190,2013
+2014,14.4,Taux de pauvreté : 50 à 59 ans - Charente-Maritime,D17,1742190,2014
+2015,14.4,Taux de pauvreté : 50 à 59 ans - Charente-Maritime,D17,1742190,2015
+2012,13.6,Taux de pauvreté : 50 à 59 ans - Cher,D18,1742191,2012
+2013,14.0,Taux de pauvreté : 50 à 59 ans - Cher,D18,1742191,2013
+2014,14.7,Taux de pauvreté : 50 à 59 ans - Cher,D18,1742191,2014
+2015,14.9,Taux de pauvreté : 50 à 59 ans - Cher,D18,1742191,2015
+2012,12.4,Taux de pauvreté : 50 à 59 ans - Corrèze,D19,1742192,2012
+2013,13.2,Taux de pauvreté : 50 à 59 ans - Corrèze,D19,1742192,2013
+2014,13.2,Taux de pauvreté : 50 à 59 ans - Corrèze,D19,1742192,2014
+2015,13.0,Taux de pauvreté : 50 à 59 ans - Corrèze,D19,1742192,2015
+2012,17.7,Taux de pauvreté : 50 à 59 ans - Corse-du-Sud,D2A,1742193,2012
+2013,17.9,Taux de pauvreté : 50 à 59 ans - Corse-du-Sud,D2A,1742193,2013
+2014,17.8,Taux de pauvreté : 50 à 59 ans - Corse-du-Sud,D2A,1742193,2014
+2015,17.2,Taux de pauvreté : 50 à 59 ans - Corse-du-Sud,D2A,1742193,2015
+2012,21.0,Taux de pauvreté : 50 à 59 ans - Haute-Corse,D2B,1742194,2012
+2013,21.3,Taux de pauvreté : 50 à 59 ans - Haute-Corse,D2B,1742194,2013
+2014,21.4,Taux de pauvreté : 50 à 59 ans - Haute-Corse,D2B,1742194,2014
+2015,21.7,Taux de pauvreté : 50 à 59 ans - Haute-Corse,D2B,1742194,2015
+2012,10.9,Taux de pauvreté : 50 à 59 ans - Côtes-d'Armor,D22,1742196,2012
+2013,11.5,Taux de pauvreté : 50 à 59 ans - Côtes-d'Armor,D22,1742196,2013
+2014,11.8,Taux de pauvreté : 50 à 59 ans - Côtes-d'Armor,D22,1742196,2014
+2015,12.5,Taux de pauvreté : 50 à 59 ans - Côtes-d'Armor,D22,1742196,2015
+2012,18.5,Taux de pauvreté : 50 à 59 ans - Creuse,D23,1742197,2012
+2013,19.3,Taux de pauvreté : 50 à 59 ans - Creuse,D23,1742197,2013
+2014,19.6,Taux de pauvreté : 50 à 59 ans - Creuse,D23,1742197,2014
+2015,19.9,Taux de pauvreté : 50 à 59 ans - Creuse,D23,1742197,2015
+2012,15.9,Taux de pauvreté : 50 à 59 ans - Dordogne,D24,1742198,2012
+2013,16.7,Taux de pauvreté : 50 à 59 ans - Dordogne,D24,1742198,2013
+2014,17.0,Taux de pauvreté : 50 à 59 ans - Dordogne,D24,1742198,2014
+2015,17.4,Taux de pauvreté : 50 à 59 ans - Dordogne,D24,1742198,2015
+2012,10.5,Taux de pauvreté : 50 à 59 ans - Doubs,D25,1742199,2012
+2013,11.0,Taux de pauvreté : 50 à 59 ans - Doubs,D25,1742199,2013
+2014,10.9,Taux de pauvreté : 50 à 59 ans - Doubs,D25,1742199,2014
+2015,11.2,Taux de pauvreté : 50 à 59 ans - Doubs,D25,1742199,2015
+2012,14.1,Taux de pauvreté : 50 à 59 ans - Drôme,D26,1742200,2012
+2013,14.8,Taux de pauvreté : 50 à 59 ans - Drôme,D26,1742200,2013
+2014,14.9,Taux de pauvreté : 50 à 59 ans - Drôme,D26,1742200,2014
+2015,15.2,Taux de pauvreté : 50 à 59 ans - Drôme,D26,1742200,2015
+2012,11.3,Taux de pauvreté : 50 à 59 ans - Eure,D27,1742201,2012
+2013,11.6,Taux de pauvreté : 50 à 59 ans - Eure,D27,1742201,2013
+2014,12.2,Taux de pauvreté : 50 à 59 ans - Eure,D27,1742201,2014
+2015,12.8,Taux de pauvreté : 50 à 59 ans - Eure,D27,1742201,2015
+2012,10.2,Taux de pauvreté : 50 à 59 ans - Eure-et-Loir,D28,1742202,2012
+2013,10.7,Taux de pauvreté : 50 à 59 ans - Eure-et-Loir,D28,1742202,2013
+2014,11.4,Taux de pauvreté : 50 à 59 ans - Eure-et-Loir,D28,1742202,2014
+2015,11.9,Taux de pauvreté : 50 à 59 ans - Eure-et-Loir,D28,1742202,2015
+2012,9.7,Taux de pauvreté : 50 à 59 ans - Finistère,D29,1742203,2012
+2013,10.1,Taux de pauvreté : 50 à 59 ans - Finistère,D29,1742203,2013
+2014,10.6,Taux de pauvreté : 50 à 59 ans - Finistère,D29,1742203,2014
+2015,11.2,Taux de pauvreté : 50 à 59 ans - Finistère,D29,1742203,2015
+2012,19.6,Taux de pauvreté : 50 à 59 ans - Gard,D30,1742204,2012
+2013,20.1,Taux de pauvreté : 50 à 59 ans - Gard,D30,1742204,2013
+2014,20.3,Taux de pauvreté : 50 à 59 ans - Gard,D30,1742204,2014
+2015,20.5,Taux de pauvreté : 50 à 59 ans - Gard,D30,1742204,2015
+2012,10.6,Taux de pauvreté : 50 à 59 ans - Haute-Garonne,D31,1742205,2012
+2013,11.1,Taux de pauvreté : 50 à 59 ans - Haute-Garonne,D31,1742205,2013
+2014,11.6,Taux de pauvreté : 50 à 59 ans - Haute-Garonne,D31,1742205,2014
+2015,12.0,Taux de pauvreté : 50 à 59 ans - Haute-Garonne,D31,1742205,2015
+2012,14.4,Taux de pauvreté : 50 à 59 ans - Gers,D32,1742206,2012
+2013,15.0,Taux de pauvreté : 50 à 59 ans - Gers,D32,1742206,2013
+2014,15.6,Taux de pauvreté : 50 à 59 ans - Gers,D32,1742206,2014
+2015,15.4,Taux de pauvreté : 50 à 59 ans - Gers,D32,1742206,2015
+2012,10.7,Taux de pauvreté : 50 à 59 ans - Gironde,D33,1742207,2012
+2013,11.3,Taux de pauvreté : 50 à 59 ans - Gironde,D33,1742207,2013
+2014,11.9,Taux de pauvreté : 50 à 59 ans - Gironde,D33,1742207,2014
+2015,12.3,Taux de pauvreté : 50 à 59 ans - Gironde,D33,1742207,2015
+2012,18.7,Taux de pauvreté : 50 à 59 ans - Hérault,D34,1742208,2012
+2013,19.4,Taux de pauvreté : 50 à 59 ans - Hérault,D34,1742208,2013
+2014,20.0,Taux de pauvreté : 50 à 59 ans - Hérault,D34,1742208,2014
+2015,19.9,Taux de pauvreté : 50 à 59 ans - Hérault,D34,1742208,2015
+2012,8.5,Taux de pauvreté : 50 à 59 ans - Ille-et-Vilaine,D35,1742209,2012
+2013,8.7,Taux de pauvreté : 50 à 59 ans - Ille-et-Vilaine,D35,1742209,2013
+2014,9.3,Taux de pauvreté : 50 à 59 ans - Ille-et-Vilaine,D35,1742209,2014
+2015,10.0,Taux de pauvreté : 50 à 59 ans - Ille-et-Vilaine,D35,1742209,2015
+2012,14.2,Taux de pauvreté : 50 à 59 ans - Indre,D36,1742210,2012
+2013,14.6,Taux de pauvreté : 50 à 59 ans - Indre,D36,1742210,2013
+2014,14.8,Taux de pauvreté : 50 à 59 ans - Indre,D36,1742210,2014
+2015,15.3,Taux de pauvreté : 50 à 59 ans - Indre,D36,1742210,2015
+2012,10.5,Taux de pauvreté : 50 à 59 ans - Indre-et-Loire,D37,1742211,2012
+2013,10.8,Taux de pauvreté : 50 à 59 ans - Indre-et-Loire,D37,1742211,2013
+2014,11.4,Taux de pauvreté : 50 à 59 ans - Indre-et-Loire,D37,1742211,2014
+2015,12.1,Taux de pauvreté : 50 à 59 ans - Indre-et-Loire,D37,1742211,2015
+2012,9.3,Taux de pauvreté : 50 à 59 ans - Isère,D38,1742212,2012
+2013,9.7,Taux de pauvreté : 50 à 59 ans - Isère,D38,1742212,2013
+2014,10.2,Taux de pauvreté : 50 à 59 ans - Isère,D38,1742212,2014
+2015,10.6,Taux de pauvreté : 50 à 59 ans - Isère,D38,1742212,2015
+2012,10.8,Taux de pauvreté : 50 à 59 ans - Jura,D39,1742213,2012
+2013,11.5,Taux de pauvreté : 50 à 59 ans - Jura,D39,1742213,2013
+2014,11.4,Taux de pauvreté : 50 à 59 ans - Jura,D39,1742213,2014
+2015,11.4,Taux de pauvreté : 50 à 59 ans - Jura,D39,1742213,2015
+2012,11.0,Taux de pauvreté : 50 à 59 ans - Landes,D40,1742214,2012
+2013,11.6,Taux de pauvreté : 50 à 59 ans - Landes,D40,1742214,2013
+2014,12.2,Taux de pauvreté : 50 à 59 ans - Landes,D40,1742214,2014
+2015,12.3,Taux de pauvreté : 50 à 59 ans - Landes,D40,1742214,2015
+2012,12.2,Taux de pauvreté : 50 à 59 ans - Loire,D42,1742216,2012
+2013,13.1,Taux de pauvreté : 50 à 59 ans - Loire,D42,1742216,2013
+2014,13.9,Taux de pauvreté : 50 à 59 ans - Loire,D42,1742216,2014
+2015,14.6,Taux de pauvreté : 50 à 59 ans - Loire,D42,1742216,2015
+2012,15.3,Taux de pauvreté : 50 à 59 ans - Lozère,D48,1742222,2012
+2013,15.8,Taux de pauvreté : 50 à 59 ans - Lozère,D48,1742222,2013
+2014,15.8,Taux de pauvreté : 50 à 59 ans - Lozère,D48,1742222,2014
+2015,16.0,Taux de pauvreté : 50 à 59 ans - Lozère,D48,1742222,2015
+2012,10.6,Taux de pauvreté : 50 à 59 ans - Maine-et-Loire,D49,1742223,2012
+2013,11.2,Taux de pauvreté : 50 à 59 ans - Maine-et-Loire,D49,1742223,2013
+2014,11.4,Taux de pauvreté : 50 à 59 ans - Maine-et-Loire,D49,1742223,2014
+2015,11.7,Taux de pauvreté : 50 à 59 ans - Maine-et-Loire,D49,1742223,2015
+2012,12.6,Taux de pauvreté : 50 à 59 ans - Manche,D50,1742224,2012
+2013,12.7,Taux de pauvreté : 50 à 59 ans - Manche,D50,1742224,2013
+2014,12.4,Taux de pauvreté : 50 à 59 ans - Manche,D50,1742224,2014
+2015,12.9,Taux de pauvreté : 50 à 59 ans - Manche,D50,1742224,2015
+2012,11.3,Taux de pauvreté : 50 à 59 ans - Marne,D51,1742225,2012
+2013,12.1,Taux de pauvreté : 50 à 59 ans - Marne,D51,1742225,2013
+2014,12.4,Taux de pauvreté : 50 à 59 ans - Marne,D51,1742225,2014
+2015,13.0,Taux de pauvreté : 50 à 59 ans - Marne,D51,1742225,2015
+2012,14.2,Taux de pauvreté : 50 à 59 ans - Haute-Marne,D52,1742226,2012
+2013,14.4,Taux de pauvreté : 50 à 59 ans - Haute-Marne,D52,1742226,2013
+2014,14.9,Taux de pauvreté : 50 à 59 ans - Haute-Marne,D52,1742226,2014
+2015,15.7,Taux de pauvreté : 50 à 59 ans - Haute-Marne,D52,1742226,2015
+2012,10.5,Taux de pauvreté : 50 à 59 ans - Mayenne,D53,1742227,2012
+2013,11.2,Taux de pauvreté : 50 à 59 ans - Mayenne,D53,1742227,2013
+2014,11.3,Taux de pauvreté : 50 à 59 ans - Mayenne,D53,1742227,2014
+2015,12.1,Taux de pauvreté : 50 à 59 ans - Mayenne,D53,1742227,2015
+2012,11.8,Taux de pauvreté : 50 à 59 ans - Meurthe-et-Moselle,D54,1742228,2012
+2013,12.3,Taux de pauvreté : 50 à 59 ans - Meurthe-et-Moselle,D54,1742228,2013
+2014,12.7,Taux de pauvreté : 50 à 59 ans - Meurthe-et-Moselle,D54,1742228,2014
+2015,13.5,Taux de pauvreté : 50 à 59 ans - Meurthe-et-Moselle,D54,1742228,2015
+2012,13.5,Taux de pauvreté : 50 à 59 ans - Meuse,D55,1742229,2012
+2013,14.1,Taux de pauvreté : 50 à 59 ans - Meuse,D55,1742229,2013
+2014,14.6,Taux de pauvreté : 50 à 59 ans - Meuse,D55,1742229,2014
+2015,15.1,Taux de pauvreté : 50 à 59 ans - Meuse,D55,1742229,2015
+2012,10.3,Taux de pauvreté : 50 à 59 ans - Morbihan,D56,1742230,2012
+2013,10.8,Taux de pauvreté : 50 à 59 ans - Morbihan,D56,1742230,2013
+2014,11.2,Taux de pauvreté : 50 à 59 ans - Morbihan,D56,1742230,2014
+2015,11.8,Taux de pauvreté : 50 à 59 ans - Morbihan,D56,1742230,2015
+2012,11.8,Taux de pauvreté : 50 à 59 ans - Moselle,D57,1742231,2012
+2013,11.6,Taux de pauvreté : 50 à 59 ans - Moselle,D57,1742231,2013
+2014,11.9,Taux de pauvreté : 50 à 59 ans - Moselle,D57,1742231,2014
+2015,12.7,Taux de pauvreté : 50 à 59 ans - Moselle,D57,1742231,2015
+2012,15.3,Taux de pauvreté : 50 à 59 ans - Nièvre,D58,1742232,2012
+2013,16.1,Taux de pauvreté : 50 à 59 ans - Nièvre,D58,1742232,2013
+2014,16.4,Taux de pauvreté : 50 à 59 ans - Nièvre,D58,1742232,2014
+2015,17.0,Taux de pauvreté : 50 à 59 ans - Nièvre,D58,1742232,2015
+2012,17.2,Taux de pauvreté : 50 à 59 ans - Nord,D59,1742233,2012
+2013,17.8,Taux de pauvreté : 50 à 59 ans - Nord,D59,1742233,2013
+2014,18.1,Taux de pauvreté : 50 à 59 ans - Nord,D59,1742233,2014
+2015,18.8,Taux de pauvreté : 50 à 59 ans - Nord,D59,1742233,2015
+2012,11.5,Taux de pauvreté : 50 à 59 ans - Oise,D60,1742234,2012
+2013,11.8,Taux de pauvreté : 50 à 59 ans - Oise,D60,1742234,2013
+2014,12.0,Taux de pauvreté : 50 à 59 ans - Oise,D60,1742234,2014
+2015,12.5,Taux de pauvreté : 50 à 59 ans - Oise,D60,1742234,2015
+2012,14.4,Taux de pauvreté : 50 à 59 ans - Orne,D61,1742235,2012
+2013,15.4,Taux de pauvreté : 50 à 59 ans - Orne,D61,1742235,2013
+2014,16.3,Taux de pauvreté : 50 à 59 ans - Orne,D61,1742235,2014
+2015,16.5,Taux de pauvreté : 50 à 59 ans - Orne,D61,1742235,2015
+2012,18.2,Taux de pauvreté : 50 à 59 ans - Pas-de-Calais,D62,1742236,2012
+2013,18.7,Taux de pauvreté : 50 à 59 ans - Pas-de-Calais,D62,1742236,2013
+2014,18.9,Taux de pauvreté : 50 à 59 ans - Pas-de-Calais,D62,1742236,2014
+2015,19.5,Taux de pauvreté : 50 à 59 ans - Pas-de-Calais,D62,1742236,2015
+2012,11.1,Taux de pauvreté : 50 à 59 ans - Puy-de-Dôme,D63,1742237,2012
+2013,11.7,Taux de pauvreté : 50 à 59 ans - Puy-de-Dôme,D63,1742237,2013
+2014,11.8,Taux de pauvreté : 50 à 59 ans - Puy-de-Dôme,D63,1742237,2014
+2015,12.3,Taux de pauvreté : 50 à 59 ans - Puy-de-Dôme,D63,1742237,2015
+2012,10.7,Taux de pauvreté : 50 à 59 ans - Pyrénées-Atlantiques,D64,1742238,2012
+2013,11.5,Taux de pauvreté : 50 à 59 ans - Pyrénées-Atlantiques,D64,1742238,2013
+2014,12.2,Taux de pauvreté : 50 à 59 ans - Pyrénées-Atlantiques,D64,1742238,2014
+2015,12.7,Taux de pauvreté : 50 à 59 ans - Pyrénées-Atlantiques,D64,1742238,2015
+2012,12.4,Taux de pauvreté : 50 à 59 ans - Hautes-Pyrénées,D65,1742239,2012
+2013,13.2,Taux de pauvreté : 50 à 59 ans - Hautes-Pyrénées,D65,1742239,2013
+2014,14.4,Taux de pauvreté : 50 à 59 ans - Hautes-Pyrénées,D65,1742239,2014
+2015,14.5,Taux de pauvreté : 50 à 59 ans - Hautes-Pyrénées,D65,1742239,2015
+2012,20.3,Taux de pauvreté : 50 à 59 ans - Pyrénées-Orientales,D66,1742240,2012
+2013,21.1,Taux de pauvreté : 50 à 59 ans - Pyrénées-Orientales,D66,1742240,2013
+2014,22.1,Taux de pauvreté : 50 à 59 ans - Pyrénées-Orientales,D66,1742240,2014
+2015,22.0,Taux de pauvreté : 50 à 59 ans - Pyrénées-Orientales,D66,1742240,2015
+2012,25.4,Taux de pauvreté : Moins de 30 ans - Tarn,D81,1742654,2012
+2013,26.1,Taux de pauvreté : Moins de 30 ans - Tarn,D81,1742654,2013
+2014,25.6,Taux de pauvreté : Moins de 30 ans - Tarn,D81,1742654,2014
+2015,26.3,Taux de pauvreté : Moins de 30 ans - Tarn,D81,1742654,2015
+2012,20.0,Taux de pauvreté : 30 à 39 ans - Bouches-du-Rhône,D13,1742786,2012
+2013,21.1,Taux de pauvreté : 30 à 39 ans - Bouches-du-Rhône,D13,1742786,2013
+2014,21.7,Taux de pauvreté : 30 à 39 ans - Bouches-du-Rhône,D13,1742786,2014
+2015,21.6,Taux de pauvreté : 30 à 39 ans - Bouches-du-Rhône,D13,1742786,2015
+2012,9.5,Taux de pauvreté : 50 à 59 ans - Ain,D01,1742174,2012
+2013,10.2,Taux de pauvreté : 50 à 59 ans - Ain,D01,1742174,2013
+2014,10.5,Taux de pauvreté : 50 à 59 ans - Ain,D01,1742174,2014
+2015,10.5,Taux de pauvreté : 50 à 59 ans - Ain,D01,1742174,2015
+2012,17.1,Taux de pauvreté : 50 à 59 ans - Aisne,D02,1742175,2012
+2013,17.3,Taux de pauvreté : 50 à 59 ans - Aisne,D02,1742175,2013
+2014,17.7,Taux de pauvreté : 50 à 59 ans - Aisne,D02,1742175,2014
+2015,18.4,Taux de pauvreté : 50 à 59 ans - Aisne,D02,1742175,2015
+2012,14.0,Taux de pauvreté : 50 à 59 ans - Allier,D03,1742176,2012
+2013,14.9,Taux de pauvreté : 50 à 59 ans - Allier,D03,1742176,2013
+2014,15.4,Taux de pauvreté : 50 à 59 ans - Allier,D03,1742176,2014
+2015,15.9,Taux de pauvreté : 50 à 59 ans - Allier,D03,1742176,2015
+2012,15.5,Taux de pauvreté : 50 à 59 ans - Alpes-de-Haute-Provence,D04,1742177,2012
+2013,16.2,Taux de pauvreté : 50 à 59 ans - Alpes-de-Haute-Provence,D04,1742177,2013
+2014,16.2,Taux de pauvreté : 50 à 59 ans - Alpes-de-Haute-Provence,D04,1742177,2014
+2015,16.8,Taux de pauvreté : 50 à 59 ans - Alpes-de-Haute-Provence,D04,1742177,2015
+2012,13.7,Taux de pauvreté : 50 à 59 ans - Hautes-Alpes,D05,1742178,2012
+2013,14.2,Taux de pauvreté : 50 à 59 ans - Hautes-Alpes,D05,1742178,2013
+2014,14.7,Taux de pauvreté : 50 à 59 ans - Hautes-Alpes,D05,1742178,2014
+2015,14.4,Taux de pauvreté : 50 à 59 ans - Hautes-Alpes,D05,1742178,2015
+2012,15.7,Taux de pauvreté : 50 à 59 ans - Alpes-Maritimes,D06,1742179,2012
+2013,16.6,Taux de pauvreté : 50 à 59 ans - Alpes-Maritimes,D06,1742179,2013
+2014,16.6,Taux de pauvreté : 50 à 59 ans - Alpes-Maritimes,D06,1742179,2014
+2015,16.4,Taux de pauvreté : 50 à 59 ans - Alpes-Maritimes,D06,1742179,2015
+2012,14.4,Taux de pauvreté : 50 à 59 ans - Ardèche,D07,1742180,2012
+2013,14.5,Taux de pauvreté : 50 à 59 ans - Ardèche,D07,1742180,2013
+2014,14.9,Taux de pauvreté : 50 à 59 ans - Ardèche,D07,1742180,2014
+2015,14.9,Taux de pauvreté : 50 à 59 ans - Ardèche,D07,1742180,2015
+2012,17.0,Taux de pauvreté : 50 à 59 ans - Ardennes,D08,1742181,2012
+2013,17.4,Taux de pauvreté : 50 à 59 ans - Ardennes,D08,1742181,2013
+2014,17.9,Taux de pauvreté : 50 à 59 ans - Ardennes,D08,1742181,2014
+2015,18.2,Taux de pauvreté : 50 à 59 ans - Ardennes,D08,1742181,2015
+2012,18.1,Taux de pauvreté : 50 à 59 ans - Ariège,D09,1742182,2012
+2013,18.2,Taux de pauvreté : 50 à 59 ans - Ariège,D09,1742182,2013
+2014,19.2,Taux de pauvreté : 50 à 59 ans - Ariège,D09,1742182,2014
+2015,20.5,Taux de pauvreté : 50 à 59 ans - Ariège,D09,1742182,2015
+2012,13.8,Taux de pauvreté : 50 à 59 ans - Aube,D10,1742183,2012
+2013,14.4,Taux de pauvreté : 50 à 59 ans - Aube,D10,1742183,2013
+2014,15.1,Taux de pauvreté : 50 à 59 ans - Aube,D10,1742183,2014
+2015,15.8,Taux de pauvreté : 50 à 59 ans - Aube,D10,1742183,2015
+2012,20.7,Taux de pauvreté : 50 à 59 ans - Aude,D11,1742184,2012
+2013,21.6,Taux de pauvreté : 50 à 59 ans - Aude,D11,1742184,2013
+2014,22.6,Taux de pauvreté : 50 à 59 ans - Aude,D11,1742184,2014
+2015,22.5,Taux de pauvreté : 50 à 59 ans - Aude,D11,1742184,2015
+2012,14.4,Taux de pauvreté : 50 à 59 ans - Aveyron,D12,1742185,2012
+2013,15.3,Taux de pauvreté : 50 à 59 ans - Aveyron,D12,1742185,2013
+2014,14.4,Taux de pauvreté : 50 à 59 ans - Aveyron,D12,1742185,2014
+2015,14.9,Taux de pauvreté : 50 à 59 ans - Aveyron,D12,1742185,2015
+2012,11.5,Taux de pauvreté : 50 à 59 ans - Loir-et-Cher,D41,1742215,2012
+2013,11.9,Taux de pauvreté : 50 à 59 ans - Loir-et-Cher,D41,1742215,2013
+2014,12.4,Taux de pauvreté : 50 à 59 ans - Loir-et-Cher,D41,1742215,2014
+2015,13.0,Taux de pauvreté : 50 à 59 ans - Loir-et-Cher,D41,1742215,2015
+2012,11.4,Taux de pauvreté : 50 à 59 ans - Haute-Loire,D43,1742217,2012
+2013,12.2,Taux de pauvreté : 50 à 59 ans - Haute-Loire,D43,1742217,2013
+2014,12.3,Taux de pauvreté : 50 à 59 ans - Haute-Loire,D43,1742217,2014
+2015,12.6,Taux de pauvreté : 50 à 59 ans - Haute-Loire,D43,1742217,2015
+2012,9.0,Taux de pauvreté : 50 à 59 ans - Loire-Atlantique,D44,1742218,2012
+2013,9.5,Taux de pauvreté : 50 à 59 ans - Loire-Atlantique,D44,1742218,2013
+2014,9.8,Taux de pauvreté : 50 à 59 ans - Loire-Atlantique,D44,1742218,2014
+2015,10.3,Taux de pauvreté : 50 à 59 ans - Loire-Atlantique,D44,1742218,2015
+2012,10.6,Taux de pauvreté : 50 à 59 ans - Loiret,D45,1742219,2012
+2013,11.1,Taux de pauvreté : 50 à 59 ans - Loiret,D45,1742219,2013
+2014,11.5,Taux de pauvreté : 50 à 59 ans - Loiret,D45,1742219,2014
+2015,12.1,Taux de pauvreté : 50 à 59 ans - Loiret,D45,1742219,2015
+2012,15.5,Taux de pauvreté : 50 à 59 ans - Lot,D46,1742220,2012
+2013,16.2,Taux de pauvreté : 50 à 59 ans - Lot,D46,1742220,2013
+2014,16.1,Taux de pauvreté : 50 à 59 ans - Lot,D46,1742220,2014
+2015,15.9,Taux de pauvreté : 50 à 59 ans - Lot,D46,1742220,2015
+2012,16.0,Taux de pauvreté : 50 à 59 ans - Lot-et-Garonne,D47,1742221,2012
+2013,16.0,Taux de pauvreté : 50 à 59 ans - Lot-et-Garonne,D47,1742221,2013
+2014,16.5,Taux de pauvreté : 50 à 59 ans - Lot-et-Garonne,D47,1742221,2014
+2015,17.2,Taux de pauvreté : 50 à 59 ans - Lot-et-Garonne,D47,1742221,2015
+2012,8.3,Taux de pauvreté : 75 ans ou plus - Ain,D01,1742620,2012
+2013,7.1,Taux de pauvreté : 75 ans ou plus - Ain,D01,1742620,2013
+2014,7.0,Taux de pauvreté : 75 ans ou plus - Ain,D01,1742620,2014
+2015,6.5,Taux de pauvreté : 75 ans ou plus - Ain,D01,1742620,2015
+2012,10.2,Taux de pauvreté : 75 ans ou plus - Aisne,D02,1742621,2012
+2013,8.2,Taux de pauvreté : 75 ans ou plus - Aisne,D02,1742621,2013
+2014,8.2,Taux de pauvreté : 75 ans ou plus - Aisne,D02,1742621,2014
+2015,7.9,Taux de pauvreté : 75 ans ou plus - Aisne,D02,1742621,2015
+2012,11.6,Taux de pauvreté : 75 ans ou plus - Alpes-Maritimes,D06,1742625,2012
+2013,11.3,Taux de pauvreté : 75 ans ou plus - Alpes-Maritimes,D06,1742625,2013
+2014,10.9,Taux de pauvreté : 75 ans ou plus - Alpes-Maritimes,D06,1742625,2014
+2015,9.9,Taux de pauvreté : 75 ans ou plus - Alpes-Maritimes,D06,1742625,2015
+2012,11.6,Taux de pauvreté : 75 ans ou plus - Ardèche,D07,1742626,2012
+2013,10.1,Taux de pauvreté : 75 ans ou plus - Ardèche,D07,1742626,2013
+2014,9.5,Taux de pauvreté : 75 ans ou plus - Ardèche,D07,1742626,2014
+2015,8.9,Taux de pauvreté : 75 ans ou plus - Ardèche,D07,1742626,2015
+2012,12.0,Taux de pauvreté : 75 ans ou plus - Ardennes,D08,1742627,2012
+2013,9.9,Taux de pauvreté : 75 ans ou plus - Ardennes,D08,1742627,2013
+2014,10.0,Taux de pauvreté : 75 ans ou plus - Ardennes,D08,1742627,2014
+2015,9.8,Taux de pauvreté : 75 ans ou plus - Ardennes,D08,1742627,2015
+2012,14.6,Taux de pauvreté : 75 ans ou plus - Ariège,D09,1742628,2012
+2013,13.2,Taux de pauvreté : 75 ans ou plus - Ariège,D09,1742628,2013
+2014,12.6,Taux de pauvreté : 75 ans ou plus - Ariège,D09,1742628,2014
+2015,12.2,Taux de pauvreté : 75 ans ou plus - Ariège,D09,1742628,2015
+2012,8.4,Taux de pauvreté : 75 ans ou plus - Aube,D10,1742629,2012
+2013,6.9,Taux de pauvreté : 75 ans ou plus - Aube,D10,1742629,2013
+2014,6.8,Taux de pauvreté : 75 ans ou plus - Aube,D10,1742629,2014
+2015,6.6,Taux de pauvreté : 75 ans ou plus - Aube,D10,1742629,2015
+2012,17.7,Taux de pauvreté : 75 ans ou plus - Aude,D11,1742630,2012
+2013,16.1,Taux de pauvreté : 75 ans ou plus - Aude,D11,1742630,2013
+2014,15.3,Taux de pauvreté : 75 ans ou plus - Aude,D11,1742630,2014
+2015,13.8,Taux de pauvreté : 75 ans ou plus - Aude,D11,1742630,2015
+2012,15.6,Taux de pauvreté : 75 ans ou plus - Aveyron,D12,1742631,2012
+2013,13.8,Taux de pauvreté : 75 ans ou plus - Aveyron,D12,1742631,2013
+2014,12.6,Taux de pauvreté : 75 ans ou plus - Aveyron,D12,1742631,2014
+2015,12.2,Taux de pauvreté : 75 ans ou plus - Aveyron,D12,1742631,2015
+2012,12.3,Taux de pauvreté : 75 ans ou plus - Bouches-du-Rhône,D13,1742632,2012
+2013,11.0,Taux de pauvreté : 75 ans ou plus - Bouches-du-Rhône,D13,1742632,2013
+2014,10.8,Taux de pauvreté : 75 ans ou plus - Bouches-du-Rhône,D13,1742632,2014
+2015,10.4,Taux de pauvreté : 75 ans ou plus - Bouches-du-Rhône,D13,1742632,2015
+2012,8.2,Taux de pauvreté : 75 ans ou plus - Calvados,D14,1742633,2012
+2013,7.0,Taux de pauvreté : 75 ans ou plus - Calvados,D14,1742633,2013
+2014,6.7,Taux de pauvreté : 75 ans ou plus - Calvados,D14,1742633,2014
+2015,6.3,Taux de pauvreté : 75 ans ou plus - Calvados,D14,1742633,2015
+2012,16.8,Taux de pauvreté : 75 ans ou plus - Cantal,D15,1742634,2012
+2013,14.7,Taux de pauvreté : 75 ans ou plus - Cantal,D15,1742634,2013
+2014,14.4,Taux de pauvreté : 75 ans ou plus - Cantal,D15,1742634,2014
+2015,13.6,Taux de pauvreté : 75 ans ou plus - Cantal,D15,1742634,2015
+2012,13.5,Taux de pauvreté : 75 ans ou plus - Charente,D16,1742635,2012
+2013,11.4,Taux de pauvreté : 75 ans ou plus - Charente,D16,1742635,2013
+2014,11.0,Taux de pauvreté : 75 ans ou plus - Charente,D16,1742635,2014
+2015,10.4,Taux de pauvreté : 75 ans ou plus - Charente,D16,1742635,2015
+2012,11.3,Taux de pauvreté : 75 ans ou plus - Charente-Maritime,D17,1742636,2012
+2013,9.6,Taux de pauvreté : 75 ans ou plus - Charente-Maritime,D17,1742636,2013
+2014,9.1,Taux de pauvreté : 75 ans ou plus - Charente-Maritime,D17,1742636,2014
+2015,8.5,Taux de pauvreté : 75 ans ou plus - Charente-Maritime,D17,1742636,2015
+2012,9.6,Taux de pauvreté : 75 ans ou plus - Cher,D18,1742637,2012
+2013,8.1,Taux de pauvreté : 75 ans ou plus - Cher,D18,1742637,2013
+2014,7.9,Taux de pauvreté : 75 ans ou plus - Cher,D18,1742637,2014
+2015,7.8,Taux de pauvreté : 75 ans ou plus - Cher,D18,1742637,2015
+2012,25.9,Taux de pauvreté : Moins de 30 ans - Hautes-Pyrénées,D65,1742638,2012
+2013,26.5,Taux de pauvreté : Moins de 30 ans - Hautes-Pyrénées,D65,1742638,2013
+2014,26.8,Taux de pauvreté : Moins de 30 ans - Hautes-Pyrénées,D65,1742638,2014
+2015,28.3,Taux de pauvreté : Moins de 30 ans - Hautes-Pyrénées,D65,1742638,2015
+2012,31.9,Taux de pauvreté : Moins de 30 ans - Pyrénées-Orientales,D66,1742639,2012
+2013,34.3,Taux de pauvreté : Moins de 30 ans - Pyrénées-Orientales,D66,1742639,2013
+2014,34.8,Taux de pauvreté : Moins de 30 ans - Pyrénées-Orientales,D66,1742639,2014
+2015,33.3,Taux de pauvreté : Moins de 30 ans - Pyrénées-Orientales,D66,1742639,2015
+2012,20.2,Taux de pauvreté : Moins de 30 ans - Bas-Rhin,D67,1742640,2012
+2013,21.5,Taux de pauvreté : Moins de 30 ans - Bas-Rhin,D67,1742640,2013
+2014,21.4,Taux de pauvreté : Moins de 30 ans - Bas-Rhin,D67,1742640,2014
+2015,21.7,Taux de pauvreté : Moins de 30 ans - Bas-Rhin,D67,1742640,2015
+2012,20.7,Taux de pauvreté : Moins de 30 ans - Haut-Rhin,D68,1742641,2012
+2013,22.0,Taux de pauvreté : Moins de 30 ans - Haut-Rhin,D68,1742641,2013
+2014,21.9,Taux de pauvreté : Moins de 30 ans - Haut-Rhin,D68,1742641,2014
+2015,21.7,Taux de pauvreté : Moins de 30 ans - Haut-Rhin,D68,1742641,2015
+2012,20.0,Taux de pauvreté : Moins de 30 ans - Rhône,D69,1742642,2012
+2013,20.8,Taux de pauvreté : Moins de 30 ans - Rhône,D69,1742642,2013
+2014,20.8,Taux de pauvreté : Moins de 30 ans - Rhône,D69,1742642,2014
+2015,20.8,Taux de pauvreté : Moins de 30 ans - Rhône,D69,1742642,2015
+2012,22.9,Taux de pauvreté : Moins de 30 ans - Haute-Saône,D70,1742643,2012
+2013,23.9,Taux de pauvreté : Moins de 30 ans - Haute-Saône,D70,1742643,2013
+2014,23.7,Taux de pauvreté : Moins de 30 ans - Haute-Saône,D70,1742643,2014
+2015,24.2,Taux de pauvreté : Moins de 30 ans - Haute-Saône,D70,1742643,2015
+2012,19.7,Taux de pauvreté : Moins de 30 ans - Saône-et-Loire,D71,1742644,2012
+2013,20.7,Taux de pauvreté : Moins de 30 ans - Saône-et-Loire,D71,1742644,2013
+2014,20.5,Taux de pauvreté : Moins de 30 ans - Saône-et-Loire,D71,1742644,2014
+2015,20.3,Taux de pauvreté : Moins de 30 ans - Saône-et-Loire,D71,1742644,2015
+2012,21.4,Taux de pauvreté : Moins de 30 ans - Sarthe,D72,1742645,2012
+2013,22.9,Taux de pauvreté : Moins de 30 ans - Sarthe,D72,1742645,2013
+2014,22.4,Taux de pauvreté : Moins de 30 ans - Sarthe,D72,1742645,2014
+2015,22.6,Taux de pauvreté : Moins de 30 ans - Sarthe,D72,1742645,2015
+2012,16.1,Taux de pauvreté : Moins de 30 ans - Savoie,D73,1742646,2012
+2013,16.7,Taux de pauvreté : Moins de 30 ans - Savoie,D73,1742646,2013
+2014,16.4,Taux de pauvreté : Moins de 30 ans - Savoie,D73,1742646,2014
+2015,16.5,Taux de pauvreté : Moins de 30 ans - Savoie,D73,1742646,2015
+2012,13.9,Taux de pauvreté : Moins de 30 ans - Haute-Savoie,D74,1742647,2012
+2013,13.4,Taux de pauvreté : Moins de 30 ans - Haute-Savoie,D74,1742647,2013
+2014,13.0,Taux de pauvreté : Moins de 30 ans - Haute-Savoie,D74,1742647,2014
+2015,12.9,Taux de pauvreté : Moins de 30 ans - Haute-Savoie,D74,1742647,2015
+2012,17.4,Taux de pauvreté : Moins de 30 ans - Paris,D75,1742648,2012
+2013,18.0,Taux de pauvreté : Moins de 30 ans - Paris,D75,1742648,2013
+2014,17.6,Taux de pauvreté : Moins de 30 ans - Paris,D75,1742648,2014
+2015,17.4,Taux de pauvreté : Moins de 30 ans - Paris,D75,1742648,2015
+2012,22.9,Taux de pauvreté : Moins de 30 ans - Seine-Maritime,D76,1742649,2012
+2013,24.1,Taux de pauvreté : Moins de 30 ans - Seine-Maritime,D76,1742649,2013
+2014,24.7,Taux de pauvreté : Moins de 30 ans - Seine-Maritime,D76,1742649,2014
+2015,24.7,Taux de pauvreté : Moins de 30 ans - Seine-Maritime,D76,1742649,2015
+2012,16.6,Taux de pauvreté : Moins de 30 ans - Seine-et-Marne,D77,1742650,2012
+2013,17.0,Taux de pauvreté : Moins de 30 ans - Seine-et-Marne,D77,1742650,2013
+2014,16.8,Taux de pauvreté : Moins de 30 ans - Seine-et-Marne,D77,1742650,2014
+2015,17.6,Taux de pauvreté : Moins de 30 ans - Seine-et-Marne,D77,1742650,2015
+2012,13.5,Taux de pauvreté : Moins de 30 ans - Yvelines,D78,1742651,2012
+2013,14.6,Taux de pauvreté : Moins de 30 ans - Yvelines,D78,1742651,2013
+2014,14.9,Taux de pauvreté : Moins de 30 ans - Yvelines,D78,1742651,2014
+2015,15.2,Taux de pauvreté : Moins de 30 ans - Yvelines,D78,1742651,2015
+2012,19.4,Taux de pauvreté : Moins de 30 ans - Deux-Sèvres,D79,1742652,2012
+2013,20.7,Taux de pauvreté : Moins de 30 ans - Deux-Sèvres,D79,1742652,2013
+2014,21.2,Taux de pauvreté : Moins de 30 ans - Deux-Sèvres,D79,1742652,2014
+2015,21.3,Taux de pauvreté : Moins de 30 ans - Deux-Sèvres,D79,1742652,2015
+2012,28.5,Taux de pauvreté : Moins de 30 ans - Somme,D80,1742653,2012
+2013,30.1,Taux de pauvreté : Moins de 30 ans - Somme,D80,1742653,2013
+2014,30.4,Taux de pauvreté : Moins de 30 ans - Somme,D80,1742653,2014
+2015,30.4,Taux de pauvreté : Moins de 30 ans - Somme,D80,1742653,2015
+2012,24.1,Taux de pauvreté : Moins de 30 ans - Tarn-et-Garonne,D82,1742655,2012
+2013,26.1,Taux de pauvreté : Moins de 30 ans - Tarn-et-Garonne,D82,1742655,2013
+2014,26.1,Taux de pauvreté : Moins de 30 ans - Tarn-et-Garonne,D82,1742655,2014
+2015,25.7,Taux de pauvreté : Moins de 30 ans - Tarn-et-Garonne,D82,1742655,2015
+2012,12.3,Taux de pauvreté : 50 à 59 ans - Haute-Saône,D70,1742244,2012
+2013,13.0,Taux de pauvreté : 50 à 59 ans - Haute-Saône,D70,1742244,2013
+2014,13.6,Taux de pauvreté : 50 à 59 ans - Haute-Saône,D70,1742244,2014
+2015,13.7,Taux de pauvreté : 50 à 59 ans - Haute-Saône,D70,1742244,2015
+2012,10.6,Taux de pauvreté : 75 ans ou plus - Allier,D03,1742622,2012
+2013,9.1,Taux de pauvreté : 75 ans ou plus - Allier,D03,1742622,2013
+2014,9.0,Taux de pauvreté : 75 ans ou plus - Allier,D03,1742622,2014
+2015,8.5,Taux de pauvreté : 75 ans ou plus - Allier,D03,1742622,2015
+2012,13.1,Taux de pauvreté : 75 ans ou plus - Alpes-de-Haute-Provence,D04,1742623,2012
+2013,11.8,Taux de pauvreté : 75 ans ou plus - Alpes-de-Haute-Provence,D04,1742623,2013
+2014,11.3,Taux de pauvreté : 75 ans ou plus - Alpes-de-Haute-Provence,D04,1742623,2014
+2015,10.5,Taux de pauvreté : 75 ans ou plus - Alpes-de-Haute-Provence,D04,1742623,2015
+2012,12.9,Taux de pauvreté : 75 ans ou plus - Hautes-Alpes,D05,1742624,2012
+2013,10.8,Taux de pauvreté : 75 ans ou plus - Hautes-Alpes,D05,1742624,2013
+2014,10.6,Taux de pauvreté : 75 ans ou plus - Hautes-Alpes,D05,1742624,2014
+2015,9.5,Taux de pauvreté : 75 ans ou plus - Hautes-Alpes,D05,1742624,2015
+2012,14.6,Taux de pauvreté : 30 à 39 ans - Calvados,D14,1742787,2012
+2013,15.1,Taux de pauvreté : 30 à 39 ans - Calvados,D14,1742787,2013
+2014,15.3,Taux de pauvreté : 30 à 39 ans - Calvados,D14,1742787,2014
+2015,15.5,Taux de pauvreté : 30 à 39 ans - Calvados,D14,1742787,2015
+2012,16.8,Taux de pauvreté : 30 à 39 ans - Charente,D16,1742789,2012
+2013,17.7,Taux de pauvreté : 30 à 39 ans - Charente,D16,1742789,2013
+2014,18.0,Taux de pauvreté : 30 à 39 ans - Charente,D16,1742789,2014
+2015,18.4,Taux de pauvreté : 30 à 39 ans - Charente,D16,1742789,2015
+2012,19.8,Taux de pauvreté : 40 à 49 ans - Alpes-de-Haute-Provence,D04,1742939,2012
+2013,20.2,Taux de pauvreté : 40 à 49 ans - Alpes-de-Haute-Provence,D04,1742939,2013
+2014,21.0,Taux de pauvreté : 40 à 49 ans - Alpes-de-Haute-Provence,D04,1742939,2014
+2015,20.8,Taux de pauvreté : 40 à 49 ans - Alpes-de-Haute-Provence,D04,1742939,2015
+2012,16.7,Taux de pauvreté : 40 à 49 ans - Hautes-Alpes,D05,1742940,2012
+2013,17.0,Taux de pauvreté : 40 à 49 ans - Hautes-Alpes,D05,1742940,2013
+2014,17.8,Taux de pauvreté : 40 à 49 ans - Hautes-Alpes,D05,1742940,2014
+2015,17.7,Taux de pauvreté : 40 à 49 ans - Hautes-Alpes,D05,1742940,2015
+2012,16.6,Taux de pauvreté : 40 à 49 ans - Alpes-Maritimes,D06,1742941,2012
+2013,17.6,Taux de pauvreté : 40 à 49 ans - Alpes-Maritimes,D06,1742941,2013
+2014,17.9,Taux de pauvreté : 40 à 49 ans - Alpes-Maritimes,D06,1742941,2014
+2015,18.4,Taux de pauvreté : 40 à 49 ans - Alpes-Maritimes,D06,1742941,2015
+2012,17.4,Taux de pauvreté : 40 à 49 ans - Ardèche,D07,1742942,2012
+2013,18.3,Taux de pauvreté : 40 à 49 ans - Ardèche,D07,1742942,2013
+2014,17.8,Taux de pauvreté : 40 à 49 ans - Ardèche,D07,1742942,2014
+2015,18.5,Taux de pauvreté : 40 à 49 ans - Ardèche,D07,1742942,2015
+2012,22.8,Taux de pauvreté : 40 à 49 ans - Ardennes,D08,1742943,2012
+2013,23.3,Taux de pauvreté : 40 à 49 ans - Ardennes,D08,1742943,2013
+2014,23.7,Taux de pauvreté : 40 à 49 ans - Ardennes,D08,1742943,2014
+2015,23.7,Taux de pauvreté : 40 à 49 ans - Ardennes,D08,1742943,2015
+2012,21.2,Taux de pauvreté : 40 à 49 ans - Ariège,D09,1742944,2012
+2013,21.3,Taux de pauvreté : 40 à 49 ans - Ariège,D09,1742944,2013
+2014,21.5,Taux de pauvreté : 40 à 49 ans - Ariège,D09,1742944,2014
+2015,21.8,Taux de pauvreté : 40 à 49 ans - Ariège,D09,1742944,2015
+2012,17.3,Taux de pauvreté : 40 à 49 ans - Aube,D10,1742945,2012
+2013,18.3,Taux de pauvreté : 40 à 49 ans - Aube,D10,1742945,2013
+2014,18.4,Taux de pauvreté : 40 à 49 ans - Aube,D10,1742945,2014
+2015,18.8,Taux de pauvreté : 40 à 49 ans - Aube,D10,1742945,2015
+2012,24.8,Taux de pauvreté : 40 à 49 ans - Aude,D11,1742946,2012
+2013,25.8,Taux de pauvreté : 40 à 49 ans - Aude,D11,1742946,2013
+2014,26.3,Taux de pauvreté : 40 à 49 ans - Aude,D11,1742946,2014
+2015,26.1,Taux de pauvreté : 40 à 49 ans - Aude,D11,1742946,2015
+2012,16.3,Taux de pauvreté : 40 à 49 ans - Aveyron,D12,1742947,2012
+2013,16.9,Taux de pauvreté : 40 à 49 ans - Aveyron,D12,1742947,2013
+2014,16.6,Taux de pauvreté : 40 à 49 ans - Aveyron,D12,1742947,2014
+2015,16.7,Taux de pauvreté : 40 à 49 ans - Aveyron,D12,1742947,2015
+2012,21.3,Taux de pauvreté : 40 à 49 ans - Bouches-du-Rhône,D13,1742948,2012
+2013,21.9,Taux de pauvreté : 40 à 49 ans - Bouches-du-Rhône,D13,1742948,2013
+2014,22.2,Taux de pauvreté : 40 à 49 ans - Bouches-du-Rhône,D13,1742948,2014
+2015,22.3,Taux de pauvreté : 40 à 49 ans - Bouches-du-Rhône,D13,1742948,2015
+2012,15.3,Taux de pauvreté : 40 à 49 ans - Calvados,D14,1742949,2012
+2013,15.9,Taux de pauvreté : 40 à 49 ans - Calvados,D14,1742949,2013
+2014,15.7,Taux de pauvreté : 40 à 49 ans - Calvados,D14,1742949,2014
+2015,16.0,Taux de pauvreté : 40 à 49 ans - Calvados,D14,1742949,2015
+2012,17.1,Taux de pauvreté : 40 à 49 ans - Cantal,D15,1742950,2012
+2013,17.3,Taux de pauvreté : 40 à 49 ans - Cantal,D15,1742950,2013
+2014,16.5,Taux de pauvreté : 40 à 49 ans - Cantal,D15,1742950,2014
+2015,16.8,Taux de pauvreté : 40 à 49 ans - Cantal,D15,1742950,2015
+2012,16.9,Taux de pauvreté : 40 à 49 ans - Charente,D16,1742951,2012
+2013,17.6,Taux de pauvreté : 40 à 49 ans - Charente,D16,1742951,2013
+2014,17.6,Taux de pauvreté : 40 à 49 ans - Charente,D16,1742951,2014
+2015,17.8,Taux de pauvreté : 40 à 49 ans - Charente,D16,1742951,2015
+2012,16.3,Taux de pauvreté : 40 à 49 ans - Charente-Maritime,D17,1742952,2012
+2013,17.0,Taux de pauvreté : 40 à 49 ans - Charente-Maritime,D17,1742952,2013
+2014,17.1,Taux de pauvreté : 40 à 49 ans - Charente-Maritime,D17,1742952,2014
+2015,17.3,Taux de pauvreté : 40 à 49 ans - Charente-Maritime,D17,1742952,2015
+2012,16.6,Taux de pauvreté : 40 à 49 ans - Cher,D18,1742953,2012
+2013,17.6,Taux de pauvreté : 40 à 49 ans - Cher,D18,1742953,2013
+2014,17.9,Taux de pauvreté : 40 à 49 ans - Cher,D18,1742953,2014
+2015,18.1,Taux de pauvreté : 40 à 49 ans - Cher,D18,1742953,2015
+2012,13.2,Taux de pauvreté : 40 à 49 ans - Eure-et-Loir,D28,1742964,2012
+2013,13.7,Taux de pauvreté : 40 à 49 ans - Eure-et-Loir,D28,1742964,2013
+2014,14.2,Taux de pauvreté : 40 à 49 ans - Eure-et-Loir,D28,1742964,2014
+2015,14.6,Taux de pauvreté : 40 à 49 ans - Eure-et-Loir,D28,1742964,2015
+2012,23.1,Taux de pauvreté : 40 à 49 ans - Gard,D30,1742966,2012
+2013,24.1,Taux de pauvreté : 40 à 49 ans - Gard,D30,1742966,2013
+2014,24.2,Taux de pauvreté : 40 à 49 ans - Gard,D30,1742966,2014
+2015,24.3,Taux de pauvreté : 40 à 49 ans - Gard,D30,1742966,2015
+2012,12.8,Taux de pauvreté : 40 à 49 ans - Haute-Garonne,D31,1742967,2012
+2013,13.3,Taux de pauvreté : 40 à 49 ans - Haute-Garonne,D31,1742967,2013
+2014,13.7,Taux de pauvreté : 40 à 49 ans - Haute-Garonne,D31,1742967,2014
+2015,14.3,Taux de pauvreté : 40 à 49 ans - Haute-Garonne,D31,1742967,2015
+2012,15.6,Taux de pauvreté : 40 à 49 ans - Gers,D32,1742968,2012
+2013,16.5,Taux de pauvreté : 40 à 49 ans - Gers,D32,1742968,2013
+2014,17.1,Taux de pauvreté : 40 à 49 ans - Gers,D32,1742968,2014
+2015,16.6,Taux de pauvreté : 40 à 49 ans - Gers,D32,1742968,2015
+2012,13.3,Taux de pauvreté : 40 à 49 ans - Gironde,D33,1742969,2012
+2013,14.0,Taux de pauvreté : 40 à 49 ans - Gironde,D33,1742969,2013
+2014,14.3,Taux de pauvreté : 40 à 49 ans - Gironde,D33,1742969,2014
+2015,14.8,Taux de pauvreté : 40 à 49 ans - Gironde,D33,1742969,2015
+2012,21.9,Taux de pauvreté : 40 à 49 ans - Hérault,D34,1742970,2012
+2013,22.7,Taux de pauvreté : 40 à 49 ans - Hérault,D34,1742970,2013
+2014,23.1,Taux de pauvreté : 40 à 49 ans - Hérault,D34,1742970,2014
+2015,22.9,Taux de pauvreté : 40 à 49 ans - Hérault,D34,1742970,2015
+2012,10.5,Taux de pauvreté : 40 à 49 ans - Ille-et-Vilaine,D35,1742971,2012
+2013,10.9,Taux de pauvreté : 40 à 49 ans - Ille-et-Vilaine,D35,1742971,2013
+2014,11.4,Taux de pauvreté : 40 à 49 ans - Ille-et-Vilaine,D35,1742971,2014
+2015,12.0,Taux de pauvreté : 40 à 49 ans - Ille-et-Vilaine,D35,1742971,2015
+2012,16.5,Taux de pauvreté : 40 à 49 ans - Indre,D36,1742972,2012
+2013,17.1,Taux de pauvreté : 40 à 49 ans - Indre,D36,1742972,2013
+2014,18.0,Taux de pauvreté : 40 à 49 ans - Indre,D36,1742972,2014
+2015,18.3,Taux de pauvreté : 40 à 49 ans - Indre,D36,1742972,2015
+2012,13.1,Taux de pauvreté : 40 à 49 ans - Indre-et-Loire,D37,1742973,2012
+2013,13.5,Taux de pauvreté : 40 à 49 ans - Indre-et-Loire,D37,1742973,2013
+2014,13.9,Taux de pauvreté : 40 à 49 ans - Indre-et-Loire,D37,1742973,2014
+2015,14.5,Taux de pauvreté : 40 à 49 ans - Indre-et-Loire,D37,1742973,2015
+2012,12.1,Taux de pauvreté : 40 à 49 ans - Isère,D38,1742974,2012
+2013,12.5,Taux de pauvreté : 40 à 49 ans - Isère,D38,1742974,2013
+2014,12.7,Taux de pauvreté : 40 à 49 ans - Isère,D38,1742974,2014
+2015,13.2,Taux de pauvreté : 40 à 49 ans - Isère,D38,1742974,2015
+2012,14.3,Taux de pauvreté : 40 à 49 ans - Jura,D39,1742975,2012
+2013,14.7,Taux de pauvreté : 40 à 49 ans - Jura,D39,1742975,2013
+2014,14.5,Taux de pauvreté : 40 à 49 ans - Jura,D39,1742975,2014
+2015,14.6,Taux de pauvreté : 40 à 49 ans - Jura,D39,1742975,2015
+2012,13.7,Taux de pauvreté : 40 à 49 ans - Landes,D40,1742976,2012
+2013,14.2,Taux de pauvreté : 40 à 49 ans - Landes,D40,1742976,2013
+2014,14.8,Taux de pauvreté : 40 à 49 ans - Landes,D40,1742976,2014
+2015,14.8,Taux de pauvreté : 40 à 49 ans - Landes,D40,1742976,2015
+2012,14.8,Taux de pauvreté : 40 à 49 ans - Loir-et-Cher,D41,1742977,2012
+2013,15.3,Taux de pauvreté : 40 à 49 ans - Loir-et-Cher,D41,1742977,2013
+2014,16.0,Taux de pauvreté : 40 à 49 ans - Loir-et-Cher,D41,1742977,2014
+2015,16.2,Taux de pauvreté : 40 à 49 ans - Loir-et-Cher,D41,1742977,2015
+2012,16.9,Taux de pauvreté : 40 à 49 ans - Loire,D42,1742978,2012
+2013,17.3,Taux de pauvreté : 40 à 49 ans - Loire,D42,1742978,2013
+2014,17.8,Taux de pauvreté : 40 à 49 ans - Loire,D42,1742978,2014
+2015,18.4,Taux de pauvreté : 40 à 49 ans - Loire,D42,1742978,2015
+2012,14.4,Taux de pauvreté : 40 à 49 ans - Haute-Loire,D43,1742979,2012
+2013,15.9,Taux de pauvreté : 40 à 49 ans - Haute-Loire,D43,1742979,2013
+2014,15.0,Taux de pauvreté : 40 à 49 ans - Haute-Loire,D43,1742979,2014
+2015,15.1,Taux de pauvreté : 40 à 49 ans - Haute-Loire,D43,1742979,2015
+2012,10.9,Taux de pauvreté : 40 à 49 ans - Loire-Atlantique,D44,1742980,2012
+2013,11.5,Taux de pauvreté : 40 à 49 ans - Loire-Atlantique,D44,1742980,2013
+2014,11.7,Taux de pauvreté : 40 à 49 ans - Loire-Atlantique,D44,1742980,2014
+2015,11.9,Taux de pauvreté : 40 à 49 ans - Loire-Atlantique,D44,1742980,2015
+2012,13.9,Taux de pauvreté : 40 à 49 ans - Loiret,D45,1742981,2012
+2013,14.8,Taux de pauvreté : 40 à 49 ans - Loiret,D45,1742981,2013
+2014,15.6,Taux de pauvreté : 40 à 49 ans - Loiret,D45,1742981,2014
+2015,16.1,Taux de pauvreté : 40 à 49 ans - Loiret,D45,1742981,2015
+2012,18.0,Taux de pauvreté : 40 à 49 ans - Lot,D46,1742982,2012
+2013,19.6,Taux de pauvreté : 40 à 49 ans - Lot,D46,1742982,2013
+2014,18.6,Taux de pauvreté : 40 à 49 ans - Lot,D46,1742982,2014
+2015,19.0,Taux de pauvreté : 40 à 49 ans - Lot,D46,1742982,2015
+2012,18.9,Taux de pauvreté : 40 à 49 ans - Lot-et-Garonne,D47,1742983,2012
+2013,19.6,Taux de pauvreté : 40 à 49 ans - Lot-et-Garonne,D47,1742983,2013
+2014,20.2,Taux de pauvreté : 40 à 49 ans - Lot-et-Garonne,D47,1742983,2014
+2015,20.5,Taux de pauvreté : 40 à 49 ans - Lot-et-Garonne,D47,1742983,2015
+2012,16.9,Taux de pauvreté : 40 à 49 ans - Lozère,D48,1742984,2012
+2013,16.9,Taux de pauvreté : 40 à 49 ans - Lozère,D48,1742984,2013
+2014,16.6,Taux de pauvreté : 40 à 49 ans - Lozère,D48,1742984,2014
+2015,17.1,Taux de pauvreté : 40 à 49 ans - Lozère,D48,1742984,2015
+2012,12.9,Taux de pauvreté : 40 à 49 ans - Maine-et-Loire,D49,1742985,2012
+2013,13.6,Taux de pauvreté : 40 à 49 ans - Maine-et-Loire,D49,1742985,2013
+2014,13.7,Taux de pauvreté : 40 à 49 ans - Maine-et-Loire,D49,1742985,2014
+2015,14.0,Taux de pauvreté : 40 à 49 ans - Maine-et-Loire,D49,1742985,2015
+2012,15.3,Taux de pauvreté : 40 à 49 ans - Manche,D50,1742986,2012
+2013,15.6,Taux de pauvreté : 40 à 49 ans - Manche,D50,1742986,2013
+2014,15.3,Taux de pauvreté : 40 à 49 ans - Manche,D50,1742986,2014
+2015,15.7,Taux de pauvreté : 40 à 49 ans - Manche,D50,1742986,2015
+2012,15.1,Taux de pauvreté : 40 à 49 ans - Marne,D51,1742987,2012
+2013,15.7,Taux de pauvreté : 40 à 49 ans - Marne,D51,1742987,2013
+2014,16.2,Taux de pauvreté : 40 à 49 ans - Marne,D51,1742987,2014
+2015,17.0,Taux de pauvreté : 40 à 49 ans - Marne,D51,1742987,2015
+2012,18.0,Taux de pauvreté : 40 à 49 ans - Haute-Marne,D52,1742988,2012
+2013,19.5,Taux de pauvreté : 40 à 49 ans - Haute-Marne,D52,1742988,2013
+2014,19.6,Taux de pauvreté : 40 à 49 ans - Haute-Marne,D52,1742988,2014
+2015,19.8,Taux de pauvreté : 40 à 49 ans - Haute-Marne,D52,1742988,2015
+2012,13.0,Taux de pauvreté : 40 à 49 ans - Mayenne,D53,1742989,2012
+2013,13.8,Taux de pauvreté : 40 à 49 ans - Mayenne,D53,1742989,2013
+2014,13.4,Taux de pauvreté : 40 à 49 ans - Mayenne,D53,1742989,2014
+2015,14.0,Taux de pauvreté : 40 à 49 ans - Mayenne,D53,1742989,2015
+2012,16.6,Taux de pauvreté : 40 à 49 ans - Meurthe-et-Moselle,D54,1742990,2012
+2013,16.7,Taux de pauvreté : 40 à 49 ans - Meurthe-et-Moselle,D54,1742990,2013
+2014,17.0,Taux de pauvreté : 40 à 49 ans - Meurthe-et-Moselle,D54,1742990,2014
+2015,17.3,Taux de pauvreté : 40 à 49 ans - Meurthe-et-Moselle,D54,1742990,2015
+2012,18.7,Taux de pauvreté : 40 à 49 ans - Meuse,D55,1742991,2012
+2013,18.8,Taux de pauvreté : 40 à 49 ans - Meuse,D55,1742991,2013
+2014,18.1,Taux de pauvreté : 40 à 49 ans - Meuse,D55,1742991,2014
+2015,19.0,Taux de pauvreté : 40 à 49 ans - Meuse,D55,1742991,2015
+2012,12.9,Taux de pauvreté : 40 à 49 ans - Morbihan,D56,1742992,2012
+2013,13.6,Taux de pauvreté : 40 à 49 ans - Morbihan,D56,1742992,2013
+2014,13.7,Taux de pauvreté : 40 à 49 ans - Morbihan,D56,1742992,2014
+2015,14.0,Taux de pauvreté : 40 à 49 ans - Morbihan,D56,1742992,2015
+2012,16.8,Taux de pauvreté : 40 à 49 ans - Moselle,D57,1742993,2012
+2013,16.9,Taux de pauvreté : 40 à 49 ans - Moselle,D57,1742993,2013
+2014,17.4,Taux de pauvreté : 40 à 49 ans - Moselle,D57,1742993,2014
+2015,18.0,Taux de pauvreté : 40 à 49 ans - Moselle,D57,1742993,2015
+2012,9.7,Taux de pauvreté : 50 à 59 ans - Bas-Rhin,D67,1742241,2012
+2013,10.2,Taux de pauvreté : 50 à 59 ans - Bas-Rhin,D67,1742241,2013
+2014,10.8,Taux de pauvreté : 50 à 59 ans - Bas-Rhin,D67,1742241,2014
+2015,11.7,Taux de pauvreté : 50 à 59 ans - Bas-Rhin,D67,1742241,2015
+2012,18.4,Taux de pauvreté : 40 à 49 ans - Allier,D03,1742938,2012
+2013,19.2,Taux de pauvreté : 40 à 49 ans - Allier,D03,1742938,2013
+2014,19.8,Taux de pauvreté : 40 à 49 ans - Allier,D03,1742938,2014
+2015,20.0,Taux de pauvreté : 40 à 49 ans - Allier,D03,1742938,2015
+2012,15.1,Taux de pauvreté : 40 à 49 ans - Corrèze,D19,1742954,2012
+2013,15.7,Taux de pauvreté : 40 à 49 ans - Corrèze,D19,1742954,2013
+2014,15.3,Taux de pauvreté : 40 à 49 ans - Corrèze,D19,1742954,2014
+2015,15.2,Taux de pauvreté : 40 à 49 ans - Corrèze,D19,1742954,2015
+2012,19.0,Taux de pauvreté : 40 à 49 ans - Corse-du-Sud,D2A,1742955,2012
+2013,19.3,Taux de pauvreté : 40 à 49 ans - Corse-du-Sud,D2A,1742955,2013
+2014,19.4,Taux de pauvreté : 40 à 49 ans - Corse-du-Sud,D2A,1742955,2014
+2015,19.4,Taux de pauvreté : 40 à 49 ans - Corse-du-Sud,D2A,1742955,2015
+2012,24.6,Taux de pauvreté : 40 à 49 ans - Haute-Corse,D2B,1742956,2012
+2013,25.0,Taux de pauvreté : 40 à 49 ans - Haute-Corse,D2B,1742956,2013
+2014,25.1,Taux de pauvreté : 40 à 49 ans - Haute-Corse,D2B,1742956,2014
+2015,24.8,Taux de pauvreté : 40 à 49 ans - Haute-Corse,D2B,1742956,2015
+2012,12.5,Taux de pauvreté : 40 à 49 ans - Côte-d'Or,D21,1742957,2012
+2013,13.1,Taux de pauvreté : 40 à 49 ans - Côte-d'Or,D21,1742957,2013
+2014,13.6,Taux de pauvreté : 40 à 49 ans - Côte-d'Or,D21,1742957,2014
+2015,14.1,Taux de pauvreté : 40 à 49 ans - Côte-d'Or,D21,1742957,2015
+2012,13.4,Taux de pauvreté : 40 à 49 ans - Côtes-d'Armor,D22,1742958,2012
+2013,14.1,Taux de pauvreté : 40 à 49 ans - Côtes-d'Armor,D22,1742958,2013
+2014,14.2,Taux de pauvreté : 40 à 49 ans - Côtes-d'Armor,D22,1742958,2014
+2015,14.9,Taux de pauvreté : 40 à 49 ans - Côtes-d'Armor,D22,1742958,2015
+2012,22.0,Taux de pauvreté : 40 à 49 ans - Creuse,D23,1742959,2012
+2013,23.0,Taux de pauvreté : 40 à 49 ans - Creuse,D23,1742959,2013
+2014,22.8,Taux de pauvreté : 40 à 49 ans - Creuse,D23,1742959,2014
+2015,22.5,Taux de pauvreté : 40 à 49 ans - Creuse,D23,1742959,2015
+2012,18.9,Taux de pauvreté : 40 à 49 ans - Dordogne,D24,1742960,2012
+2013,19.8,Taux de pauvreté : 40 à 49 ans - Dordogne,D24,1742960,2013
+2014,20.1,Taux de pauvreté : 40 à 49 ans - Dordogne,D24,1742960,2014
+2015,20.7,Taux de pauvreté : 40 à 49 ans - Dordogne,D24,1742960,2015
+2012,13.4,Taux de pauvreté : 40 à 49 ans - Doubs,D25,1742961,2012
+2013,14.1,Taux de pauvreté : 40 à 49 ans - Doubs,D25,1742961,2013
+2014,14.4,Taux de pauvreté : 40 à 49 ans - Doubs,D25,1742961,2014
+2015,14.2,Taux de pauvreté : 40 à 49 ans - Doubs,D25,1742961,2015
+2012,17.1,Taux de pauvreté : 40 à 49 ans - Drôme,D26,1742962,2012
+2013,17.9,Taux de pauvreté : 40 à 49 ans - Drôme,D26,1742962,2013
+2014,18.7,Taux de pauvreté : 40 à 49 ans - Drôme,D26,1742962,2014
+2015,18.7,Taux de pauvreté : 40 à 49 ans - Drôme,D26,1742962,2015
+2012,14.2,Taux de pauvreté : 40 à 49 ans - Eure,D27,1742963,2012
+2013,14.6,Taux de pauvreté : 40 à 49 ans - Eure,D27,1742963,2013
+2014,15.0,Taux de pauvreté : 40 à 49 ans - Eure,D27,1742963,2014
+2015,15.5,Taux de pauvreté : 40 à 49 ans - Eure,D27,1742963,2015
+2012,11.9,Taux de pauvreté : 40 à 49 ans - Finistère,D29,1742965,2012
+2013,12.1,Taux de pauvreté : 40 à 49 ans - Finistère,D29,1742965,2013
+2014,12.1,Taux de pauvreté : 40 à 49 ans - Finistère,D29,1742965,2014
+2015,12.9,Taux de pauvreté : 40 à 49 ans - Finistère,D29,1742965,2015
+2012,19.9,Taux de pauvreté : 40 à 49 ans - Nièvre,D58,1742994,2012
+2013,20.7,Taux de pauvreté : 40 à 49 ans - Nièvre,D58,1742994,2013
+2014,21.6,Taux de pauvreté : 40 à 49 ans - Nièvre,D58,1742994,2014
+2015,21.0,Taux de pauvreté : 40 à 49 ans - Nièvre,D58,1742994,2015
+2012,21.8,Taux de pauvreté : 40 à 49 ans - Nord,D59,1742995,2012
+2013,22.3,Taux de pauvreté : 40 à 49 ans - Nord,D59,1742995,2013
+2014,22.4,Taux de pauvreté : 40 à 49 ans - Nord,D59,1742995,2014
+2015,22.7,Taux de pauvreté : 40 à 49 ans - Nord,D59,1742995,2015
+2012,14.2,Taux de pauvreté : 40 à 49 ans - Oise,D60,1742996,2012
+2013,14.9,Taux de pauvreté : 40 à 49 ans - Oise,D60,1742996,2013
+2014,14.7,Taux de pauvreté : 40 à 49 ans - Oise,D60,1742996,2014
+2015,15.3,Taux de pauvreté : 40 à 49 ans - Oise,D60,1742996,2015
+2012,19.3,Taux de pauvreté : 40 à 49 ans - Orne,D61,1742997,2012
+2013,19.4,Taux de pauvreté : 40 à 49 ans - Orne,D61,1742997,2013
+2014,20.3,Taux de pauvreté : 40 à 49 ans - Orne,D61,1742997,2014
+2015,21.1,Taux de pauvreté : 40 à 49 ans - Orne,D61,1742997,2015
+2012,23.9,Taux de pauvreté : 40 à 49 ans - Pas-de-Calais,D62,1742998,2012
+2013,24.4,Taux de pauvreté : 40 à 49 ans - Pas-de-Calais,D62,1742998,2013
+2014,24.1,Taux de pauvreté : 40 à 49 ans - Pas-de-Calais,D62,1742998,2014
+2015,24.2,Taux de pauvreté : 40 à 49 ans - Pas-de-Calais,D62,1742998,2015
+2012,14.3,Taux de pauvreté : 40 à 49 ans - Puy-de-Dôme,D63,1742999,2012
+2013,14.6,Taux de pauvreté : 40 à 49 ans - Puy-de-Dôme,D63,1742999,2013
+2014,14.5,Taux de pauvreté : 40 à 49 ans - Puy-de-Dôme,D63,1742999,2014
+2015,14.8,Taux de pauvreté : 40 à 49 ans - Puy-de-Dôme,D63,1742999,2015
+2012,13.5,Taux de pauvreté : 40 à 49 ans - Pyrénées-Atlantiques,D64,1743000,2012
+2013,14.5,Taux de pauvreté : 40 à 49 ans - Pyrénées-Atlantiques,D64,1743000,2013
+2014,15.0,Taux de pauvreté : 40 à 49 ans - Pyrénées-Atlantiques,D64,1743000,2014
+2015,14.8,Taux de pauvreté : 40 à 49 ans - Pyrénées-Atlantiques,D64,1743000,2015
+2012,16.5,Taux de pauvreté : 40 à 49 ans - Hautes-Pyrénées,D65,1743001,2012
+2013,17.2,Taux de pauvreté : 40 à 49 ans - Hautes-Pyrénées,D65,1743001,2013
+2014,18.0,Taux de pauvreté : 40 à 49 ans - Hautes-Pyrénées,D65,1743001,2014
+2015,18.1,Taux de pauvreté : 40 à 49 ans - Hautes-Pyrénées,D65,1743001,2015
+2012,24.5,Taux de pauvreté : 40 à 49 ans - Pyrénées-Orientales,D66,1743002,2012
+2013,26.1,Taux de pauvreté : 40 à 49 ans - Pyrénées-Orientales,D66,1743002,2013
+2014,26.6,Taux de pauvreté : 40 à 49 ans - Pyrénées-Orientales,D66,1743002,2014
+2015,26.2,Taux de pauvreté : 40 à 49 ans - Pyrénées-Orientales,D66,1743002,2015
+2012,13.0,Taux de pauvreté : 40 à 49 ans - Bas-Rhin,D67,1743003,2012
+2013,14.0,Taux de pauvreté : 40 à 49 ans - Bas-Rhin,D67,1743003,2013
+2014,14.6,Taux de pauvreté : 40 à 49 ans - Bas-Rhin,D67,1743003,2014
+2015,15.5,Taux de pauvreté : 40 à 49 ans - Bas-Rhin,D67,1743003,2015
+2012,13.6,Taux de pauvreté : 40 à 49 ans - Haut-Rhin,D68,1743004,2012
+2013,14.7,Taux de pauvreté : 40 à 49 ans - Haut-Rhin,D68,1743004,2013
+2014,15.2,Taux de pauvreté : 40 à 49 ans - Haut-Rhin,D68,1743004,2014
+2015,15.8,Taux de pauvreté : 40 à 49 ans - Haut-Rhin,D68,1743004,2015
+2012,15.0,Taux de pauvreté : 40 à 49 ans - Rhône,D69,1743005,2012
+2013,15.6,Taux de pauvreté : 40 à 49 ans - Rhône,D69,1743005,2013
+2014,16.1,Taux de pauvreté : 40 à 49 ans - Rhône,D69,1743005,2014
+2015,16.6,Taux de pauvreté : 40 à 49 ans - Rhône,D69,1743005,2015
+2012,15.8,Taux de pauvreté : 40 à 49 ans - Haute-Saône,D70,1743006,2012
+2013,17.0,Taux de pauvreté : 40 à 49 ans - Haute-Saône,D70,1743006,2013
+2014,17.1,Taux de pauvreté : 40 à 49 ans - Haute-Saône,D70,1743006,2014
+2015,17.3,Taux de pauvreté : 40 à 49 ans - Haute-Saône,D70,1743006,2015
+2012,15.2,Taux de pauvreté : 40 à 49 ans - Saône-et-Loire,D71,1743007,2012
+2013,15.7,Taux de pauvreté : 40 à 49 ans - Saône-et-Loire,D71,1743007,2013
+2014,16.2,Taux de pauvreté : 40 à 49 ans - Saône-et-Loire,D71,1743007,2014
+2015,16.6,Taux de pauvreté : 40 à 49 ans - Saône-et-Loire,D71,1743007,2015
+2012,14.2,Taux de pauvreté : 40 à 49 ans - Vienne,D86,1743022,2012
+2013,14.9,Taux de pauvreté : 40 à 49 ans - Vienne,D86,1743022,2013
+2014,15.3,Taux de pauvreté : 40 à 49 ans - Vienne,D86,1743022,2014
+2015,15.6,Taux de pauvreté : 40 à 49 ans - Vienne,D86,1743022,2015
+2012,18.0,Taux de pauvreté : 40 à 49 ans - Vosges,D88,1743024,2012
+2013,18.8,Taux de pauvreté : 40 à 49 ans - Vosges,D88,1743024,2013
+2014,19.6,Taux de pauvreté : 40 à 49 ans - Vosges,D88,1743024,2014
+2015,20.4,Taux de pauvreté : 40 à 49 ans - Vosges,D88,1743024,2015
+2012,17.0,Taux de pauvreté : 40 à 49 ans - Yonne,D89,1743025,2012
+2013,17.2,Taux de pauvreté : 40 à 49 ans - Yonne,D89,1743025,2013
+2014,17.6,Taux de pauvreté : 40 à 49 ans - Yonne,D89,1743025,2014
+2015,18.6,Taux de pauvreté : 40 à 49 ans - Yonne,D89,1743025,2015
+2012,17.1,Taux de pauvreté : 40 à 49 ans - Territoire de Belfort,D90,1743026,2012
+2013,17.6,Taux de pauvreté : 40 à 49 ans - Territoire de Belfort,D90,1743026,2013
+2014,17.7,Taux de pauvreté : 40 à 49 ans - Territoire de Belfort,D90,1743026,2014
+2015,17.6,Taux de pauvreté : 40 à 49 ans - Territoire de Belfort,D90,1743026,2015
+2012,13.7,Taux de pauvreté : 40 à 49 ans - Essonne,D91,1743027,2012
+2013,14.3,Taux de pauvreté : 40 à 49 ans - Essonne,D91,1743027,2013
+2014,14.6,Taux de pauvreté : 40 à 49 ans - Essonne,D91,1743027,2014
+2015,15.2,Taux de pauvreté : 40 à 49 ans - Essonne,D91,1743027,2015
+2012,12.4,Taux de pauvreté : 40 à 49 ans - Hauts-de-Seine,D92,1743028,2012
+2013,13.0,Taux de pauvreté : 40 à 49 ans - Hauts-de-Seine,D92,1743028,2013
+2014,13.2,Taux de pauvreté : 40 à 49 ans - Hauts-de-Seine,D92,1743028,2014
+2015,13.6,Taux de pauvreté : 40 à 49 ans - Hauts-de-Seine,D92,1743028,2015
+2012,31.3,Taux de pauvreté : 40 à 49 ans - Seine-Saint-Denis,D93,1743029,2012
+2013,32.7,Taux de pauvreté : 40 à 49 ans - Seine-Saint-Denis,D93,1743029,2013
+2014,33.7,Taux de pauvreté : 40 à 49 ans - Seine-Saint-Denis,D93,1743029,2014
+2015,34.2,Taux de pauvreté : 40 à 49 ans - Seine-Saint-Denis,D93,1743029,2015
+2012,17.4,Taux de pauvreté : 40 à 49 ans - Val-de-Marne,D94,1743030,2012
+2013,18.4,Taux de pauvreté : 40 à 49 ans - Val-de-Marne,D94,1743030,2013
+2014,18.9,Taux de pauvreté : 40 à 49 ans - Val-de-Marne,D94,1743030,2014
+2015,19.6,Taux de pauvreté : 40 à 49 ans - Val-de-Marne,D94,1743030,2015
+2012,18.6,Taux de pauvreté : 40 à 49 ans - Val-d'Oise,D95,1743031,2012
+2013,19.4,Taux de pauvreté : 40 à 49 ans - Val-d'Oise,D95,1743031,2013
+2014,19.7,Taux de pauvreté : 40 à 49 ans - Val-d'Oise,D95,1743031,2014
+2015,20.3,Taux de pauvreté : 40 à 49 ans - Val-d'Oise,D95,1743031,2015
+2014,51.5,Taux de pauvreté : Moins de 30 ans - Martinique,D972,10001943,2014
+2015,51.6,Taux de pauvreté : Moins de 30 ans - Martinique,D972,10001943,2015
+2014,35.6,Taux de pauvreté : 30 à 39 ans - Martinique,D972,10001944,2014
+2015,36.0,Taux de pauvreté : 30 à 39 ans - Martinique,D972,10001944,2015
+2014,35.9,Taux de pauvreté : 40 à 49 ans - Martinique,D972,10001945,2014
+2015,34.3,Taux de pauvreté : 40 à 49 ans - Martinique,D972,10001945,2015
+2014,31.0,Taux de pauvreté : 50 à 59 ans - Martinique,D972,10001946,2014
+2015,29.9,Taux de pauvreté : 50 à 59 ans - Martinique,D972,10001946,2015
+2014,24.9,Taux de pauvreté : 60 à 74 ans - Martinique,D972,10001947,2014
+2015,23.8,Taux de pauvreté : 60 à 74 ans - Martinique,D972,10001947,2015
+2014,32.8,Taux de pauvreté : 75 ans ou plus - Martinique,D972,10001948,2014
+2015,31.2,Taux de pauvreté : 75 ans ou plus - Martinique,D972,10001948,2015
+2014,32.1,Taux de pauvreté : Ensemble - Martinique,D972,10001949,2014
+2015,30.9,Taux de pauvreté : Ensemble - Martinique,D972,10001949,2015
+2014,55.9,Taux de pauvreté : Moins de 30 ans - La Réunion,D974,10001950,2014
+2015,54.6,Taux de pauvreté : Moins de 30 ans - La Réunion,D974,10001950,2015
+2014,43.6,Taux de pauvreté : 30 à 39 ans - La Réunion,D974,10001951,2014
+2015,42.7,Taux de pauvreté : 30 à 39 ans - La Réunion,D974,10001951,2015
+2014,44.1,Taux de pauvreté : 40 à 49 ans - La Réunion,D974,10001952,2014
+2015,42.5,Taux de pauvreté : 40 à 49 ans - La Réunion,D974,10001952,2015
+2014,37.7,Taux de pauvreté : 50 à 59 ans - La Réunion,D974,10001953,2014
+2015,36.7,Taux de pauvreté : 50 à 59 ans - La Réunion,D974,10001953,2015
+2014,34.7,Taux de pauvreté : 60 à 74 ans - La Réunion,D974,10001954,2014
+2015,33.1,Taux de pauvreté : 60 à 74 ans - La Réunion,D974,10001954,2015
+2014,42.1,Taux de pauvreté : 75 ans ou plus - La Réunion,D974,10001955,2014
+2015,40.4,Taux de pauvreté : 75 ans ou plus - La Réunion,D974,10001955,2015
+2014,41.8,Taux de pauvreté : Ensemble - La Réunion,D974,10001956,2014
+2015,40.4,Taux de pauvreté : Ensemble - La Réunion,D974,10001956,2015
+2012,15.2,Taux de pauvreté : 30 à 39 ans - Charente-Maritime,D17,1742790,2012
+2013,15.9,Taux de pauvreté : 30 à 39 ans - Charente-Maritime,D17,1742790,2013
+2014,16.5,Taux de pauvreté : 30 à 39 ans - Charente-Maritime,D17,1742790,2014
+2015,16.4,Taux de pauvreté : 30 à 39 ans - Charente-Maritime,D17,1742790,2015
+2012,16.9,Taux de pauvreté : 30 à 39 ans - Cher,D18,1742791,2012
+2013,18.3,Taux de pauvreté : 30 à 39 ans - Cher,D18,1742791,2013
+2014,18.7,Taux de pauvreté : 30 à 39 ans - Cher,D18,1742791,2014
+2015,19.2,Taux de pauvreté : 30 à 39 ans - Cher,D18,1742791,2015
+2012,15.0,Taux de pauvreté : 30 à 39 ans - Corrèze,D19,1742792,2012
+2013,15.5,Taux de pauvreté : 30 à 39 ans - Corrèze,D19,1742792,2013
+2014,16.3,Taux de pauvreté : 30 à 39 ans - Corrèze,D19,1742792,2014
+2015,15.7,Taux de pauvreté : 30 à 39 ans - Corrèze,D19,1742792,2015
+2012,17.7,Taux de pauvreté : 30 à 39 ans - Corse-du-Sud,D2A,1742793,2012
+2013,18.5,Taux de pauvreté : 30 à 39 ans - Corse-du-Sud,D2A,1742793,2013
+2014,19.4,Taux de pauvreté : 30 à 39 ans - Corse-du-Sud,D2A,1742793,2014
+2015,19.9,Taux de pauvreté : 30 à 39 ans - Corse-du-Sud,D2A,1742793,2015
+2012,24.2,Taux de pauvreté : 30 à 39 ans - Haute-Corse,D2B,1742794,2012
+2013,24.9,Taux de pauvreté : 30 à 39 ans - Haute-Corse,D2B,1742794,2013
+2014,26.0,Taux de pauvreté : 30 à 39 ans - Haute-Corse,D2B,1742794,2014
+2015,25.2,Taux de pauvreté : 30 à 39 ans - Haute-Corse,D2B,1742794,2015
+2012,12.1,Taux de pauvreté : 30 à 39 ans - Côte-d'Or,D21,1742795,2012
+2013,12.8,Taux de pauvreté : 30 à 39 ans - Côte-d'Or,D21,1742795,2013
+2014,13.3,Taux de pauvreté : 30 à 39 ans - Côte-d'Or,D21,1742795,2014
+2015,13.9,Taux de pauvreté : 30 à 39 ans - Côte-d'Or,D21,1742795,2015
+2012,12.5,Taux de pauvreté : 30 à 39 ans - Côtes-d'Armor,D22,1742796,2012
+2013,13.2,Taux de pauvreté : 30 à 39 ans - Côtes-d'Armor,D22,1742796,2013
+2014,13.7,Taux de pauvreté : 30 à 39 ans - Côtes-d'Armor,D22,1742796,2014
+2015,14.1,Taux de pauvreté : 30 à 39 ans - Côtes-d'Armor,D22,1742796,2015
+2012,22.4,Taux de pauvreté : 30 à 39 ans - Creuse,D23,1742797,2012
+2013,23.1,Taux de pauvreté : 30 à 39 ans - Creuse,D23,1742797,2013
+2014,22.0,Taux de pauvreté : 30 à 39 ans - Creuse,D23,1742797,2014
+2015,23.0,Taux de pauvreté : 30 à 39 ans - Creuse,D23,1742797,2015
+2012,19.0,Taux de pauvreté : 30 à 39 ans - Dordogne,D24,1742798,2012
+2013,19.7,Taux de pauvreté : 30 à 39 ans - Dordogne,D24,1742798,2013
+2014,20.4,Taux de pauvreté : 30 à 39 ans - Dordogne,D24,1742798,2014
+2015,19.9,Taux de pauvreté : 30 à 39 ans - Dordogne,D24,1742798,2015
+2012,13.9,Taux de pauvreté : 30 à 39 ans - Doubs,D25,1742799,2012
+2013,15.0,Taux de pauvreté : 30 à 39 ans - Doubs,D25,1742799,2013
+2014,14.8,Taux de pauvreté : 30 à 39 ans - Doubs,D25,1742799,2014
+2015,14.8,Taux de pauvreté : 30 à 39 ans - Doubs,D25,1742799,2015
+2012,17.7,Taux de pauvreté : 30 à 39 ans - Drôme,D26,1742800,2012
+2013,18.8,Taux de pauvreté : 30 à 39 ans - Drôme,D26,1742800,2013
+2014,19.4,Taux de pauvreté : 30 à 39 ans - Drôme,D26,1742800,2014
+2015,19.6,Taux de pauvreté : 30 à 39 ans - Drôme,D26,1742800,2015
+2012,13.9,Taux de pauvreté : 30 à 39 ans - Eure,D27,1742801,2012
+2013,15.0,Taux de pauvreté : 30 à 39 ans - Eure,D27,1742801,2013
+2014,15.3,Taux de pauvreté : 30 à 39 ans - Eure,D27,1742801,2014
+2015,15.9,Taux de pauvreté : 30 à 39 ans - Eure,D27,1742801,2015
+2012,13.0,Taux de pauvreté : 30 à 39 ans - Eure-et-Loir,D28,1742802,2012
+2013,14.0,Taux de pauvreté : 30 à 39 ans - Eure-et-Loir,D28,1742802,2013
+2014,14.5,Taux de pauvreté : 30 à 39 ans - Eure-et-Loir,D28,1742802,2014
+2015,14.7,Taux de pauvreté : 30 à 39 ans - Eure-et-Loir,D28,1742802,2015
+2012,10.7,Taux de pauvreté : 30 à 39 ans - Finistère,D29,1742803,2012
+2013,11.4,Taux de pauvreté : 30 à 39 ans - Finistère,D29,1742803,2013
+2014,11.7,Taux de pauvreté : 30 à 39 ans - Finistère,D29,1742803,2014
+2015,12.4,Taux de pauvreté : 30 à 39 ans - Finistère,D29,1742803,2015
+2012,22.6,Taux de pauvreté : 30 à 39 ans - Gard,D30,1742804,2012
+2013,23.9,Taux de pauvreté : 30 à 39 ans - Gard,D30,1742804,2013
+2014,24.0,Taux de pauvreté : 30 à 39 ans - Gard,D30,1742804,2014
+2015,24.1,Taux de pauvreté : 30 à 39 ans - Gard,D30,1742804,2015
+2012,12.5,Taux de pauvreté : 30 à 39 ans - Haute-Garonne,D31,1742805,2012
+2013,13.2,Taux de pauvreté : 30 à 39 ans - Haute-Garonne,D31,1742805,2013
+2014,13.6,Taux de pauvreté : 30 à 39 ans - Haute-Garonne,D31,1742805,2014
+2015,14.0,Taux de pauvreté : 30 à 39 ans - Haute-Garonne,D31,1742805,2015
+2012,15.1,Taux de pauvreté : 30 à 39 ans - Gers,D32,1742806,2012
+2013,15.4,Taux de pauvreté : 30 à 39 ans - Gers,D32,1742806,2013
+2014,16.3,Taux de pauvreté : 30 à 39 ans - Gers,D32,1742806,2014
+2015,16.4,Taux de pauvreté : 30 à 39 ans - Gers,D32,1742806,2015
+2012,13.2,Taux de pauvreté : 30 à 39 ans - Gironde,D33,1742807,2012
+2013,14.0,Taux de pauvreté : 30 à 39 ans - Gironde,D33,1742807,2013
+2014,14.4,Taux de pauvreté : 30 à 39 ans - Gironde,D33,1742807,2014
+2015,14.9,Taux de pauvreté : 30 à 39 ans - Gironde,D33,1742807,2015
+2012,21.5,Taux de pauvreté : 30 à 39 ans - Hérault,D34,1742808,2012
+2013,22.6,Taux de pauvreté : 30 à 39 ans - Hérault,D34,1742808,2013
+2014,23.1,Taux de pauvreté : 30 à 39 ans - Hérault,D34,1742808,2014
+2015,22.9,Taux de pauvreté : 30 à 39 ans - Hérault,D34,1742808,2015
+2012,14.7,Taux de pauvreté : 30 à 39 ans - Loir-et-Cher,D41,1742815,2012
+2013,16.2,Taux de pauvreté : 30 à 39 ans - Loir-et-Cher,D41,1742815,2013
+2014,16.4,Taux de pauvreté : 30 à 39 ans - Loir-et-Cher,D41,1742815,2014
+2015,16.8,Taux de pauvreté : 30 à 39 ans - Loir-et-Cher,D41,1742815,2015
+2012,13.3,Taux de pauvreté : 30 à 39 ans - Haute-Loire,D43,1742817,2012
+2013,14.0,Taux de pauvreté : 30 à 39 ans - Haute-Loire,D43,1742817,2013
+2014,14.4,Taux de pauvreté : 30 à 39 ans - Haute-Loire,D43,1742817,2014
+2015,14.1,Taux de pauvreté : 30 à 39 ans - Haute-Loire,D43,1742817,2015
+2012,9.8,Taux de pauvreté : 30 à 39 ans - Loire-Atlantique,D44,1742818,2012
+2013,10.5,Taux de pauvreté : 30 à 39 ans - Loire-Atlantique,D44,1742818,2013
+2014,11.2,Taux de pauvreté : 30 à 39 ans - Loire-Atlantique,D44,1742818,2014
+2015,11.4,Taux de pauvreté : 30 à 39 ans - Loire-Atlantique,D44,1742818,2015
+2012,14.9,Taux de pauvreté : 30 à 39 ans - Loiret,D45,1742819,2012
+2013,16.1,Taux de pauvreté : 30 à 39 ans - Loiret,D45,1742819,2013
+2014,16.8,Taux de pauvreté : 30 à 39 ans - Loiret,D45,1742819,2014
+2015,17.0,Taux de pauvreté : 30 à 39 ans - Loiret,D45,1742819,2015
+2012,17.7,Taux de pauvreté : 30 à 39 ans - Lot,D46,1742820,2012
+2013,18.5,Taux de pauvreté : 30 à 39 ans - Lot,D46,1742820,2013
+2014,18.6,Taux de pauvreté : 30 à 39 ans - Lot,D46,1742820,2014
+2015,18.4,Taux de pauvreté : 30 à 39 ans - Lot,D46,1742820,2015
+2012,7.6,Taux de pauvreté : 75 ans ou plus - Hauts-de-Seine,D92,1742821,2012
+2013,6.8,Taux de pauvreté : 75 ans ou plus - Hauts-de-Seine,D92,1742821,2013
+2014,7.0,Taux de pauvreté : 75 ans ou plus - Hauts-de-Seine,D92,1742821,2014
+2015,7.1,Taux de pauvreté : 75 ans ou plus - Hauts-de-Seine,D92,1742821,2015
+2012,12.7,Taux de pauvreté : 75 ans ou plus - Seine-Saint-Denis,D93,1742822,2012
+2013,12.0,Taux de pauvreté : 75 ans ou plus - Seine-Saint-Denis,D93,1742822,2013
+2014,12.1,Taux de pauvreté : 75 ans ou plus - Seine-Saint-Denis,D93,1742822,2014
+2015,13.2,Taux de pauvreté : 75 ans ou plus - Seine-Saint-Denis,D93,1742822,2015
+2012,7.5,Taux de pauvreté : 75 ans ou plus - Val-de-Marne,D94,1742823,2012
+2013,6.9,Taux de pauvreté : 75 ans ou plus - Val-de-Marne,D94,1742823,2013
+2014,6.9,Taux de pauvreté : 75 ans ou plus - Val-de-Marne,D94,1742823,2014
+2015,7.2,Taux de pauvreté : 75 ans ou plus - Val-de-Marne,D94,1742823,2015
+2012,8.5,Taux de pauvreté : 75 ans ou plus - Val-d'Oise,D95,1742824,2012
+2013,7.4,Taux de pauvreté : 75 ans ou plus - Val-d'Oise,D95,1742824,2013
+2014,7.4,Taux de pauvreté : 75 ans ou plus - Val-d'Oise,D95,1742824,2014
+2015,7.9,Taux de pauvreté : 75 ans ou plus - Val-d'Oise,D95,1742824,2015
+2012,18.7,Taux de pauvreté : 30 à 39 ans - Lot-et-Garonne,D47,1742856,2012
+2013,19.6,Taux de pauvreté : 30 à 39 ans - Lot-et-Garonne,D47,1742856,2013
+2014,20.6,Taux de pauvreté : 30 à 39 ans - Lot-et-Garonne,D47,1742856,2014
+2015,21.0,Taux de pauvreté : 30 à 39 ans - Lot-et-Garonne,D47,1742856,2015
+2012,16.3,Taux de pauvreté : 30 à 39 ans - Lozère,D48,1742857,2012
+2013,16.9,Taux de pauvreté : 30 à 39 ans - Lozère,D48,1742857,2013
+2014,15.9,Taux de pauvreté : 30 à 39 ans - Lozère,D48,1742857,2014
+2015,17.1,Taux de pauvreté : 30 à 39 ans - Lozère,D48,1742857,2015
+2012,11.9,Taux de pauvreté : 30 à 39 ans - Maine-et-Loire,D49,1742858,2012
+2013,12.9,Taux de pauvreté : 30 à 39 ans - Maine-et-Loire,D49,1742858,2013
+2014,13.4,Taux de pauvreté : 30 à 39 ans - Maine-et-Loire,D49,1742858,2014
+2015,13.5,Taux de pauvreté : 30 à 39 ans - Maine-et-Loire,D49,1742858,2015
+2012,14.0,Taux de pauvreté : 30 à 39 ans - Manche,D50,1742859,2012
+2013,14.7,Taux de pauvreté : 30 à 39 ans - Manche,D50,1742859,2013
+2014,14.6,Taux de pauvreté : 30 à 39 ans - Manche,D50,1742859,2014
+2015,15.6,Taux de pauvreté : 30 à 39 ans - Manche,D50,1742859,2015
+2012,16.2,Taux de pauvreté : 30 à 39 ans - Marne,D51,1742860,2012
+2013,17.1,Taux de pauvreté : 30 à 39 ans - Marne,D51,1742860,2013
+2014,18.2,Taux de pauvreté : 30 à 39 ans - Marne,D51,1742860,2014
+2015,18.4,Taux de pauvreté : 30 à 39 ans - Marne,D51,1742860,2015
+2012,11.3,Taux de pauvreté : 40 à 49 ans - Ain,D01,1742936,2012
+2013,11.8,Taux de pauvreté : 40 à 49 ans - Ain,D01,1742936,2013
+2014,12.1,Taux de pauvreté : 40 à 49 ans - Ain,D01,1742936,2014
+2015,12.4,Taux de pauvreté : 40 à 49 ans - Ain,D01,1742936,2015
+2012,22.2,Taux de pauvreté : 40 à 49 ans - Aisne,D02,1742937,2012
+2013,22.6,Taux de pauvreté : 40 à 49 ans - Aisne,D02,1742937,2013
+2014,22.5,Taux de pauvreté : 40 à 49 ans - Aisne,D02,1742937,2014
+2015,23.1,Taux de pauvreté : 40 à 49 ans - Aisne,D02,1742937,2015
+2012,15.2,Taux de pauvreté : 40 à 49 ans - Sarthe,D72,1743008,2012
+2013,15.9,Taux de pauvreté : 40 à 49 ans - Sarthe,D72,1743008,2013
+2014,16.2,Taux de pauvreté : 40 à 49 ans - Sarthe,D72,1743008,2014
+2015,16.5,Taux de pauvreté : 40 à 49 ans - Sarthe,D72,1743008,2015
+2012,11.4,Taux de pauvreté : 40 à 49 ans - Savoie,D73,1743009,2012
+2013,12.0,Taux de pauvreté : 40 à 49 ans - Savoie,D73,1743009,2013
+2014,12.3,Taux de pauvreté : 40 à 49 ans - Savoie,D73,1743009,2014
+2015,12.3,Taux de pauvreté : 40 à 49 ans - Savoie,D73,1743009,2015
+2012,10.0,Taux de pauvreté : 40 à 49 ans - Haute-Savoie,D74,1743010,2012
+2013,10.2,Taux de pauvreté : 40 à 49 ans - Haute-Savoie,D74,1743010,2013
+2014,10.3,Taux de pauvreté : 40 à 49 ans - Haute-Savoie,D74,1743010,2014
+2015,10.3,Taux de pauvreté : 40 à 49 ans - Haute-Savoie,D74,1743010,2015
+2012,18.1,Taux de pauvreté : 40 à 49 ans - Paris,D75,1743011,2012
+2013,18.3,Taux de pauvreté : 40 à 49 ans - Paris,D75,1743011,2013
+2014,18.0,Taux de pauvreté : 40 à 49 ans - Paris,D75,1743011,2014
+2015,18.1,Taux de pauvreté : 40 à 49 ans - Paris,D75,1743011,2015
+2012,16.4,Taux de pauvreté : 40 à 49 ans - Seine-Maritime,D76,1743012,2012
+2013,17.1,Taux de pauvreté : 40 à 49 ans - Seine-Maritime,D76,1743012,2013
+2014,17.4,Taux de pauvreté : 40 à 49 ans - Seine-Maritime,D76,1743012,2014
+2015,17.9,Taux de pauvreté : 40 à 49 ans - Seine-Maritime,D76,1743012,2015
+2012,12.1,Taux de pauvreté : 40 à 49 ans - Seine-et-Marne,D77,1743013,2012
+2013,12.7,Taux de pauvreté : 40 à 49 ans - Seine-et-Marne,D77,1743013,2013
+2014,12.9,Taux de pauvreté : 40 à 49 ans - Seine-et-Marne,D77,1743013,2014
+2015,13.3,Taux de pauvreté : 40 à 49 ans - Seine-et-Marne,D77,1743013,2015
+2012,9.5,Taux de pauvreté : 40 à 49 ans - Yvelines,D78,1743014,2012
+2013,10.1,Taux de pauvreté : 40 à 49 ans - Yvelines,D78,1743014,2013
+2014,10.5,Taux de pauvreté : 40 à 49 ans - Yvelines,D78,1743014,2014
+2015,11.0,Taux de pauvreté : 40 à 49 ans - Yvelines,D78,1743014,2015
+2012,14.0,Taux de pauvreté : 40 à 49 ans - Deux-Sèvres,D79,1743015,2012
+2013,14.5,Taux de pauvreté : 40 à 49 ans - Deux-Sèvres,D79,1743015,2013
+2014,14.3,Taux de pauvreté : 40 à 49 ans - Deux-Sèvres,D79,1743015,2014
+2015,14.8,Taux de pauvreté : 40 à 49 ans - Deux-Sèvres,D79,1743015,2015
+2012,19.7,Taux de pauvreté : 40 à 49 ans - Somme,D80,1743016,2012
+2013,20.4,Taux de pauvreté : 40 à 49 ans - Somme,D80,1743016,2013
+2014,20.1,Taux de pauvreté : 40 à 49 ans - Somme,D80,1743016,2014
+2015,20.6,Taux de pauvreté : 40 à 49 ans - Somme,D80,1743016,2015
+2012,17.7,Taux de pauvreté : 40 à 49 ans - Tarn,D81,1743017,2012
+2013,18.2,Taux de pauvreté : 40 à 49 ans - Tarn,D81,1743017,2013
+2014,18.2,Taux de pauvreté : 40 à 49 ans - Tarn,D81,1743017,2014
+2015,18.7,Taux de pauvreté : 40 à 49 ans - Tarn,D81,1743017,2015
+2012,17.9,Taux de pauvreté : 40 à 49 ans - Tarn-et-Garonne,D82,1743018,2012
+2013,18.7,Taux de pauvreté : 40 à 49 ans - Tarn-et-Garonne,D82,1743018,2013
+2014,19.4,Taux de pauvreté : 40 à 49 ans - Tarn-et-Garonne,D82,1743018,2014
+2015,20.0,Taux de pauvreté : 40 à 49 ans - Tarn-et-Garonne,D82,1743018,2015
+2012,17.9,Taux de pauvreté : 40 à 49 ans - Var,D83,1743019,2012
+2013,18.8,Taux de pauvreté : 40 à 49 ans - Var,D83,1743019,2013
+2014,19.2,Taux de pauvreté : 40 à 49 ans - Var,D83,1743019,2014
+2015,19.2,Taux de pauvreté : 40 à 49 ans - Var,D83,1743019,2015
+2012,21.6,Taux de pauvreté : 40 à 49 ans - Vaucluse,D84,1743020,2012
+2013,22.7,Taux de pauvreté : 40 à 49 ans - Vaucluse,D84,1743020,2013
+2014,23.6,Taux de pauvreté : 40 à 49 ans - Vaucluse,D84,1743020,2014
+2015,24.0,Taux de pauvreté : 40 à 49 ans - Vaucluse,D84,1743020,2015
+2012,11.8,Taux de pauvreté : 40 à 49 ans - Vendée,D85,1743021,2012
+2013,12.2,Taux de pauvreté : 40 à 49 ans - Vendée,D85,1743021,2013
+2014,12.4,Taux de pauvreté : 40 à 49 ans - Vendée,D85,1743021,2014
+2015,12.6,Taux de pauvreté : 40 à 49 ans - Vendée,D85,1743021,2015
+2012,17.5,Taux de pauvreté : 40 à 49 ans - Haute-Vienne,D87,1743023,2012
+2013,17.7,Taux de pauvreté : 40 à 49 ans - Haute-Vienne,D87,1743023,2013
+2014,18.3,Taux de pauvreté : 40 à 49 ans - Haute-Vienne,D87,1743023,2014
+2015,18.3,Taux de pauvreté : 40 à 49 ans - Haute-Vienne,D87,1743023,2015
+2012,11.7,Taux de pauvreté : 50 à 59 ans - Rhône,D69,1742243,2012
+2013,12.4,Taux de pauvreté : 50 à 59 ans - Rhône,D69,1742243,2013
+2014,12.8,Taux de pauvreté : 50 à 59 ans - Rhône,D69,1742243,2014
+2015,13.4,Taux de pauvreté : 50 à 59 ans - Rhône,D69,1742243,2015
+2012,10.4,Taux de pauvreté : 30 à 39 ans - Ille-et-Vilaine,D35,1742809,2012
+2013,11.1,Taux de pauvreté : 30 à 39 ans - Ille-et-Vilaine,D35,1742809,2013
+2014,11.7,Taux de pauvreté : 30 à 39 ans - Ille-et-Vilaine,D35,1742809,2014
+2015,12.3,Taux de pauvreté : 30 à 39 ans - Ille-et-Vilaine,D35,1742809,2015
+2012,16.2,Taux de pauvreté : 30 à 39 ans - Indre,D36,1742810,2012
+2013,17.6,Taux de pauvreté : 30 à 39 ans - Indre,D36,1742810,2013
+2014,18.4,Taux de pauvreté : 30 à 39 ans - Indre,D36,1742810,2014
+2015,18.8,Taux de pauvreté : 30 à 39 ans - Indre,D36,1742810,2015
+2012,12.7,Taux de pauvreté : 30 à 39 ans - Indre-et-Loire,D37,1742811,2012
+2013,13.7,Taux de pauvreté : 30 à 39 ans - Indre-et-Loire,D37,1742811,2013
+2014,14.4,Taux de pauvreté : 30 à 39 ans - Indre-et-Loire,D37,1742811,2014
+2015,15.1,Taux de pauvreté : 30 à 39 ans - Indre-et-Loire,D37,1742811,2015
+2012,12.5,Taux de pauvreté : 30 à 39 ans - Isère,D38,1742812,2012
+2013,12.9,Taux de pauvreté : 30 à 39 ans - Isère,D38,1742812,2013
+2014,13.5,Taux de pauvreté : 30 à 39 ans - Isère,D38,1742812,2014
+2015,13.9,Taux de pauvreté : 30 à 39 ans - Isère,D38,1742812,2015
+2012,13.9,Taux de pauvreté : 30 à 39 ans - Jura,D39,1742813,2012
+2013,14.5,Taux de pauvreté : 30 à 39 ans - Jura,D39,1742813,2013
+2014,14.7,Taux de pauvreté : 30 à 39 ans - Jura,D39,1742813,2014
+2015,14.5,Taux de pauvreté : 30 à 39 ans - Jura,D39,1742813,2015
+2012,12.8,Taux de pauvreté : 30 à 39 ans - Landes,D40,1742814,2012
+2013,13.9,Taux de pauvreté : 30 à 39 ans - Landes,D40,1742814,2013
+2014,13.9,Taux de pauvreté : 30 à 39 ans - Landes,D40,1742814,2014
+2015,14.3,Taux de pauvreté : 30 à 39 ans - Landes,D40,1742814,2015
+2012,16.2,Taux de pauvreté : 30 à 39 ans - Loire,D42,1742816,2012
+2013,17.3,Taux de pauvreté : 30 à 39 ans - Loire,D42,1742816,2013
+2014,17.7,Taux de pauvreté : 30 à 39 ans - Loire,D42,1742816,2014
+2015,18.5,Taux de pauvreté : 30 à 39 ans - Loire,D42,1742816,2015
+2012,18.9,Taux de pauvreté : 30 à 39 ans - Haute-Marne,D52,1742861,2012
+2013,19.5,Taux de pauvreté : 30 à 39 ans - Haute-Marne,D52,1742861,2013
+2014,20.2,Taux de pauvreté : 30 à 39 ans - Haute-Marne,D52,1742861,2014
+2015,20.2,Taux de pauvreté : 30 à 39 ans - Haute-Marne,D52,1742861,2015
+2012,11.3,Taux de pauvreté : 30 à 39 ans - Mayenne,D53,1742862,2012
+2013,12.0,Taux de pauvreté : 30 à 39 ans - Mayenne,D53,1742862,2013
+2014,12.6,Taux de pauvreté : 30 à 39 ans - Mayenne,D53,1742862,2014
+2015,13.8,Taux de pauvreté : 30 à 39 ans - Mayenne,D53,1742862,2015
+2012,17.0,Taux de pauvreté : 30 à 39 ans - Meurthe-et-Moselle,D54,1742863,2012
+2013,17.2,Taux de pauvreté : 30 à 39 ans - Meurthe-et-Moselle,D54,1742863,2013
+2014,17.5,Taux de pauvreté : 30 à 39 ans - Meurthe-et-Moselle,D54,1742863,2014
+2015,17.7,Taux de pauvreté : 30 à 39 ans - Meurthe-et-Moselle,D54,1742863,2015
+2012,17.2,Taux de pauvreté : 30 à 39 ans - Meuse,D55,1742864,2012
+2013,18.0,Taux de pauvreté : 30 à 39 ans - Meuse,D55,1742864,2013
+2014,17.9,Taux de pauvreté : 30 à 39 ans - Meuse,D55,1742864,2014
+2015,18.5,Taux de pauvreté : 30 à 39 ans - Meuse,D55,1742864,2015
+2012,12.0,Taux de pauvreté : 30 à 39 ans - Morbihan,D56,1742865,2012
+2013,13.2,Taux de pauvreté : 30 à 39 ans - Morbihan,D56,1742865,2013
+2014,13.5,Taux de pauvreté : 30 à 39 ans - Morbihan,D56,1742865,2014
+2015,13.8,Taux de pauvreté : 30 à 39 ans - Morbihan,D56,1742865,2015
+2012,18.6,Taux de pauvreté : 30 à 39 ans - Moselle,D57,1742866,2012
+2013,18.7,Taux de pauvreté : 30 à 39 ans - Moselle,D57,1742866,2013
+2014,18.8,Taux de pauvreté : 30 à 39 ans - Moselle,D57,1742866,2014
+2015,19.3,Taux de pauvreté : 30 à 39 ans - Moselle,D57,1742866,2015
+2012,19.0,Taux de pauvreté : 30 à 39 ans - Nièvre,D58,1742867,2012
+2013,19.6,Taux de pauvreté : 30 à 39 ans - Nièvre,D58,1742867,2013
+2014,20.2,Taux de pauvreté : 30 à 39 ans - Nièvre,D58,1742867,2014
+2015,21.0,Taux de pauvreté : 30 à 39 ans - Nièvre,D58,1742867,2015
+2012,20.7,Taux de pauvreté : 30 à 39 ans - Nord,D59,1742868,2012
+2013,21.7,Taux de pauvreté : 30 à 39 ans - Nord,D59,1742868,2013
+2014,22.2,Taux de pauvreté : 30 à 39 ans - Nord,D59,1742868,2014
+2015,22.5,Taux de pauvreté : 30 à 39 ans - Nord,D59,1742868,2015
+2012,14.3,Taux de pauvreté : 30 à 39 ans - Oise,D60,1742869,2012
+2013,15.3,Taux de pauvreté : 30 à 39 ans - Oise,D60,1742869,2013
+2014,15.6,Taux de pauvreté : 30 à 39 ans - Oise,D60,1742869,2014
+2015,16.2,Taux de pauvreté : 30 à 39 ans - Oise,D60,1742869,2015
+2012,18.4,Taux de pauvreté : 30 à 39 ans - Orne,D61,1742870,2012
+2013,19.9,Taux de pauvreté : 30 à 39 ans - Orne,D61,1742870,2013
+2014,20.1,Taux de pauvreté : 30 à 39 ans - Orne,D61,1742870,2014
+2015,20.7,Taux de pauvreté : 30 à 39 ans - Orne,D61,1742870,2015
+2012,23.0,Taux de pauvreté : 30 à 39 ans - Pas-de-Calais,D62,1742871,2012
+2013,23.8,Taux de pauvreté : 30 à 39 ans - Pas-de-Calais,D62,1742871,2013
+2014,24.3,Taux de pauvreté : 30 à 39 ans - Pas-de-Calais,D62,1742871,2014
+2015,24.5,Taux de pauvreté : 30 à 39 ans - Pas-de-Calais,D62,1742871,2015
+2012,13.5,Taux de pauvreté : 30 à 39 ans - Puy-de-Dôme,D63,1742872,2012
+2013,14.4,Taux de pauvreté : 30 à 39 ans - Puy-de-Dôme,D63,1742872,2013
+2014,14.8,Taux de pauvreté : 30 à 39 ans - Puy-de-Dôme,D63,1742872,2014
+2015,15.1,Taux de pauvreté : 30 à 39 ans - Puy-de-Dôme,D63,1742872,2015
+2012,12.4,Taux de pauvreté : 30 à 39 ans - Pyrénées-Atlantiques,D64,1742873,2012
+2013,13.3,Taux de pauvreté : 30 à 39 ans - Pyrénées-Atlantiques,D64,1742873,2013
+2014,13.3,Taux de pauvreté : 30 à 39 ans - Pyrénées-Atlantiques,D64,1742873,2014
+2015,13.8,Taux de pauvreté : 30 à 39 ans - Pyrénées-Atlantiques,D64,1742873,2015
+2012,17.1,Taux de pauvreté : 30 à 39 ans - Hautes-Pyrénées,D65,1742874,2012
+2013,18.1,Taux de pauvreté : 30 à 39 ans - Hautes-Pyrénées,D65,1742874,2013
+2014,18.5,Taux de pauvreté : 30 à 39 ans - Hautes-Pyrénées,D65,1742874,2014
+2015,19.0,Taux de pauvreté : 30 à 39 ans - Hautes-Pyrénées,D65,1742874,2015
+2012,24.0,Taux de pauvreté : 30 à 39 ans - Pyrénées-Orientales,D66,1742875,2012
+2013,25.2,Taux de pauvreté : 30 à 39 ans - Pyrénées-Orientales,D66,1742875,2013
+2014,26.2,Taux de pauvreté : 30 à 39 ans - Pyrénées-Orientales,D66,1742875,2014
+2015,26.3,Taux de pauvreté : 30 à 39 ans - Pyrénées-Orientales,D66,1742875,2015
+2012,14.9,Taux de pauvreté : 30 à 39 ans - Bas-Rhin,D67,1742876,2012
+2013,15.8,Taux de pauvreté : 30 à 39 ans - Bas-Rhin,D67,1742876,2013
+2014,16.7,Taux de pauvreté : 30 à 39 ans - Bas-Rhin,D67,1742876,2014
+2015,17.2,Taux de pauvreté : 30 à 39 ans - Bas-Rhin,D67,1742876,2015
+2012,14.5,Taux de pauvreté : 30 à 39 ans - Rhône,D69,1742878,2012
+2013,15.6,Taux de pauvreté : 30 à 39 ans - Rhône,D69,1742878,2013
+2014,15.9,Taux de pauvreté : 30 à 39 ans - Rhône,D69,1742878,2014
+2015,16.0,Taux de pauvreté : 30 à 39 ans - Rhône,D69,1742878,2015
+2012,16.0,Taux de pauvreté : 30 à 39 ans - Haute-Saône,D70,1742879,2012
+2013,17.2,Taux de pauvreté : 30 à 39 ans - Haute-Saône,D70,1742879,2013
+2014,17.3,Taux de pauvreté : 30 à 39 ans - Haute-Saône,D70,1742879,2014
+2015,17.1,Taux de pauvreté : 30 à 39 ans - Haute-Saône,D70,1742879,2015
+2012,15.2,Taux de pauvreté : 30 à 39 ans - Saône-et-Loire,D71,1742880,2012
+2013,16.4,Taux de pauvreté : 30 à 39 ans - Saône-et-Loire,D71,1742880,2013
+2014,16.5,Taux de pauvreté : 30 à 39 ans - Saône-et-Loire,D71,1742880,2014
+2015,17.0,Taux de pauvreté : 30 à 39 ans - Saône-et-Loire,D71,1742880,2015
+2012,14.9,Taux de pauvreté : 30 à 39 ans - Sarthe,D72,1742881,2012
+2013,15.6,Taux de pauvreté : 30 à 39 ans - Sarthe,D72,1742881,2013
+2014,16.3,Taux de pauvreté : 30 à 39 ans - Sarthe,D72,1742881,2014
+2015,16.8,Taux de pauvreté : 30 à 39 ans - Sarthe,D72,1742881,2015
+2012,11.1,Taux de pauvreté : 30 à 39 ans - Savoie,D73,1742882,2012
+2013,11.8,Taux de pauvreté : 30 à 39 ans - Savoie,D73,1742882,2013
+2014,12.5,Taux de pauvreté : 30 à 39 ans - Savoie,D73,1742882,2014
+2015,12.5,Taux de pauvreté : 30 à 39 ans - Savoie,D73,1742882,2015
+2012,10.0,Taux de pauvreté : 30 à 39 ans - Haute-Savoie,D74,1742883,2012
+2013,10.2,Taux de pauvreté : 30 à 39 ans - Haute-Savoie,D74,1742883,2013
+2014,10.4,Taux de pauvreté : 30 à 39 ans - Haute-Savoie,D74,1742883,2014
+2015,10.1,Taux de pauvreté : 30 à 39 ans - Haute-Savoie,D74,1742883,2015
+2012,14.0,Taux de pauvreté : 30 à 39 ans - Paris,D75,1742884,2012
+2013,14.1,Taux de pauvreté : 30 à 39 ans - Paris,D75,1742884,2013
+2014,13.9,Taux de pauvreté : 30 à 39 ans - Paris,D75,1742884,2014
+2015,13.5,Taux de pauvreté : 30 à 39 ans - Paris,D75,1742884,2015
+2012,16.2,Taux de pauvreté : 30 à 39 ans - Seine-Maritime,D76,1742885,2012
+2013,17.0,Taux de pauvreté : 30 à 39 ans - Seine-Maritime,D76,1742885,2013
+2014,17.5,Taux de pauvreté : 30 à 39 ans - Seine-Maritime,D76,1742885,2014
+2015,17.9,Taux de pauvreté : 30 à 39 ans - Seine-Maritime,D76,1742885,2015
+2012,12.4,Taux de pauvreté : 30 à 39 ans - Seine-et-Marne,D77,1742886,2012
+2013,13.4,Taux de pauvreté : 30 à 39 ans - Seine-et-Marne,D77,1742886,2013
+2014,13.6,Taux de pauvreté : 30 à 39 ans - Seine-et-Marne,D77,1742886,2014
+2015,13.9,Taux de pauvreté : 30 à 39 ans - Seine-et-Marne,D77,1742886,2015
+2012,10.0,Taux de pauvreté : 30 à 39 ans - Yvelines,D78,1742887,2012
+2013,10.9,Taux de pauvreté : 30 à 39 ans - Yvelines,D78,1742887,2013
+2014,11.4,Taux de pauvreté : 30 à 39 ans - Yvelines,D78,1742887,2014
+2015,11.5,Taux de pauvreté : 30 à 39 ans - Yvelines,D78,1742887,2015
+2012,11.8,Taux de pauvreté : 30 à 39 ans - Deux-Sèvres,D79,1742888,2012
+2013,12.8,Taux de pauvreté : 30 à 39 ans - Deux-Sèvres,D79,1742888,2013
+2014,13.4,Taux de pauvreté : 30 à 39 ans - Deux-Sèvres,D79,1742888,2014
+2015,13.9,Taux de pauvreté : 30 à 39 ans - Deux-Sèvres,D79,1742888,2015
+2012,17.2,Taux de pauvreté : 30 à 39 ans - Tarn,D81,1742890,2012
+2013,18.0,Taux de pauvreté : 30 à 39 ans - Tarn,D81,1742890,2013
+2014,18.7,Taux de pauvreté : 30 à 39 ans - Tarn,D81,1742890,2014
+2015,19.3,Taux de pauvreté : 30 à 39 ans - Tarn,D81,1742890,2015
+2012,16.9,Taux de pauvreté : 30 à 39 ans - Tarn-et-Garonne,D82,1742891,2012
+2013,18.4,Taux de pauvreté : 30 à 39 ans - Tarn-et-Garonne,D82,1742891,2013
+2014,18.6,Taux de pauvreté : 30 à 39 ans - Tarn-et-Garonne,D82,1742891,2014
+2015,19.4,Taux de pauvreté : 30 à 39 ans - Tarn-et-Garonne,D82,1742891,2015
+2012,17.9,Taux de pauvreté : 30 à 39 ans - Var,D83,1742892,2012
+2013,19.0,Taux de pauvreté : 30 à 39 ans - Var,D83,1742892,2013
+2014,19.7,Taux de pauvreté : 30 à 39 ans - Var,D83,1742892,2014
+2015,19.9,Taux de pauvreté : 30 à 39 ans - Var,D83,1742892,2015
+2012,22.1,Taux de pauvreté : 30 à 39 ans - Vaucluse,D84,1742893,2012
+2013,23.8,Taux de pauvreté : 30 à 39 ans - Vaucluse,D84,1742893,2013
+2014,24.0,Taux de pauvreté : 30 à 39 ans - Vaucluse,D84,1742893,2014
+2015,24.2,Taux de pauvreté : 30 à 39 ans - Vaucluse,D84,1742893,2015
+2012,9.5,Taux de pauvreté : 30 à 39 ans - Vendée,D85,1742894,2012
+2013,10.0,Taux de pauvreté : 30 à 39 ans - Vendée,D85,1742894,2013
+2014,10.4,Taux de pauvreté : 30 à 39 ans - Vendée,D85,1742894,2014
+2015,10.6,Taux de pauvreté : 30 à 39 ans - Vendée,D85,1742894,2015
+2012,14.1,Taux de pauvreté : 30 à 39 ans - Vienne,D86,1742895,2012
+2013,14.9,Taux de pauvreté : 30 à 39 ans - Vienne,D86,1742895,2013
+2014,15.7,Taux de pauvreté : 30 à 39 ans - Vienne,D86,1742895,2014
+2015,16.4,Taux de pauvreté : 30 à 39 ans - Vienne,D86,1742895,2015
+2012,17.6,Taux de pauvreté : 30 à 39 ans - Haute-Vienne,D87,1742896,2012
+2013,18.5,Taux de pauvreté : 30 à 39 ans - Haute-Vienne,D87,1742896,2013
+2014,19.0,Taux de pauvreté : 30 à 39 ans - Haute-Vienne,D87,1742896,2014
+2015,20.1,Taux de pauvreté : 30 à 39 ans - Haute-Vienne,D87,1742896,2015
+2012,18.3,Taux de pauvreté : 30 à 39 ans - Vosges,D88,1742897,2012
+2013,19.8,Taux de pauvreté : 30 à 39 ans - Vosges,D88,1742897,2013
+2014,20.8,Taux de pauvreté : 30 à 39 ans - Vosges,D88,1742897,2014
+2015,20.9,Taux de pauvreté : 30 à 39 ans - Vosges,D88,1742897,2015
+2012,16.3,Taux de pauvreté : 30 à 39 ans - Yonne,D89,1742898,2012
+2013,17.4,Taux de pauvreté : 30 à 39 ans - Yonne,D89,1742898,2013
+2014,18.0,Taux de pauvreté : 30 à 39 ans - Yonne,D89,1742898,2014
+2015,18.7,Taux de pauvreté : 30 à 39 ans - Yonne,D89,1742898,2015
+2012,17.4,Taux de pauvreté : 30 à 39 ans - Territoire de Belfort,D90,1742899,2012
+2013,19.5,Taux de pauvreté : 30 à 39 ans - Territoire de Belfort,D90,1742899,2013
+2014,19.6,Taux de pauvreté : 30 à 39 ans - Territoire de Belfort,D90,1742899,2014
+2015,19.6,Taux de pauvreté : 30 à 39 ans - Territoire de Belfort,D90,1742899,2015
+2012,14.2,Taux de pauvreté : 30 à 39 ans - Essonne,D91,1742900,2012
+2013,15.0,Taux de pauvreté : 30 à 39 ans - Essonne,D91,1742900,2013
+2014,15.6,Taux de pauvreté : 30 à 39 ans - Essonne,D91,1742900,2014
+2015,16.1,Taux de pauvreté : 30 à 39 ans - Essonne,D91,1742900,2015
+2012,11.0,Taux de pauvreté : 30 à 39 ans - Hauts-de-Seine,D92,1742901,2012
+2013,11.6,Taux de pauvreté : 30 à 39 ans - Hauts-de-Seine,D92,1742901,2013
+2014,12.0,Taux de pauvreté : 30 à 39 ans - Hauts-de-Seine,D92,1742901,2014
+2015,12.1,Taux de pauvreté : 30 à 39 ans - Hauts-de-Seine,D92,1742901,2015
+2012,28.7,Taux de pauvreté : 30 à 39 ans - Seine-Saint-Denis,D93,1742902,2012
+2013,30.4,Taux de pauvreté : 30 à 39 ans - Seine-Saint-Denis,D93,1742902,2013
+2014,30.8,Taux de pauvreté : 30 à 39 ans - Seine-Saint-Denis,D93,1742902,2014
+2015,30.8,Taux de pauvreté : 30 à 39 ans - Seine-Saint-Denis,D93,1742902,2015
+2012,16.5,Taux de pauvreté : 30 à 39 ans - Val-de-Marne,D94,1742903,2012
+2013,17.4,Taux de pauvreté : 30 à 39 ans - Val-de-Marne,D94,1742903,2013
+2014,17.8,Taux de pauvreté : 30 à 39 ans - Val-de-Marne,D94,1742903,2014
+2015,18.3,Taux de pauvreté : 30 à 39 ans - Val-de-Marne,D94,1742903,2015
+2012,18.2,Taux de pauvreté : 30 à 39 ans - Val-d'Oise,D95,1742904,2012
+2013,19.1,Taux de pauvreté : 30 à 39 ans - Val-d'Oise,D95,1742904,2013
+2014,18.7,Taux de pauvreté : 30 à 39 ans - Val-d'Oise,D95,1742904,2014
+2015,19.5,Taux de pauvreté : 30 à 39 ans - Val-d'Oise,D95,1742904,2015
+2012,10.0,Taux de pauvreté : 50 à 59 ans - Haut-Rhin,D68,1742242,2012
+2013,10.7,Taux de pauvreté : 50 à 59 ans - Haut-Rhin,D68,1742242,2013
+2014,11.1,Taux de pauvreté : 50 à 59 ans - Haut-Rhin,D68,1742242,2014
+2015,11.8,Taux de pauvreté : 50 à 59 ans - Haut-Rhin,D68,1742242,2015
+2012,13.7,Taux de pauvreté : Ensemble - Yonne,D89,1742425,2012
+2013,13.9,Taux de pauvreté : Ensemble - Yonne,D89,1742425,2013
+2014,14.3,Taux de pauvreté : Ensemble - Yonne,D89,1742425,2014
+2015,14.6,Taux de pauvreté : Ensemble - Yonne,D89,1742425,2015
+2012,14.8,Taux de pauvreté : Ensemble - Territoire de Belfort,D90,1742426,2012
+2013,15.1,Taux de pauvreté : Ensemble - Territoire de Belfort,D90,1742426,2013
+2014,15.2,Taux de pauvreté : Ensemble - Territoire de Belfort,D90,1742426,2014
+2015,15.1,Taux de pauvreté : Ensemble - Territoire de Belfort,D90,1742426,2015
+2012,12.0,Taux de pauvreté : Ensemble - Essonne,D91,1742427,2012
+2013,12.3,Taux de pauvreté : Ensemble - Essonne,D91,1742427,2013
+2014,12.5,Taux de pauvreté : Ensemble - Essonne,D91,1742427,2014
+2015,12.9,Taux de pauvreté : Ensemble - Essonne,D91,1742427,2015
+2012,11.8,Taux de pauvreté : Ensemble - Hauts-de-Seine,D92,1742428,2012
+2013,12.1,Taux de pauvreté : Ensemble - Hauts-de-Seine,D92,1742428,2013
+2014,12.2,Taux de pauvreté : Ensemble - Hauts-de-Seine,D92,1742428,2014
+2015,12.4,Taux de pauvreté : Ensemble - Hauts-de-Seine,D92,1742428,2015
+2012,26.9,Taux de pauvreté : Ensemble - Seine-Saint-Denis,D93,1742429,2012
+2013,27.8,Taux de pauvreté : Ensemble - Seine-Saint-Denis,D93,1742429,2013
+2014,28.6,Taux de pauvreté : Ensemble - Seine-Saint-Denis,D93,1742429,2014
+2015,29.0,Taux de pauvreté : Ensemble - Seine-Saint-Denis,D93,1742429,2015
+2012,15.3,Taux de pauvreté : Ensemble - Val-de-Marne,D94,1742430,2012
+2013,15.8,Taux de pauvreté : Ensemble - Val-de-Marne,D94,1742430,2013
+2014,16.2,Taux de pauvreté : Ensemble - Val-de-Marne,D94,1742430,2014
+2015,16.8,Taux de pauvreté : Ensemble - Val-de-Marne,D94,1742430,2015
+2012,16.2,Taux de pauvreté : Ensemble - Val-d'Oise,D95,1742431,2012
+2013,16.7,Taux de pauvreté : Ensemble - Val-d'Oise,D95,1742431,2013
+2014,16.6,Taux de pauvreté : Ensemble - Val-d'Oise,D95,1742431,2014
+2015,17.1,Taux de pauvreté : Ensemble - Val-d'Oise,D95,1742431,2015
+2012,5.9,Taux de pauvreté : 60 à 74 ans - Ille-et-Vilaine,D35,1742454,2012
+2013,5.2,Taux de pauvreté : 60 à 74 ans - Ille-et-Vilaine,D35,1742454,2013
+2014,5.4,Taux de pauvreté : 60 à 74 ans - Ille-et-Vilaine,D35,1742454,2014
+2015,5.6,Taux de pauvreté : 60 à 74 ans - Ille-et-Vilaine,D35,1742454,2015
+2012,9.1,Taux de pauvreté : 60 à 74 ans - Indre,D36,1742455,2012
+2013,8.5,Taux de pauvreté : 60 à 74 ans - Indre,D36,1742455,2013
+2014,8.8,Taux de pauvreté : 60 à 74 ans - Indre,D36,1742455,2014
+2015,8.8,Taux de pauvreté : 60 à 74 ans - Indre,D36,1742455,2015
+2012,7.1,Taux de pauvreté : 60 à 74 ans - Indre-et-Loire,D37,1742456,2012
+2013,6.6,Taux de pauvreté : 60 à 74 ans - Indre-et-Loire,D37,1742456,2013
+2014,6.8,Taux de pauvreté : 60 à 74 ans - Indre-et-Loire,D37,1742456,2014
+2015,7.1,Taux de pauvreté : 60 à 74 ans - Indre-et-Loire,D37,1742456,2015
+2012,7.7,Taux de pauvreté : 60 à 74 ans - Isère,D38,1742457,2012
+2013,7.0,Taux de pauvreté : 60 à 74 ans - Isère,D38,1742457,2013
+2014,7.1,Taux de pauvreté : 60 à 74 ans - Isère,D38,1742457,2014
+2015,6.9,Taux de pauvreté : 60 à 74 ans - Isère,D38,1742457,2015
+2012,9.7,Taux de pauvreté : 60 à 74 ans - Meuse,D55,1742474,2012
+2013,8.8,Taux de pauvreté : 60 à 74 ans - Meuse,D55,1742474,2013
+2014,8.9,Taux de pauvreté : 60 à 74 ans - Meuse,D55,1742474,2014
+2015,9.6,Taux de pauvreté : 60 à 74 ans - Meuse,D55,1742474,2015
+2012,6.2,Taux de pauvreté : 60 à 74 ans - Morbihan,D56,1742475,2012
+2013,5.8,Taux de pauvreté : 60 à 74 ans - Morbihan,D56,1742475,2013
+2014,6.0,Taux de pauvreté : 60 à 74 ans - Morbihan,D56,1742475,2014
+2015,6.1,Taux de pauvreté : 60 à 74 ans - Morbihan,D56,1742475,2015
+2012,9.8,Taux de pauvreté : 60 à 74 ans - Moselle,D57,1742476,2012
+2013,8.9,Taux de pauvreté : 60 à 74 ans - Moselle,D57,1742476,2013
+2014,8.8,Taux de pauvreté : 60 à 74 ans - Moselle,D57,1742476,2014
+2015,9.0,Taux de pauvreté : 60 à 74 ans - Moselle,D57,1742476,2015
+2012,9.6,Taux de pauvreté : 60 à 74 ans - Nièvre,D58,1742477,2012
+2013,8.8,Taux de pauvreté : 60 à 74 ans - Nièvre,D58,1742477,2013
+2014,9.1,Taux de pauvreté : 60 à 74 ans - Nièvre,D58,1742477,2014
+2015,9.2,Taux de pauvreté : 60 à 74 ans - Nièvre,D58,1742477,2015
+2012,12.7,Taux de pauvreté : 60 à 74 ans - Nord,D59,1742478,2012
+2013,11.1,Taux de pauvreté : 60 à 74 ans - Nord,D59,1742478,2013
+2014,11.4,Taux de pauvreté : 60 à 74 ans - Nord,D59,1742478,2014
+2015,11.5,Taux de pauvreté : 60 à 74 ans - Nord,D59,1742478,2015
+2012,9.0,Taux de pauvreté : 60 à 74 ans - Oise,D60,1742479,2012
+2013,8.1,Taux de pauvreté : 60 à 74 ans - Oise,D60,1742479,2013
+2014,8.4,Taux de pauvreté : 60 à 74 ans - Oise,D60,1742479,2014
+2015,8.3,Taux de pauvreté : 60 à 74 ans - Oise,D60,1742479,2015
+2012,9.4,Taux de pauvreté : 60 à 74 ans - Orne,D61,1742480,2012
+2013,8.4,Taux de pauvreté : 60 à 74 ans - Orne,D61,1742480,2013
+2014,8.3,Taux de pauvreté : 60 à 74 ans - Orne,D61,1742480,2014
+2015,8.8,Taux de pauvreté : 60 à 74 ans - Orne,D61,1742480,2015
+2012,11.5,Taux de pauvreté : 60 à 74 ans - Pas-de-Calais,D62,1742481,2012
+2013,10.1,Taux de pauvreté : 60 à 74 ans - Pas-de-Calais,D62,1742481,2013
+2014,10.3,Taux de pauvreté : 60 à 74 ans - Pas-de-Calais,D62,1742481,2014
+2015,10.6,Taux de pauvreté : 60 à 74 ans - Pas-de-Calais,D62,1742481,2015
+2012,8.2,Taux de pauvreté : 60 à 74 ans - Puy-de-Dôme,D63,1742482,2012
+2013,7.5,Taux de pauvreté : 60 à 74 ans - Puy-de-Dôme,D63,1742482,2013
+2014,7.6,Taux de pauvreté : 60 à 74 ans - Puy-de-Dôme,D63,1742482,2014
+2015,7.8,Taux de pauvreté : 60 à 74 ans - Puy-de-Dôme,D63,1742482,2015
+2012,7.3,Taux de pauvreté : 60 à 74 ans - Pyrénées-Atlantiques,D64,1742483,2012
+2013,6.9,Taux de pauvreté : 60 à 74 ans - Pyrénées-Atlantiques,D64,1742483,2013
+2014,7.2,Taux de pauvreté : 60 à 74 ans - Pyrénées-Atlantiques,D64,1742483,2014
+2015,7.2,Taux de pauvreté : 60 à 74 ans - Pyrénées-Atlantiques,D64,1742483,2015
+2012,8.7,Taux de pauvreté : 60 à 74 ans - Hautes-Pyrénées,D65,1742484,2012
+2013,8.4,Taux de pauvreté : 60 à 74 ans - Hautes-Pyrénées,D65,1742484,2013
+2014,9.0,Taux de pauvreté : 60 à 74 ans - Hautes-Pyrénées,D65,1742484,2014
+2015,9.1,Taux de pauvreté : 60 à 74 ans - Hautes-Pyrénées,D65,1742484,2015
+2012,13.6,Taux de pauvreté : 60 à 74 ans - Pyrénées-Orientales,D66,1742485,2012
+2013,12.9,Taux de pauvreté : 60 à 74 ans - Pyrénées-Orientales,D66,1742485,2013
+2014,13.2,Taux de pauvreté : 60 à 74 ans - Pyrénées-Orientales,D66,1742485,2014
+2015,12.6,Taux de pauvreté : 60 à 74 ans - Pyrénées-Orientales,D66,1742485,2015
+2012,7.4,Taux de pauvreté : 60 à 74 ans - Bas-Rhin,D67,1742486,2012
+2013,6.8,Taux de pauvreté : 60 à 74 ans - Bas-Rhin,D67,1742486,2013
+2014,7.0,Taux de pauvreté : 60 à 74 ans - Bas-Rhin,D67,1742486,2014
+2015,7.6,Taux de pauvreté : 60 à 74 ans - Bas-Rhin,D67,1742486,2015
+2012,8.1,Taux de pauvreté : 60 à 74 ans - Haut-Rhin,D68,1742487,2012
+2013,7.3,Taux de pauvreté : 60 à 74 ans - Haut-Rhin,D68,1742487,2013
+2014,7.4,Taux de pauvreté : 60 à 74 ans - Haut-Rhin,D68,1742487,2014
+2015,7.9,Taux de pauvreté : 60 à 74 ans - Haut-Rhin,D68,1742487,2015
+2012,9.6,Taux de pauvreté : 60 à 74 ans - Rhône,D69,1742488,2012
+2013,8.8,Taux de pauvreté : 60 à 74 ans - Rhône,D69,1742488,2013
+2014,8.7,Taux de pauvreté : 60 à 74 ans - Rhône,D69,1742488,2014
+2015,8.7,Taux de pauvreté : 60 à 74 ans - Rhône,D69,1742488,2015
+2012,9.9,Taux de pauvreté : 60 à 74 ans - Haute-Saône,D70,1742489,2012
+2013,8.8,Taux de pauvreté : 60 à 74 ans - Haute-Saône,D70,1742489,2013
+2014,9.1,Taux de pauvreté : 60 à 74 ans - Haute-Saône,D70,1742489,2014
+2015,8.4,Taux de pauvreté : 60 à 74 ans - Haute-Saône,D70,1742489,2015
+2012,8.6,Taux de pauvreté : 60 à 74 ans - Saône-et-Loire,D71,1742490,2012
+2013,7.8,Taux de pauvreté : 60 à 74 ans - Saône-et-Loire,D71,1742490,2013
+2014,7.9,Taux de pauvreté : 60 à 74 ans - Saône-et-Loire,D71,1742490,2014
+2015,7.9,Taux de pauvreté : 60 à 74 ans - Saône-et-Loire,D71,1742490,2015
+2012,15.3,Taux de pauvreté : Moins de 30 ans - Ain,D01,1742500,2012
+2013,15.5,Taux de pauvreté : Moins de 30 ans - Ain,D01,1742500,2013
+2014,15.9,Taux de pauvreté : Moins de 30 ans - Ain,D01,1742500,2014
+2015,16.1,Taux de pauvreté : Moins de 30 ans - Ain,D01,1742500,2015
+2012,31.4,Taux de pauvreté : Moins de 30 ans - Aisne,D02,1742501,2012
+2013,32.1,Taux de pauvreté : Moins de 30 ans - Aisne,D02,1742501,2013
+2014,32.0,Taux de pauvreté : Moins de 30 ans - Aisne,D02,1742501,2014
+2015,31.6,Taux de pauvreté : Moins de 30 ans - Aisne,D02,1742501,2015
+2012,24.9,Taux de pauvreté : Moins de 30 ans - Allier,D03,1742502,2012
+2013,25.7,Taux de pauvreté : Moins de 30 ans - Allier,D03,1742502,2013
+2014,26.4,Taux de pauvreté : Moins de 30 ans - Allier,D03,1742502,2014
+2015,26.6,Taux de pauvreté : Moins de 30 ans - Allier,D03,1742502,2015
+2012,26.0,Taux de pauvreté : Moins de 30 ans - Alpes-de-Haute-Provence,D04,1742503,2012
+2013,26.3,Taux de pauvreté : Moins de 30 ans - Alpes-de-Haute-Provence,D04,1742503,2013
+2014,26.2,Taux de pauvreté : Moins de 30 ans - Alpes-de-Haute-Provence,D04,1742503,2014
+2015,25.2,Taux de pauvreté : Moins de 30 ans - Alpes-de-Haute-Provence,D04,1742503,2015
+2012,20.0,Taux de pauvreté : Moins de 30 ans - Hautes-Alpes,D05,1742504,2012
+2013,20.3,Taux de pauvreté : Moins de 30 ans - Hautes-Alpes,D05,1742504,2013
+2014,20.2,Taux de pauvreté : Moins de 30 ans - Hautes-Alpes,D05,1742504,2014
+2015,21.4,Taux de pauvreté : Moins de 30 ans - Hautes-Alpes,D05,1742504,2015
+2012,20.3,Taux de pauvreté : Moins de 30 ans - Alpes-Maritimes,D06,1742505,2012
+2013,21.8,Taux de pauvreté : Moins de 30 ans - Alpes-Maritimes,D06,1742505,2013
+2014,21.9,Taux de pauvreté : Moins de 30 ans - Alpes-Maritimes,D06,1742505,2014
+2015,22.3,Taux de pauvreté : Moins de 30 ans - Alpes-Maritimes,D06,1742505,2015
+2012,22.7,Taux de pauvreté : Moins de 30 ans - Ardèche,D07,1742506,2012
+2013,23.3,Taux de pauvreté : Moins de 30 ans - Ardèche,D07,1742506,2013
+2014,22.0,Taux de pauvreté : Moins de 30 ans - Ardèche,D07,1742506,2014
+2015,22.2,Taux de pauvreté : Moins de 30 ans - Ardèche,D07,1742506,2015
+2012,31.3,Taux de pauvreté : Moins de 30 ans - Ardennes,D08,1742507,2012
+2013,32.7,Taux de pauvreté : Moins de 30 ans - Ardennes,D08,1742507,2013
+2014,32.6,Taux de pauvreté : Moins de 30 ans - Ardennes,D08,1742507,2014
+2015,32.1,Taux de pauvreté : Moins de 30 ans - Ardennes,D08,1742507,2015
+2012,28.5,Taux de pauvreté : Moins de 30 ans - Ariège,D09,1742508,2012
+2013,28.2,Taux de pauvreté : Moins de 30 ans - Ariège,D09,1742508,2013
+2014,27.0,Taux de pauvreté : Moins de 30 ans - Ariège,D09,1742508,2014
+2015,29.0,Taux de pauvreté : Moins de 30 ans - Ariège,D09,1742508,2015
+2012,25.8,Taux de pauvreté : Moins de 30 ans - Aube,D10,1742509,2012
+2013,27.5,Taux de pauvreté : Moins de 30 ans - Aube,D10,1742509,2013
+2014,27.5,Taux de pauvreté : Moins de 30 ans - Aube,D10,1742509,2014
+2015,27.9,Taux de pauvreté : Moins de 30 ans - Aube,D10,1742509,2015
+2012,31.1,Taux de pauvreté : Moins de 30 ans - Aude,D11,1742510,2012
+2013,32.7,Taux de pauvreté : Moins de 30 ans - Aude,D11,1742510,2013
+2014,33.1,Taux de pauvreté : Moins de 30 ans - Aude,D11,1742510,2014
+2015,33.5,Taux de pauvreté : Moins de 30 ans - Aude,D11,1742510,2015
+2012,21.2,Taux de pauvreté : Moins de 30 ans - Aveyron,D12,1742511,2012
+2013,22.5,Taux de pauvreté : Moins de 30 ans - Aveyron,D12,1742511,2013
+2014,21.8,Taux de pauvreté : Moins de 30 ans - Aveyron,D12,1742511,2014
+2015,22.4,Taux de pauvreté : Moins de 30 ans - Aveyron,D12,1742511,2015
+2012,26.0,Taux de pauvreté : Moins de 30 ans - Bouches-du-Rhône,D13,1742512,2012
+2013,27.1,Taux de pauvreté : Moins de 30 ans - Bouches-du-Rhône,D13,1742512,2013
+2014,27.1,Taux de pauvreté : Moins de 30 ans - Bouches-du-Rhône,D13,1742512,2014
+2015,27.1,Taux de pauvreté : Moins de 30 ans - Bouches-du-Rhône,D13,1742512,2015
+2012,21.1,Taux de pauvreté : Moins de 30 ans - Calvados,D14,1742513,2012
+2013,21.9,Taux de pauvreté : Moins de 30 ans - Calvados,D14,1742513,2013
+2014,21.9,Taux de pauvreté : Moins de 30 ans - Calvados,D14,1742513,2014
+2015,22.0,Taux de pauvreté : Moins de 30 ans - Calvados,D14,1742513,2015
+2012,19.3,Taux de pauvreté : Moins de 30 ans - Cantal,D15,1742514,2012
+2013,21.6,Taux de pauvreté : Moins de 30 ans - Cantal,D15,1742514,2013
+2014,18.7,Taux de pauvreté : Moins de 30 ans - Cantal,D15,1742514,2014
+2015,19.1,Taux de pauvreté : Moins de 30 ans - Cantal,D15,1742514,2015
+2012,24.5,Taux de pauvreté : Moins de 30 ans - Charente,D16,1742515,2012
+2013,26.0,Taux de pauvreté : Moins de 30 ans - Charente,D16,1742515,2013
+2014,25.3,Taux de pauvreté : Moins de 30 ans - Charente,D16,1742515,2014
+2015,24.8,Taux de pauvreté : Moins de 30 ans - Charente,D16,1742515,2015
+2012,21.1,Taux de pauvreté : Moins de 30 ans - Charente-Maritime,D17,1742516,2012
+2013,22.0,Taux de pauvreté : Moins de 30 ans - Charente-Maritime,D17,1742516,2013
+2014,22.0,Taux de pauvreté : Moins de 30 ans - Charente-Maritime,D17,1742516,2014
+2015,23.2,Taux de pauvreté : Moins de 30 ans - Charente-Maritime,D17,1742516,2015
+2012,23.7,Taux de pauvreté : Moins de 30 ans - Cher,D18,1742517,2012
+2013,25.0,Taux de pauvreté : Moins de 30 ans - Cher,D18,1742517,2013
+2014,24.6,Taux de pauvreté : Moins de 30 ans - Cher,D18,1742517,2014
+2015,25.0,Taux de pauvreté : Moins de 30 ans - Cher,D18,1742517,2015
+2012,14.3,Taux de pauvreté : 30 à 39 ans - Cantal,D15,1742788,2012
+2013,15.2,Taux de pauvreté : 30 à 39 ans - Cantal,D15,1742788,2013
+2014,15.2,Taux de pauvreté : 30 à 39 ans - Cantal,D15,1742788,2014
+2015,15.2,Taux de pauvreté : 30 à 39 ans - Cantal,D15,1742788,2015
+2012,15.7,Taux de pauvreté : 30 à 39 ans - Haut-Rhin,D68,1742877,2012
+2013,17.0,Taux de pauvreté : 30 à 39 ans - Haut-Rhin,D68,1742877,2013
+2014,17.3,Taux de pauvreté : 30 à 39 ans - Haut-Rhin,D68,1742877,2014
+2015,17.7,Taux de pauvreté : 30 à 39 ans - Haut-Rhin,D68,1742877,2015
+2012,19.3,Taux de pauvreté : 30 à 39 ans - Somme,D80,1742889,2012
+2013,20.1,Taux de pauvreté : 30 à 39 ans - Somme,D80,1742889,2013
+2014,20.6,Taux de pauvreté : 30 à 39 ans - Somme,D80,1742889,2014
+2015,20.9,Taux de pauvreté : 30 à 39 ans - Somme,D80,1742889,2015
+2012,8.2,Taux de pauvreté : 60 à 74 ans - Jura,D39,1742458,2012
+2013,7.7,Taux de pauvreté : 60 à 74 ans - Jura,D39,1742458,2013
+2014,7.7,Taux de pauvreté : 60 à 74 ans - Jura,D39,1742458,2014
+2015,7.3,Taux de pauvreté : 60 à 74 ans - Jura,D39,1742458,2015
+2012,6.9,Taux de pauvreté : 60 à 74 ans - Landes,D40,1742459,2012
+2013,6.8,Taux de pauvreté : 60 à 74 ans - Landes,D40,1742459,2013
+2014,7.0,Taux de pauvreté : 60 à 74 ans - Landes,D40,1742459,2014
+2015,7.0,Taux de pauvreté : 60 à 74 ans - Landes,D40,1742459,2015
+2012,6.9,Taux de pauvreté : 60 à 74 ans - Loir-et-Cher,D41,1742460,2012
+2013,6.6,Taux de pauvreté : 60 à 74 ans - Loir-et-Cher,D41,1742460,2013
+2014,6.7,Taux de pauvreté : 60 à 74 ans - Loir-et-Cher,D41,1742460,2014
+2015,6.8,Taux de pauvreté : 60 à 74 ans - Loir-et-Cher,D41,1742460,2015
+2012,9.2,Taux de pauvreté : 60 à 74 ans - Loire,D42,1742461,2012
+2013,8.3,Taux de pauvreté : 60 à 74 ans - Loire,D42,1742461,2013
+2014,8.4,Taux de pauvreté : 60 à 74 ans - Loire,D42,1742461,2014
+2015,8.2,Taux de pauvreté : 60 à 74 ans - Loire,D42,1742461,2015
+2012,7.9,Taux de pauvreté : 60 à 74 ans - Haute-Loire,D43,1742462,2012
+2013,7.9,Taux de pauvreté : 60 à 74 ans - Haute-Loire,D43,1742462,2013
+2014,7.9,Taux de pauvreté : 60 à 74 ans - Haute-Loire,D43,1742462,2014
+2015,7.7,Taux de pauvreté : 60 à 74 ans - Haute-Loire,D43,1742462,2015
+2012,6.2,Taux de pauvreté : 60 à 74 ans - Loire-Atlantique,D44,1742463,2012
+2013,5.6,Taux de pauvreté : 60 à 74 ans - Loire-Atlantique,D44,1742463,2013
+2014,5.8,Taux de pauvreté : 60 à 74 ans - Loire-Atlantique,D44,1742463,2014
+2015,5.7,Taux de pauvreté : 60 à 74 ans - Loire-Atlantique,D44,1742463,2015
+2012,8.3,Taux de pauvreté : 60 à 74 ans - Loiret,D45,1742464,2012
+2013,7.5,Taux de pauvreté : 60 à 74 ans - Loiret,D45,1742464,2013
+2014,7.9,Taux de pauvreté : 60 à 74 ans - Loiret,D45,1742464,2014
+2015,8.1,Taux de pauvreté : 60 à 74 ans - Loiret,D45,1742464,2015
+2012,9.6,Taux de pauvreté : 60 à 74 ans - Lot,D46,1742465,2012
+2013,9.4,Taux de pauvreté : 60 à 74 ans - Lot,D46,1742465,2013
+2014,9.4,Taux de pauvreté : 60 à 74 ans - Lot,D46,1742465,2014
+2015,9.3,Taux de pauvreté : 60 à 74 ans - Lot,D46,1742465,2015
+2012,12.2,Taux de pauvreté : 60 à 74 ans - Lot-et-Garonne,D47,1742466,2012
+2013,11.3,Taux de pauvreté : 60 à 74 ans - Lot-et-Garonne,D47,1742466,2013
+2014,11.3,Taux de pauvreté : 60 à 74 ans - Lot-et-Garonne,D47,1742466,2014
+2015,11.3,Taux de pauvreté : 60 à 74 ans - Lot-et-Garonne,D47,1742466,2015
+2012,11.2,Taux de pauvreté : 60 à 74 ans - Lozère,D48,1742467,2012
+2013,10.5,Taux de pauvreté : 60 à 74 ans - Lozère,D48,1742467,2013
+2014,10.6,Taux de pauvreté : 60 à 74 ans - Lozère,D48,1742467,2014
+2015,10.6,Taux de pauvreté : 60 à 74 ans - Lozère,D48,1742467,2015
+2012,6.6,Taux de pauvreté : 60 à 74 ans - Maine-et-Loire,D49,1742468,2012
+2013,5.9,Taux de pauvreté : 60 à 74 ans - Maine-et-Loire,D49,1742468,2013
+2014,6.3,Taux de pauvreté : 60 à 74 ans - Maine-et-Loire,D49,1742468,2014
+2015,6.2,Taux de pauvreté : 60 à 74 ans - Maine-et-Loire,D49,1742468,2015
+2012,8.0,Taux de pauvreté : 60 à 74 ans - Manche,D50,1742469,2012
+2013,7.2,Taux de pauvreté : 60 à 74 ans - Manche,D50,1742469,2013
+2014,7.4,Taux de pauvreté : 60 à 74 ans - Manche,D50,1742469,2014
+2015,7.3,Taux de pauvreté : 60 à 74 ans - Manche,D50,1742469,2015
+2012,8.4,Taux de pauvreté : 60 à 74 ans - Marne,D51,1742470,2012
+2013,7.5,Taux de pauvreté : 60 à 74 ans - Marne,D51,1742470,2013
+2014,7.8,Taux de pauvreté : 60 à 74 ans - Marne,D51,1742470,2014
+2015,7.7,Taux de pauvreté : 60 à 74 ans - Marne,D51,1742470,2015
+2012,10.0,Taux de pauvreté : 60 à 74 ans - Haute-Marne,D52,1742471,2012
+2013,8.6,Taux de pauvreté : 60 à 74 ans - Haute-Marne,D52,1742471,2013
+2014,9.0,Taux de pauvreté : 60 à 74 ans - Haute-Marne,D52,1742471,2014
+2015,8.9,Taux de pauvreté : 60 à 74 ans - Haute-Marne,D52,1742471,2015
+2012,7.0,Taux de pauvreté : 60 à 74 ans - Mayenne,D53,1742472,2012
+2013,6.5,Taux de pauvreté : 60 à 74 ans - Mayenne,D53,1742472,2013
+2014,6.6,Taux de pauvreté : 60 à 74 ans - Mayenne,D53,1742472,2014
+2015,6.6,Taux de pauvreté : 60 à 74 ans - Mayenne,D53,1742472,2015
+2012,8.9,Taux de pauvreté : 60 à 74 ans - Meurthe-et-Moselle,D54,1742473,2012
+2013,8.0,Taux de pauvreté : 60 à 74 ans - Meurthe-et-Moselle,D54,1742473,2013
+2014,8.2,Taux de pauvreté : 60 à 74 ans - Meurthe-et-Moselle,D54,1742473,2014
+2015,8.5,Taux de pauvreté : 60 à 74 ans - Meurthe-et-Moselle,D54,1742473,2015
+2012,22.1,Taux de pauvreté : Moins de 30 ans - Corrèze,D19,1742518,2012
+2013,22.7,Taux de pauvreté : Moins de 30 ans - Corrèze,D19,1742518,2013
+2014,22.3,Taux de pauvreté : Moins de 30 ans - Corrèze,D19,1742518,2014
+2015,22.2,Taux de pauvreté : Moins de 30 ans - Corrèze,D19,1742518,2015
+2012,23.6,Taux de pauvreté : Moins de 30 ans - Corse-du-Sud,D2A,1742519,2012
+2013,23.7,Taux de pauvreté : Moins de 30 ans - Corse-du-Sud,D2A,1742519,2013
+2014,22.9,Taux de pauvreté : Moins de 30 ans - Corse-du-Sud,D2A,1742519,2014
+2015,23.3,Taux de pauvreté : Moins de 30 ans - Corse-du-Sud,D2A,1742519,2015
+2012,29.9,Taux de pauvreté : Moins de 30 ans - Haute-Corse,D2B,1742520,2012
+2013,32.6,Taux de pauvreté : Moins de 30 ans - Haute-Corse,D2B,1742520,2013
+2014,30.4,Taux de pauvreté : Moins de 30 ans - Haute-Corse,D2B,1742520,2014
+2015,29.5,Taux de pauvreté : Moins de 30 ans - Haute-Corse,D2B,1742520,2015
+2012,19.3,Taux de pauvreté : Moins de 30 ans - Côte-d'Or,D21,1742521,2012
+2013,20.3,Taux de pauvreté : Moins de 30 ans - Côte-d'Or,D21,1742521,2013
+2014,19.8,Taux de pauvreté : Moins de 30 ans - Côte-d'Or,D21,1742521,2014
+2015,19.9,Taux de pauvreté : Moins de 30 ans - Côte-d'Or,D21,1742521,2015
+2012,29.4,Taux de pauvreté : Moins de 30 ans - Hérault,D34,1742571,2012
+2013,31.2,Taux de pauvreté : Moins de 30 ans - Hérault,D34,1742571,2013
+2014,31.0,Taux de pauvreté : Moins de 30 ans - Hérault,D34,1742571,2014
+2015,31.0,Taux de pauvreté : Moins de 30 ans - Hérault,D34,1742571,2015
+2012,19.4,Taux de pauvreté : Moins de 30 ans - Ille-et-Vilaine,D35,1742572,2012
+2013,20.8,Taux de pauvreté : Moins de 30 ans - Ille-et-Vilaine,D35,1742572,2013
+2014,21.3,Taux de pauvreté : Moins de 30 ans - Ille-et-Vilaine,D35,1742572,2014
+2015,21.5,Taux de pauvreté : Moins de 30 ans - Ille-et-Vilaine,D35,1742572,2015
+2012,24.1,Taux de pauvreté : Moins de 30 ans - Indre,D36,1742573,2012
+2013,25.1,Taux de pauvreté : Moins de 30 ans - Indre,D36,1742573,2013
+2014,24.7,Taux de pauvreté : Moins de 30 ans - Indre,D36,1742573,2014
+2015,24.6,Taux de pauvreté : Moins de 30 ans - Indre,D36,1742573,2015
+2012,21.1,Taux de pauvreté : Moins de 30 ans - Indre-et-Loire,D37,1742574,2012
+2013,22.0,Taux de pauvreté : Moins de 30 ans - Indre-et-Loire,D37,1742574,2013
+2014,22.5,Taux de pauvreté : Moins de 30 ans - Indre-et-Loire,D37,1742574,2014
+2015,22.6,Taux de pauvreté : Moins de 30 ans - Indre-et-Loire,D37,1742574,2015
+2012,18.7,Taux de pauvreté : Moins de 30 ans - Isère,D38,1742575,2012
+2013,19.5,Taux de pauvreté : Moins de 30 ans - Isère,D38,1742575,2013
+2014,19.3,Taux de pauvreté : Moins de 30 ans - Isère,D38,1742575,2014
+2015,20.0,Taux de pauvreté : Moins de 30 ans - Isère,D38,1742575,2015
+2012,18.4,Taux de pauvreté : Moins de 30 ans - Jura,D39,1742576,2012
+2013,18.9,Taux de pauvreté : Moins de 30 ans - Jura,D39,1742576,2013
+2014,19.3,Taux de pauvreté : Moins de 30 ans - Jura,D39,1742576,2014
+2015,18.2,Taux de pauvreté : Moins de 30 ans - Jura,D39,1742576,2015
+2012,18.3,Taux de pauvreté : Moins de 30 ans - Landes,D40,1742577,2012
+2013,19.7,Taux de pauvreté : Moins de 30 ans - Landes,D40,1742577,2013
+2014,20.2,Taux de pauvreté : Moins de 30 ans - Landes,D40,1742577,2014
+2015,20.2,Taux de pauvreté : Moins de 30 ans - Landes,D40,1742577,2015
+2012,20.2,Taux de pauvreté : Moins de 30 ans - Loir-et-Cher,D41,1742578,2012
+2013,21.3,Taux de pauvreté : Moins de 30 ans - Loir-et-Cher,D41,1742578,2013
+2014,21.4,Taux de pauvreté : Moins de 30 ans - Loir-et-Cher,D41,1742578,2014
+2015,21.1,Taux de pauvreté : Moins de 30 ans - Loir-et-Cher,D41,1742578,2015
+2012,21.9,Taux de pauvreté : Moins de 30 ans - Loire,D42,1742579,2012
+2013,23.4,Taux de pauvreté : Moins de 30 ans - Loire,D42,1742579,2013
+2014,23.6,Taux de pauvreté : Moins de 30 ans - Loire,D42,1742579,2014
+2015,24.7,Taux de pauvreté : Moins de 30 ans - Loire,D42,1742579,2015
+2012,18.7,Taux de pauvreté : Moins de 30 ans - Haute-Loire,D43,1742580,2012
+2013,19.9,Taux de pauvreté : Moins de 30 ans - Haute-Loire,D43,1742580,2013
+2014,19.1,Taux de pauvreté : Moins de 30 ans - Haute-Loire,D43,1742580,2014
+2015,18.9,Taux de pauvreté : Moins de 30 ans - Haute-Loire,D43,1742580,2015
+2012,16.3,Taux de pauvreté : Moins de 30 ans - Loire-Atlantique,D44,1742581,2012
+2013,17.1,Taux de pauvreté : Moins de 30 ans - Loire-Atlantique,D44,1742581,2013
+2014,17.4,Taux de pauvreté : Moins de 30 ans - Loire-Atlantique,D44,1742581,2014
+2015,17.7,Taux de pauvreté : Moins de 30 ans - Loire-Atlantique,D44,1742581,2015
+2012,20.2,Taux de pauvreté : Moins de 30 ans - Loiret,D45,1742582,2012
+2013,20.9,Taux de pauvreté : Moins de 30 ans - Loiret,D45,1742582,2013
+2014,21.0,Taux de pauvreté : Moins de 30 ans - Loiret,D45,1742582,2014
+2015,21.4,Taux de pauvreté : Moins de 30 ans - Loiret,D45,1742582,2015
+2012,22.6,Taux de pauvreté : Moins de 30 ans - Lot,D46,1742583,2012
+2013,23.9,Taux de pauvreté : Moins de 30 ans - Lot,D46,1742583,2013
+2014,23.9,Taux de pauvreté : Moins de 30 ans - Lot,D46,1742583,2014
+2015,24.1,Taux de pauvreté : Moins de 30 ans - Lot,D46,1742583,2015
+2012,25.6,Taux de pauvreté : Moins de 30 ans - Lot-et-Garonne,D47,1742584,2012
+2013,25.6,Taux de pauvreté : Moins de 30 ans - Lot-et-Garonne,D47,1742584,2013
+2014,24.8,Taux de pauvreté : Moins de 30 ans - Lot-et-Garonne,D47,1742584,2014
+2015,25.1,Taux de pauvreté : Moins de 30 ans - Lot-et-Garonne,D47,1742584,2015
+2012,19.9,Taux de pauvreté : Moins de 30 ans - Lozère,D48,1742585,2012
+2013,21.8,Taux de pauvreté : Moins de 30 ans - Lozère,D48,1742585,2013
+2014,19.7,Taux de pauvreté : Moins de 30 ans - Lozère,D48,1742585,2014
+2015,20.5,Taux de pauvreté : Moins de 30 ans - Lozère,D48,1742585,2015
+2012,18.5,Taux de pauvreté : Moins de 30 ans - Maine-et-Loire,D49,1742586,2012
+2013,19.3,Taux de pauvreté : Moins de 30 ans - Maine-et-Loire,D49,1742586,2013
+2014,19.8,Taux de pauvreté : Moins de 30 ans - Maine-et-Loire,D49,1742586,2014
+2015,19.9,Taux de pauvreté : Moins de 30 ans - Maine-et-Loire,D49,1742586,2015
+2012,20.0,Taux de pauvreté : Moins de 30 ans - Manche,D50,1742587,2012
+2013,19.7,Taux de pauvreté : Moins de 30 ans - Manche,D50,1742587,2013
+2014,19.6,Taux de pauvreté : Moins de 30 ans - Manche,D50,1742587,2014
+2015,19.6,Taux de pauvreté : Moins de 30 ans - Manche,D50,1742587,2015
+2012,24.7,Taux de pauvreté : Moins de 30 ans - Marne,D51,1742588,2012
+2013,26.1,Taux de pauvreté : Moins de 30 ans - Marne,D51,1742588,2013
+2014,26.6,Taux de pauvreté : Moins de 30 ans - Marne,D51,1742588,2014
+2015,27.5,Taux de pauvreté : Moins de 30 ans - Marne,D51,1742588,2015
+2012,24.3,Taux de pauvreté : Moins de 30 ans - Haute-Marne,D52,1742589,2012
+2013,26.3,Taux de pauvreté : Moins de 30 ans - Haute-Marne,D52,1742589,2013
+2014,25.5,Taux de pauvreté : Moins de 30 ans - Haute-Marne,D52,1742589,2014
+2015,25.2,Taux de pauvreté : Moins de 30 ans - Haute-Marne,D52,1742589,2015
+2012,16.8,Taux de pauvreté : Moins de 30 ans - Mayenne,D53,1742590,2012
+2013,17.1,Taux de pauvreté : Moins de 30 ans - Mayenne,D53,1742590,2013
+2014,17.2,Taux de pauvreté : Moins de 30 ans - Mayenne,D53,1742590,2014
+2015,17.4,Taux de pauvreté : Moins de 30 ans - Mayenne,D53,1742590,2015
+2012,25.4,Taux de pauvreté : Moins de 30 ans - Meurthe-et-Moselle,D54,1742591,2012
+2013,26.3,Taux de pauvreté : Moins de 30 ans - Meurthe-et-Moselle,D54,1742591,2013
+2014,25.9,Taux de pauvreté : Moins de 30 ans - Meurthe-et-Moselle,D54,1742591,2014
+2015,26.5,Taux de pauvreté : Moins de 30 ans - Meurthe-et-Moselle,D54,1742591,2015
+2012,23.8,Taux de pauvreté : Moins de 30 ans - Meuse,D55,1742592,2012
+2013,25.3,Taux de pauvreté : Moins de 30 ans - Meuse,D55,1742592,2013
+2014,24.5,Taux de pauvreté : Moins de 30 ans - Meuse,D55,1742592,2014
+2015,26.4,Taux de pauvreté : Moins de 30 ans - Meuse,D55,1742592,2015
+2012,17.9,Taux de pauvreté : Moins de 30 ans - Morbihan,D56,1742593,2012
+2013,18.7,Taux de pauvreté : Moins de 30 ans - Morbihan,D56,1742593,2013
+2014,18.6,Taux de pauvreté : Moins de 30 ans - Morbihan,D56,1742593,2014
+2015,18.9,Taux de pauvreté : Moins de 30 ans - Morbihan,D56,1742593,2015
+2012,23.4,Taux de pauvreté : Moins de 30 ans - Moselle,D57,1742594,2012
+2013,24.0,Taux de pauvreté : Moins de 30 ans - Moselle,D57,1742594,2013
+2014,24.0,Taux de pauvreté : Moins de 30 ans - Moselle,D57,1742594,2014
+2015,24.2,Taux de pauvreté : Moins de 30 ans - Moselle,D57,1742594,2015
+2012,26.2,Taux de pauvreté : Moins de 30 ans - Nièvre,D58,1742595,2012
+2013,27.4,Taux de pauvreté : Moins de 30 ans - Nièvre,D58,1742595,2013
+2014,26.6,Taux de pauvreté : Moins de 30 ans - Nièvre,D58,1742595,2014
+2015,27.1,Taux de pauvreté : Moins de 30 ans - Nièvre,D58,1742595,2015
+2012,28.7,Taux de pauvreté : Moins de 30 ans - Nord,D59,1742596,2012
+2013,29.8,Taux de pauvreté : Moins de 30 ans - Nord,D59,1742596,2013
+2014,29.7,Taux de pauvreté : Moins de 30 ans - Nord,D59,1742596,2014
+2015,30.2,Taux de pauvreté : Moins de 30 ans - Nord,D59,1742596,2015
+2012,20.0,Taux de pauvreté : Moins de 30 ans - Oise,D60,1742597,2012
+2013,20.3,Taux de pauvreté : Moins de 30 ans - Oise,D60,1742597,2013
+2014,20.2,Taux de pauvreté : Moins de 30 ans - Oise,D60,1742597,2014
+2015,20.8,Taux de pauvreté : Moins de 30 ans - Oise,D60,1742597,2015
+2012,24.5,Taux de pauvreté : Moins de 30 ans - Orne,D61,1742598,2012
+2013,25.9,Taux de pauvreté : Moins de 30 ans - Orne,D61,1742598,2013
+2014,25.8,Taux de pauvreté : Moins de 30 ans - Orne,D61,1742598,2014
+2015,26.1,Taux de pauvreté : Moins de 30 ans - Orne,D61,1742598,2015
+2012,32.3,Taux de pauvreté : Moins de 30 ans - Pas-de-Calais,D62,1742599,2012
+2013,33.7,Taux de pauvreté : Moins de 30 ans - Pas-de-Calais,D62,1742599,2013
+2014,33.6,Taux de pauvreté : Moins de 30 ans - Pas-de-Calais,D62,1742599,2014
+2015,33.4,Taux de pauvreté : Moins de 30 ans - Pas-de-Calais,D62,1742599,2015
+2012,20.0,Taux de pauvreté : Moins de 30 ans - Pyrénées-Atlantiques,D64,1742601,2012
+2013,20.3,Taux de pauvreté : Moins de 30 ans - Pyrénées-Atlantiques,D64,1742601,2013
+2014,20.4,Taux de pauvreté : Moins de 30 ans - Pyrénées-Atlantiques,D64,1742601,2014
+2015,20.6,Taux de pauvreté : Moins de 30 ans - Pyrénées-Atlantiques,D64,1742601,2015
+2012,11.3,Taux de pauvreté : Ensemble - Eure-et-Loir,D28,1742291,2012
+2013,11.5,Taux de pauvreté : Ensemble - Eure-et-Loir,D28,1742291,2013
+2014,11.8,Taux de pauvreté : Ensemble - Eure-et-Loir,D28,1742291,2014
+2015,12.1,Taux de pauvreté : Ensemble - Eure-et-Loir,D28,1742291,2015
+2012,10.2,Taux de pauvreté : Ensemble - Finistère,D29,1742292,2012
+2013,10.3,Taux de pauvreté : Ensemble - Finistère,D29,1742292,2013
+2014,10.4,Taux de pauvreté : Ensemble - Finistère,D29,1742292,2014
+2015,10.9,Taux de pauvreté : Ensemble - Finistère,D29,1742292,2015
+2012,12.1,Taux de pauvreté : Ensemble - Haute-Garonne,D31,1742294,2012
+2013,12.4,Taux de pauvreté : Ensemble - Haute-Garonne,D31,1742294,2013
+2014,12.6,Taux de pauvreté : Ensemble - Haute-Garonne,D31,1742294,2014
+2015,13.0,Taux de pauvreté : Ensemble - Haute-Garonne,D31,1742294,2015
+2012,14.8,Taux de pauvreté : Ensemble - Gers,D32,1742295,2012
+2013,14.8,Taux de pauvreté : Ensemble - Gers,D32,1742295,2013
+2014,15.0,Taux de pauvreté : Ensemble - Gers,D32,1742295,2014
+2015,14.8,Taux de pauvreté : Ensemble - Gers,D32,1742295,2015
+2012,12.1,Taux de pauvreté : Ensemble - Gironde,D33,1742296,2012
+2013,12.3,Taux de pauvreté : Ensemble - Gironde,D33,1742296,2013
+2014,12.6,Taux de pauvreté : Ensemble - Gironde,D33,1742296,2014
+2015,12.9,Taux de pauvreté : Ensemble - Gironde,D33,1742296,2015
+2012,19.2,Taux de pauvreté : Ensemble - Hérault,D34,1742297,2012
+2013,19.6,Taux de pauvreté : Ensemble - Hérault,D34,1742297,2013
+2014,19.8,Taux de pauvreté : Ensemble - Hérault,D34,1742297,2014
+2015,19.4,Taux de pauvreté : Ensemble - Hérault,D34,1742297,2015
+2012,9.9,Taux de pauvreté : Ensemble - Ille-et-Vilaine,D35,1742298,2012
+2013,10.1,Taux de pauvreté : Ensemble - Ille-et-Vilaine,D35,1742298,2013
+2014,10.5,Taux de pauvreté : Ensemble - Ille-et-Vilaine,D35,1742298,2014
+2015,10.9,Taux de pauvreté : Ensemble - Ille-et-Vilaine,D35,1742298,2015
+2012,14.3,Taux de pauvreté : Ensemble - Indre,D36,1742299,2012
+2013,14.3,Taux de pauvreté : Ensemble - Indre,D36,1742299,2013
+2014,14.6,Taux de pauvreté : Ensemble - Indre,D36,1742299,2014
+2015,14.7,Taux de pauvreté : Ensemble - Indre,D36,1742299,2015
+2012,11.6,Taux de pauvreté : Ensemble - Indre-et-Loire,D37,1742300,2012
+2013,11.7,Taux de pauvreté : Ensemble - Indre-et-Loire,D37,1742300,2013
+2014,12.1,Taux de pauvreté : Ensemble - Indre-et-Loire,D37,1742300,2014
+2015,12.5,Taux de pauvreté : Ensemble - Indre-et-Loire,D37,1742300,2015
+2012,11.0,Taux de pauvreté : Ensemble - Isère,D38,1742301,2012
+2013,11.1,Taux de pauvreté : Ensemble - Isère,D38,1742301,2013
+2014,11.3,Taux de pauvreté : Ensemble - Isère,D38,1742301,2014
+2015,11.6,Taux de pauvreté : Ensemble - Isère,D38,1742301,2015
+2012,12.3,Taux de pauvreté : Ensemble - Jura,D39,1742302,2012
+2013,12.3,Taux de pauvreté : Ensemble - Jura,D39,1742302,2013
+2014,12.2,Taux de pauvreté : Ensemble - Jura,D39,1742302,2014
+2015,11.9,Taux de pauvreté : Ensemble - Jura,D39,1742302,2015
+2012,10.0,Taux de pauvreté : Ensemble - Vendée,D85,1742421,2012
+2013,9.9,Taux de pauvreté : Ensemble - Vendée,D85,1742421,2013
+2014,10.1,Taux de pauvreté : Ensemble - Vendée,D85,1742421,2014
+2015,10.0,Taux de pauvreté : Ensemble - Vendée,D85,1742421,2015
+2012,15.1,Taux de pauvreté : Ensemble - Haute-Vienne,D87,1742423,2012
+2013,15.2,Taux de pauvreté : Ensemble - Haute-Vienne,D87,1742423,2013
+2014,15.3,Taux de pauvreté : Ensemble - Haute-Vienne,D87,1742423,2014
+2015,15.5,Taux de pauvreté : Ensemble - Haute-Vienne,D87,1742423,2015
+2012,15.2,Taux de pauvreté : Ensemble - Vosges,D88,1742424,2012
+2013,15.4,Taux de pauvreté : Ensemble - Vosges,D88,1742424,2013
+2014,15.8,Taux de pauvreté : Ensemble - Vosges,D88,1742424,2014
+2015,16.2,Taux de pauvreté : Ensemble - Vosges,D88,1742424,2015
+2012,19.1,Taux de pauvreté : Moins de 30 ans - Côtes-d'Armor,D22,1742522,2012
+2013,19.5,Taux de pauvreté : Moins de 30 ans - Côtes-d'Armor,D22,1742522,2013
+2014,19.7,Taux de pauvreté : Moins de 30 ans - Côtes-d'Armor,D22,1742522,2014
+2015,20.0,Taux de pauvreté : Moins de 30 ans - Côtes-d'Armor,D22,1742522,2015
+2012,28.1,Taux de pauvreté : Moins de 30 ans - Creuse,D23,1742523,2012
+2013,27.5,Taux de pauvreté : Moins de 30 ans - Creuse,D23,1742523,2013
+2014,26.3,Taux de pauvreté : Moins de 30 ans - Creuse,D23,1742523,2014
+2015,26.4,Taux de pauvreté : Moins de 30 ans - Creuse,D23,1742523,2015
+2012,25.3,Taux de pauvreté : Moins de 30 ans - Dordogne,D24,1742524,2012
+2013,26.3,Taux de pauvreté : Moins de 30 ans - Dordogne,D24,1742524,2013
+2014,26.2,Taux de pauvreté : Moins de 30 ans - Dordogne,D24,1742524,2014
+2015,26.5,Taux de pauvreté : Moins de 30 ans - Dordogne,D24,1742524,2015
+2012,19.9,Taux de pauvreté : Moins de 30 ans - Doubs,D25,1742525,2012
+2013,21.0,Taux de pauvreté : Moins de 30 ans - Doubs,D25,1742525,2013
+2014,20.9,Taux de pauvreté : Moins de 30 ans - Doubs,D25,1742525,2014
+2015,20.6,Taux de pauvreté : Moins de 30 ans - Doubs,D25,1742525,2015
+2012,22.1,Taux de pauvreté : Moins de 30 ans - Drôme,D26,1742526,2012
+2013,22.6,Taux de pauvreté : Moins de 30 ans - Drôme,D26,1742526,2013
+2014,22.6,Taux de pauvreté : Moins de 30 ans - Drôme,D26,1742526,2014
+2015,22.3,Taux de pauvreté : Moins de 30 ans - Drôme,D26,1742526,2015
+2012,20.6,Taux de pauvreté : Moins de 30 ans - Eure,D27,1742527,2012
+2013,20.4,Taux de pauvreté : Moins de 30 ans - Eure,D27,1742527,2013
+2014,21.1,Taux de pauvreté : Moins de 30 ans - Eure,D27,1742527,2014
+2015,22.0,Taux de pauvreté : Moins de 30 ans - Eure,D27,1742527,2015
+2012,7.0,Taux de pauvreté : 60 à 74 ans - Sarthe,D72,1742528,2012
+2013,6.3,Taux de pauvreté : 60 à 74 ans - Sarthe,D72,1742528,2013
+2014,6.6,Taux de pauvreté : 60 à 74 ans - Sarthe,D72,1742528,2014
+2015,6.9,Taux de pauvreté : 60 à 74 ans - Sarthe,D72,1742528,2015
+2012,6.7,Taux de pauvreté : 60 à 74 ans - Savoie,D73,1742529,2012
+2013,6.5,Taux de pauvreté : 60 à 74 ans - Savoie,D73,1742529,2013
+2014,6.6,Taux de pauvreté : 60 à 74 ans - Savoie,D73,1742529,2014
+2015,6.2,Taux de pauvreté : 60 à 74 ans - Savoie,D73,1742529,2015
+2012,7.7,Taux de pauvreté : 60 à 74 ans - Haute-Savoie,D74,1742530,2012
+2013,7.1,Taux de pauvreté : 60 à 74 ans - Haute-Savoie,D74,1742530,2013
+2014,7.2,Taux de pauvreté : 60 à 74 ans - Haute-Savoie,D74,1742530,2014
+2015,6.7,Taux de pauvreté : 60 à 74 ans - Haute-Savoie,D74,1742530,2015
+2012,15.5,Taux de pauvreté : 60 à 74 ans - Paris,D75,1742531,2012
+2013,15.0,Taux de pauvreté : 60 à 74 ans - Paris,D75,1742531,2013
+2014,15.2,Taux de pauvreté : 60 à 74 ans - Paris,D75,1742531,2014
+2015,15.3,Taux de pauvreté : 60 à 74 ans - Paris,D75,1742531,2015
+2012,9.3,Taux de pauvreté : 60 à 74 ans - Seine-Maritime,D76,1742532,2012
+2013,8.2,Taux de pauvreté : 60 à 74 ans - Seine-Maritime,D76,1742532,2013
+2014,8.3,Taux de pauvreté : 60 à 74 ans - Seine-Maritime,D76,1742532,2014
+2015,8.4,Taux de pauvreté : 60 à 74 ans - Seine-Maritime,D76,1742532,2015
+2012,7.9,Taux de pauvreté : 60 à 74 ans - Seine-et-Marne,D77,1742533,2012
+2013,7.3,Taux de pauvreté : 60 à 74 ans - Seine-et-Marne,D77,1742533,2013
+2014,7.4,Taux de pauvreté : 60 à 74 ans - Seine-et-Marne,D77,1742533,2014
+2015,7.5,Taux de pauvreté : 60 à 74 ans - Seine-et-Marne,D77,1742533,2015
+2012,7.5,Taux de pauvreté : 60 à 74 ans - Yvelines,D78,1742534,2012
+2013,7.0,Taux de pauvreté : 60 à 74 ans - Yvelines,D78,1742534,2013
+2014,7.1,Taux de pauvreté : 60 à 74 ans - Yvelines,D78,1742534,2014
+2015,6.9,Taux de pauvreté : 60 à 74 ans - Yvelines,D78,1742534,2015
+2012,8.0,Taux de pauvreté : 60 à 74 ans - Deux-Sèvres,D79,1742535,2012
+2013,7.4,Taux de pauvreté : 60 à 74 ans - Deux-Sèvres,D79,1742535,2013
+2014,7.7,Taux de pauvreté : 60 à 74 ans - Deux-Sèvres,D79,1742535,2014
+2015,7.4,Taux de pauvreté : 60 à 74 ans - Deux-Sèvres,D79,1742535,2015
+2012,9.7,Taux de pauvreté : 60 à 74 ans - Somme,D80,1742536,2012
+2013,8.5,Taux de pauvreté : 60 à 74 ans - Somme,D80,1742536,2013
+2014,9.0,Taux de pauvreté : 60 à 74 ans - Somme,D80,1742536,2014
+2015,9.1,Taux de pauvreté : 60 à 74 ans - Somme,D80,1742536,2015
+2012,9.7,Taux de pauvreté : 60 à 74 ans - Tarn,D81,1742537,2012
+2013,9.3,Taux de pauvreté : 60 à 74 ans - Tarn,D81,1742537,2013
+2014,9.2,Taux de pauvreté : 60 à 74 ans - Tarn,D81,1742537,2014
+2015,9.7,Taux de pauvreté : 60 à 74 ans - Tarn,D81,1742537,2015
+2012,12.2,Taux de pauvreté : 60 à 74 ans - Tarn-et-Garonne,D82,1742538,2012
+2013,11.7,Taux de pauvreté : 60 à 74 ans - Tarn-et-Garonne,D82,1742538,2013
+2014,12.0,Taux de pauvreté : 60 à 74 ans - Tarn-et-Garonne,D82,1742538,2014
+2015,12.0,Taux de pauvreté : 60 à 74 ans - Tarn-et-Garonne,D82,1742538,2015
+2012,11.4,Taux de pauvreté : 60 à 74 ans - Var,D83,1742539,2012
+2013,11.2,Taux de pauvreté : 60 à 74 ans - Var,D83,1742539,2013
+2014,11.4,Taux de pauvreté : 60 à 74 ans - Var,D83,1742539,2014
+2015,11.0,Taux de pauvreté : 60 à 74 ans - Var,D83,1742539,2015
+2012,16.9,Taux de pauvreté : 60 à 74 ans - Vaucluse,D84,1742540,2012
+2013,16.1,Taux de pauvreté : 60 à 74 ans - Vaucluse,D84,1742540,2013
+2014,16.4,Taux de pauvreté : 60 à 74 ans - Vaucluse,D84,1742540,2014
+2015,15.5,Taux de pauvreté : 60 à 74 ans - Vaucluse,D84,1742540,2015
+2012,6.0,Taux de pauvreté : 60 à 74 ans - Vendée,D85,1742541,2012
+2013,5.4,Taux de pauvreté : 60 à 74 ans - Vendée,D85,1742541,2013
+2014,5.5,Taux de pauvreté : 60 à 74 ans - Vendée,D85,1742541,2014
+2015,5.4,Taux de pauvreté : 60 à 74 ans - Vendée,D85,1742541,2015
+2012,8.2,Taux de pauvreté : 60 à 74 ans - Vienne,D86,1742542,2012
+2013,7.6,Taux de pauvreté : 60 à 74 ans - Vienne,D86,1742542,2013
+2014,7.7,Taux de pauvreté : 60 à 74 ans - Vienne,D86,1742542,2014
+2015,7.7,Taux de pauvreté : 60 à 74 ans - Vienne,D86,1742542,2015
+2012,9.2,Taux de pauvreté : 60 à 74 ans - Haute-Vienne,D87,1742543,2012
+2013,8.5,Taux de pauvreté : 60 à 74 ans - Haute-Vienne,D87,1742543,2013
+2014,8.6,Taux de pauvreté : 60 à 74 ans - Haute-Vienne,D87,1742543,2014
+2015,8.4,Taux de pauvreté : 60 à 74 ans - Haute-Vienne,D87,1742543,2015
+2012,9.5,Taux de pauvreté : 60 à 74 ans - Vosges,D88,1742544,2012
+2013,8.5,Taux de pauvreté : 60 à 74 ans - Vosges,D88,1742544,2013
+2014,8.7,Taux de pauvreté : 60 à 74 ans - Vosges,D88,1742544,2014
+2015,8.9,Taux de pauvreté : 60 à 74 ans - Vosges,D88,1742544,2015
+2012,8.3,Taux de pauvreté : 60 à 74 ans - Yonne,D89,1742545,2012
+2013,8.0,Taux de pauvreté : 60 à 74 ans - Yonne,D89,1742545,2013
+2014,8.3,Taux de pauvreté : 60 à 74 ans - Yonne,D89,1742545,2014
+2015,8.3,Taux de pauvreté : 60 à 74 ans - Yonne,D89,1742545,2015
+2012,10.3,Taux de pauvreté : 60 à 74 ans - Territoire de Belfort,D90,1742546,2012
+2013,9.1,Taux de pauvreté : 60 à 74 ans - Territoire de Belfort,D90,1742546,2013
+2014,9.1,Taux de pauvreté : 60 à 74 ans - Territoire de Belfort,D90,1742546,2014
+2015,8.6,Taux de pauvreté : 60 à 74 ans - Territoire de Belfort,D90,1742546,2015
+2012,8.0,Taux de pauvreté : 60 à 74 ans - Essonne,D91,1742547,2012
+2013,7.4,Taux de pauvreté : 60 à 74 ans - Essonne,D91,1742547,2013
+2014,7.5,Taux de pauvreté : 60 à 74 ans - Essonne,D91,1742547,2014
+2015,7.7,Taux de pauvreté : 60 à 74 ans - Essonne,D91,1742547,2015
+2012,12.2,Taux de pauvreté : 60 à 74 ans - Hauts-de-Seine,D92,1742548,2012
+2013,11.2,Taux de pauvreté : 60 à 74 ans - Hauts-de-Seine,D92,1742548,2013
+2014,11.2,Taux de pauvreté : 60 à 74 ans - Hauts-de-Seine,D92,1742548,2014
+2015,11.2,Taux de pauvreté : 60 à 74 ans - Hauts-de-Seine,D92,1742548,2015
+2012,22.0,Taux de pauvreté : 60 à 74 ans - Seine-Saint-Denis,D93,1742549,2012
+2013,21.2,Taux de pauvreté : 60 à 74 ans - Seine-Saint-Denis,D93,1742549,2013
+2014,22.3,Taux de pauvreté : 60 à 74 ans - Seine-Saint-Denis,D93,1742549,2014
+2015,22.4,Taux de pauvreté : 60 à 74 ans - Seine-Saint-Denis,D93,1742549,2015
+2012,11.8,Taux de pauvreté : 60 à 74 ans - Val-de-Marne,D94,1742550,2012
+2013,11.4,Taux de pauvreté : 60 à 74 ans - Val-de-Marne,D94,1742550,2013
+2014,11.8,Taux de pauvreté : 60 à 74 ans - Val-de-Marne,D94,1742550,2014
+2015,12.4,Taux de pauvreté : 60 à 74 ans - Val-de-Marne,D94,1742550,2015
+2012,12.5,Taux de pauvreté : 60 à 74 ans - Val-d'Oise,D95,1742551,2012
+2013,11.9,Taux de pauvreté : 60 à 74 ans - Val-d'Oise,D95,1742551,2013
+2014,11.8,Taux de pauvreté : 60 à 74 ans - Val-d'Oise,D95,1742551,2014
+2015,11.9,Taux de pauvreté : 60 à 74 ans - Val-d'Oise,D95,1742551,2015
+2012,18.3,Taux de pauvreté : Moins de 30 ans - Eure-et-Loir,D28,1742565,2012
+2013,18.6,Taux de pauvreté : Moins de 30 ans - Eure-et-Loir,D28,1742565,2013
+2014,18.3,Taux de pauvreté : Moins de 30 ans - Eure-et-Loir,D28,1742565,2014
+2015,19.0,Taux de pauvreté : Moins de 30 ans - Eure-et-Loir,D28,1742565,2015
+2012,18.3,Taux de pauvreté : Moins de 30 ans - Finistère,D29,1742566,2012
+2013,19.0,Taux de pauvreté : Moins de 30 ans - Finistère,D29,1742566,2013
+2014,19.3,Taux de pauvreté : Moins de 30 ans - Finistère,D29,1742566,2014
+2015,19.7,Taux de pauvreté : Moins de 30 ans - Finistère,D29,1742566,2015
+2012,29.3,Taux de pauvreté : Moins de 30 ans - Gard,D30,1742567,2012
+2013,30.4,Taux de pauvreté : Moins de 30 ans - Gard,D30,1742567,2013
+2014,30.3,Taux de pauvreté : Moins de 30 ans - Gard,D30,1742567,2014
+2015,30.1,Taux de pauvreté : Moins de 30 ans - Gard,D30,1742567,2015
+2012,21.5,Taux de pauvreté : Moins de 30 ans - Haute-Garonne,D31,1742568,2012
+2013,22.3,Taux de pauvreté : Moins de 30 ans - Haute-Garonne,D31,1742568,2013
+2014,22.5,Taux de pauvreté : Moins de 30 ans - Haute-Garonne,D31,1742568,2014
+2015,23.2,Taux de pauvreté : Moins de 30 ans - Haute-Garonne,D31,1742568,2015
+2012,24.3,Taux de pauvreté : Moins de 30 ans - Gers,D32,1742569,2012
+2013,23.3,Taux de pauvreté : Moins de 30 ans - Gers,D32,1742569,2013
+2014,22.5,Taux de pauvreté : Moins de 30 ans - Gers,D32,1742569,2014
+2015,22.0,Taux de pauvreté : Moins de 30 ans - Gers,D32,1742569,2015
+2012,21.5,Taux de pauvreté : Moins de 30 ans - Gironde,D33,1742570,2012
+2013,22.5,Taux de pauvreté : Moins de 30 ans - Gironde,D33,1742570,2013
+2014,22.7,Taux de pauvreté : Moins de 30 ans - Gironde,D33,1742570,2014
+2015,23.2,Taux de pauvreté : Moins de 30 ans - Gironde,D33,1742570,2015
+2012,12.0,Taux de pauvreté : 50 à 59 ans - Saône-et-Loire,D71,1742245,2012
+2013,12.4,Taux de pauvreté : 50 à 59 ans - Saône-et-Loire,D71,1742245,2013
+2014,12.8,Taux de pauvreté : 50 à 59 ans - Saône-et-Loire,D71,1742245,2014
+2015,13.2,Taux de pauvreté : 50 à 59 ans - Saône-et-Loire,D71,1742245,2015
+2012,11.6,Taux de pauvreté : 50 à 59 ans - Sarthe,D72,1742246,2012
+2013,12.2,Taux de pauvreté : 50 à 59 ans - Sarthe,D72,1742246,2013
+2014,12.7,Taux de pauvreté : 50 à 59 ans - Sarthe,D72,1742246,2014
+2015,13.4,Taux de pauvreté : 50 à 59 ans - Sarthe,D72,1742246,2015
+2012,8.7,Taux de pauvreté : 50 à 59 ans - Savoie,D73,1742247,2012
+2013,9.3,Taux de pauvreté : 50 à 59 ans - Savoie,D73,1742247,2013
+2014,9.7,Taux de pauvreté : 50 à 59 ans - Savoie,D73,1742247,2014
+2015,10.2,Taux de pauvreté : 50 à 59 ans - Savoie,D73,1742247,2015
+2012,8.6,Taux de pauvreté : 50 à 59 ans - Haute-Savoie,D74,1742248,2012
+2013,8.6,Taux de pauvreté : 50 à 59 ans - Haute-Savoie,D74,1742248,2013
+2014,8.8,Taux de pauvreté : 50 à 59 ans - Haute-Savoie,D74,1742248,2014
+2015,8.7,Taux de pauvreté : 50 à 59 ans - Haute-Savoie,D74,1742248,2015
+2012,18.9,Taux de pauvreté : 50 à 59 ans - Paris,D75,1742249,2012
+2013,19.3,Taux de pauvreté : 50 à 59 ans - Paris,D75,1742249,2013
+2014,19.6,Taux de pauvreté : 50 à 59 ans - Paris,D75,1742249,2014
+2015,19.9,Taux de pauvreté : 50 à 59 ans - Paris,D75,1742249,2015
+2012,12.3,Taux de pauvreté : 50 à 59 ans - Seine-Maritime,D76,1742250,2012
+2013,12.8,Taux de pauvreté : 50 à 59 ans - Seine-Maritime,D76,1742250,2013
+2014,13.3,Taux de pauvreté : 50 à 59 ans - Seine-Maritime,D76,1742250,2014
+2015,14.0,Taux de pauvreté : 50 à 59 ans - Seine-Maritime,D76,1742250,2015
+2012,10.4,Taux de pauvreté : 50 à 59 ans - Seine-et-Marne,D77,1742251,2012
+2013,10.6,Taux de pauvreté : 50 à 59 ans - Seine-et-Marne,D77,1742251,2013
+2014,10.7,Taux de pauvreté : 50 à 59 ans - Seine-et-Marne,D77,1742251,2014
+2015,11.3,Taux de pauvreté : 50 à 59 ans - Seine-et-Marne,D77,1742251,2015
+2012,8.2,Taux de pauvreté : 50 à 59 ans - Yvelines,D78,1742252,2012
+2013,8.8,Taux de pauvreté : 50 à 59 ans - Yvelines,D78,1742252,2013
+2014,8.9,Taux de pauvreté : 50 à 59 ans - Yvelines,D78,1742252,2014
+2015,9.2,Taux de pauvreté : 50 à 59 ans - Yvelines,D78,1742252,2015
+2012,11.2,Taux de pauvreté : 50 à 59 ans - Deux-Sèvres,D79,1742253,2012
+2013,11.6,Taux de pauvreté : 50 à 59 ans - Deux-Sèvres,D79,1742253,2013
+2014,11.9,Taux de pauvreté : 50 à 59 ans - Deux-Sèvres,D79,1742253,2014
+2015,12.1,Taux de pauvreté : 50 à 59 ans - Deux-Sèvres,D79,1742253,2015
+2012,15.2,Taux de pauvreté : 50 à 59 ans - Somme,D80,1742254,2012
+2013,15.7,Taux de pauvreté : 50 à 59 ans - Somme,D80,1742254,2013
+2014,16.2,Taux de pauvreté : 50 à 59 ans - Somme,D80,1742254,2014
+2015,17.0,Taux de pauvreté : 50 à 59 ans - Somme,D80,1742254,2015
+2012,14.2,Taux de pauvreté : 50 à 59 ans - Tarn,D81,1742255,2012
+2013,14.7,Taux de pauvreté : 50 à 59 ans - Tarn,D81,1742255,2013
+2014,15.7,Taux de pauvreté : 50 à 59 ans - Tarn,D81,1742255,2014
+2015,16.3,Taux de pauvreté : 50 à 59 ans - Tarn,D81,1742255,2015
+2012,15.2,Taux de pauvreté : 50 à 59 ans - Tarn-et-Garonne,D82,1742256,2012
+2013,16.1,Taux de pauvreté : 50 à 59 ans - Tarn-et-Garonne,D82,1742256,2013
+2014,16.5,Taux de pauvreté : 50 à 59 ans - Tarn-et-Garonne,D82,1742256,2014
+2015,16.7,Taux de pauvreté : 50 à 59 ans - Tarn-et-Garonne,D82,1742256,2015
+2012,16.0,Taux de pauvreté : 50 à 59 ans - Var,D83,1742257,2012
+2013,16.6,Taux de pauvreté : 50 à 59 ans - Var,D83,1742257,2013
+2014,16.8,Taux de pauvreté : 50 à 59 ans - Var,D83,1742257,2014
+2015,16.7,Taux de pauvreté : 50 à 59 ans - Var,D83,1742257,2015
+2012,19.6,Taux de pauvreté : 50 à 59 ans - Vaucluse,D84,1742258,2012
+2013,20.3,Taux de pauvreté : 50 à 59 ans - Vaucluse,D84,1742258,2013
+2014,20.0,Taux de pauvreté : 50 à 59 ans - Vaucluse,D84,1742258,2014
+2015,20.0,Taux de pauvreté : 50 à 59 ans - Vaucluse,D84,1742258,2015
+2012,10.2,Taux de pauvreté : 50 à 59 ans - Vendée,D85,1742259,2012
+2013,10.7,Taux de pauvreté : 50 à 59 ans - Vendée,D85,1742259,2013
+2014,11.1,Taux de pauvreté : 50 à 59 ans - Vendée,D85,1742259,2014
+2015,11.0,Taux de pauvreté : 50 à 59 ans - Vendée,D85,1742259,2015
+2012,11.3,Taux de pauvreté : 50 à 59 ans - Vienne,D86,1742260,2012
+2013,12.4,Taux de pauvreté : 50 à 59 ans - Vienne,D86,1742260,2013
+2014,12.8,Taux de pauvreté : 50 à 59 ans - Vienne,D86,1742260,2014
+2015,13.4,Taux de pauvreté : 50 à 59 ans - Vienne,D86,1742260,2015
+2012,12.8,Taux de pauvreté : 50 à 59 ans - Haute-Vienne,D87,1742261,2012
+2013,13.7,Taux de pauvreté : 50 à 59 ans - Haute-Vienne,D87,1742261,2013
+2014,14.0,Taux de pauvreté : 50 à 59 ans - Haute-Vienne,D87,1742261,2014
+2015,14.9,Taux de pauvreté : 50 à 59 ans - Haute-Vienne,D87,1742261,2015
+2012,14.5,Taux de pauvreté : 50 à 59 ans - Vosges,D88,1742262,2012
+2013,15.2,Taux de pauvreté : 50 à 59 ans - Vosges,D88,1742262,2013
+2014,15.4,Taux de pauvreté : 50 à 59 ans - Vosges,D88,1742262,2014
+2015,16.3,Taux de pauvreté : 50 à 59 ans - Vosges,D88,1742262,2015
+2012,10.3,Taux de pauvreté : Ensemble - Ain,D01,1742263,2012
+2013,10.6,Taux de pauvreté : Ensemble - Ain,D01,1742263,2013
+2014,10.8,Taux de pauvreté : Ensemble - Ain,D01,1742263,2014
+2015,10.9,Taux de pauvreté : Ensemble - Ain,D01,1742263,2015
+2012,18.6,Taux de pauvreté : Ensemble - Aisne,D02,1742264,2012
+2013,18.6,Taux de pauvreté : Ensemble - Aisne,D02,1742264,2013
+2014,18.7,Taux de pauvreté : Ensemble - Aisne,D02,1742264,2014
+2015,19.0,Taux de pauvreté : Ensemble - Aisne,D02,1742264,2015
+2012,14.8,Taux de pauvreté : Ensemble - Ardèche,D07,1742269,2012
+2013,14.9,Taux de pauvreté : Ensemble - Ardèche,D07,1742269,2013
+2014,14.7,Taux de pauvreté : Ensemble - Ardèche,D07,1742269,2014
+2015,14.8,Taux de pauvreté : Ensemble - Ardèche,D07,1742269,2015
+2012,19.3,Taux de pauvreté : Ensemble - Ardennes,D08,1742270,2012
+2013,19.2,Taux de pauvreté : Ensemble - Ardennes,D08,1742270,2013
+2014,19.4,Taux de pauvreté : Ensemble - Ardennes,D08,1742270,2014
+2015,19.5,Taux de pauvreté : Ensemble - Ardennes,D08,1742270,2015
+2012,17.9,Taux de pauvreté : Ensemble - Ariège,D09,1742271,2012
+2013,18.0,Taux de pauvreté : Ensemble - Ariège,D09,1742271,2013
+2014,18.2,Taux de pauvreté : Ensemble - Ariège,D09,1742271,2014
+2015,18.5,Taux de pauvreté : Ensemble - Ariège,D09,1742271,2015
+2012,15.1,Taux de pauvreté : Ensemble - Aube,D10,1742272,2012
+2013,15.5,Taux de pauvreté : Ensemble - Aube,D10,1742272,2013
+2014,15.6,Taux de pauvreté : Ensemble - Aube,D10,1742272,2014
+2015,15.9,Taux de pauvreté : Ensemble - Aube,D10,1742272,2015
+2012,21.0,Taux de pauvreté : Ensemble - Aude,D11,1742273,2012
+2013,21.4,Taux de pauvreté : Ensemble - Aude,D11,1742273,2013
+2014,21.7,Taux de pauvreté : Ensemble - Aude,D11,1742273,2014
+2015,21.4,Taux de pauvreté : Ensemble - Aude,D11,1742273,2015
+2012,14.5,Taux de pauvreté : Ensemble - Aveyron,D12,1742274,2012
+2013,14.7,Taux de pauvreté : Ensemble - Aveyron,D12,1742274,2013
+2014,14.2,Taux de pauvreté : Ensemble - Aveyron,D12,1742274,2014
+2015,14.4,Taux de pauvreté : Ensemble - Aveyron,D12,1742274,2015
+2012,18.1,Taux de pauvreté : Ensemble - Bouches-du-Rhône,D13,1742275,2012
+2013,18.4,Taux de pauvreté : Ensemble - Bouches-du-Rhône,D13,1742275,2013
+2014,18.6,Taux de pauvreté : Ensemble - Bouches-du-Rhône,D13,1742275,2014
+2015,18.6,Taux de pauvreté : Ensemble - Bouches-du-Rhône,D13,1742275,2015
+2012,12.7,Taux de pauvreté : Ensemble - Calvados,D14,1742276,2012
+2013,12.8,Taux de pauvreté : Ensemble - Calvados,D14,1742276,2013
+2014,12.8,Taux de pauvreté : Ensemble - Calvados,D14,1742276,2014
+2015,12.9,Taux de pauvreté : Ensemble - Calvados,D14,1742276,2015
+2012,15.0,Taux de pauvreté : Ensemble - Cantal,D15,1742277,2012
+2013,14.8,Taux de pauvreté : Ensemble - Cantal,D15,1742277,2013
+2014,14.4,Taux de pauvreté : Ensemble - Cantal,D15,1742277,2014
+2015,14.3,Taux de pauvreté : Ensemble - Cantal,D15,1742277,2015
+2012,14.8,Taux de pauvreté : Ensemble - Charente,D16,1742278,2012
+2013,14.8,Taux de pauvreté : Ensemble - Charente,D16,1742278,2013
+2014,14.9,Taux de pauvreté : Ensemble - Charente,D16,1742278,2014
+2015,14.9,Taux de pauvreté : Ensemble - Charente,D16,1742278,2015
+2012,13.4,Taux de pauvreté : Ensemble - Charente-Maritime,D17,1742279,2012
+2013,13.5,Taux de pauvreté : Ensemble - Charente-Maritime,D17,1742279,2013
+2014,13.6,Taux de pauvreté : Ensemble - Charente-Maritime,D17,1742279,2014
+2015,13.5,Taux de pauvreté : Ensemble - Charente-Maritime,D17,1742279,2015
+2012,14.1,Taux de pauvreté : Ensemble - Cher,D18,1742280,2012
+2013,14.3,Taux de pauvreté : Ensemble - Cher,D18,1742280,2013
+2014,14.6,Taux de pauvreté : Ensemble - Cher,D18,1742280,2014
+2015,14.7,Taux de pauvreté : Ensemble - Cher,D18,1742280,2015
+2012,13.8,Taux de pauvreté : Ensemble - Corrèze,D19,1742281,2012
+2013,13.7,Taux de pauvreté : Ensemble - Corrèze,D19,1742281,2013
+2014,13.6,Taux de pauvreté : Ensemble - Corrèze,D19,1742281,2014
+2015,13.1,Taux de pauvreté : Ensemble - Corrèze,D19,1742281,2015
+2012,18.0,Taux de pauvreté : Ensemble - Corse-du-Sud,D2A,1742282,2012
+2013,17.6,Taux de pauvreté : Ensemble - Corse-du-Sud,D2A,1742282,2013
+2014,17.7,Taux de pauvreté : Ensemble - Corse-du-Sud,D2A,1742282,2014
+2015,17.4,Taux de pauvreté : Ensemble - Corse-du-Sud,D2A,1742282,2015
+2012,22.6,Taux de pauvreté : Ensemble - Haute-Corse,D2B,1742283,2012
+2013,22.5,Taux de pauvreté : Ensemble - Haute-Corse,D2B,1742283,2013
+2014,22.5,Taux de pauvreté : Ensemble - Haute-Corse,D2B,1742283,2014
+2015,21.9,Taux de pauvreté : Ensemble - Haute-Corse,D2B,1742283,2015
+2012,10.9,Taux de pauvreté : Ensemble - Côte-d'Or,D21,1742284,2012
+2013,11.1,Taux de pauvreté : Ensemble - Côte-d'Or,D21,1742284,2013
+2014,11.4,Taux de pauvreté : Ensemble - Côte-d'Or,D21,1742284,2014
+2015,11.7,Taux de pauvreté : Ensemble - Côte-d'Or,D21,1742284,2015
+2012,11.5,Taux de pauvreté : Ensemble - Côtes-d'Armor,D22,1742285,2012
+2013,11.6,Taux de pauvreté : Ensemble - Côtes-d'Armor,D22,1742285,2013
+2014,11.7,Taux de pauvreté : Ensemble - Côtes-d'Armor,D22,1742285,2014
+2015,12.1,Taux de pauvreté : Ensemble - Côtes-d'Armor,D22,1742285,2015
+2012,19.5,Taux de pauvreté : Ensemble - Creuse,D23,1742286,2012
+2013,19.4,Taux de pauvreté : Ensemble - Creuse,D23,1742286,2013
+2014,18.9,Taux de pauvreté : Ensemble - Creuse,D23,1742286,2014
+2015,18.6,Taux de pauvreté : Ensemble - Creuse,D23,1742286,2015
+2012,16.3,Taux de pauvreté : Ensemble - Dordogne,D24,1742287,2012
+2013,16.3,Taux de pauvreté : Ensemble - Dordogne,D24,1742287,2013
+2014,16.4,Taux de pauvreté : Ensemble - Dordogne,D24,1742287,2014
+2015,16.5,Taux de pauvreté : Ensemble - Dordogne,D24,1742287,2015
+2012,12.3,Taux de pauvreté : Ensemble - Doubs,D25,1742288,2012
+2013,12.5,Taux de pauvreté : Ensemble - Doubs,D25,1742288,2013
+2014,12.5,Taux de pauvreté : Ensemble - Doubs,D25,1742288,2014
+2015,12.3,Taux de pauvreté : Ensemble - Doubs,D25,1742288,2015
+2012,14.9,Taux de pauvreté : Ensemble - Drôme,D26,1742289,2012
+2013,15.2,Taux de pauvreté : Ensemble - Drôme,D26,1742289,2013
+2014,15.5,Taux de pauvreté : Ensemble - Drôme,D26,1742289,2014
+2015,15.5,Taux de pauvreté : Ensemble - Drôme,D26,1742289,2015
+2012,12.4,Taux de pauvreté : Ensemble - Eure,D27,1742290,2012
+2013,12.5,Taux de pauvreté : Ensemble - Eure,D27,1742290,2013
+2014,12.8,Taux de pauvreté : Ensemble - Eure,D27,1742290,2014
+2015,13.2,Taux de pauvreté : Ensemble - Eure,D27,1742290,2015
+2012,20.0,Taux de pauvreté : Ensemble - Gard,D30,1742293,2012
+2013,20.3,Taux de pauvreté : Ensemble - Gard,D30,1742293,2013
+2014,20.3,Taux de pauvreté : Ensemble - Gard,D30,1742293,2014
+2015,20.1,Taux de pauvreté : Ensemble - Gard,D30,1742293,2015
+2012,12.9,Taux de pauvreté : 50 à 59 ans - Yonne,D89,1742303,2012
+2013,13.7,Taux de pauvreté : 50 à 59 ans - Yonne,D89,1742303,2013
+2014,14.5,Taux de pauvreté : 50 à 59 ans - Yonne,D89,1742303,2014
+2015,15.1,Taux de pauvreté : 50 à 59 ans - Yonne,D89,1742303,2015
+2012,12.5,Taux de pauvreté : 50 à 59 ans - Territoire de Belfort,D90,1742304,2012
+2013,13.4,Taux de pauvreté : 50 à 59 ans - Territoire de Belfort,D90,1742304,2013
+2014,13.9,Taux de pauvreté : 50 à 59 ans - Territoire de Belfort,D90,1742304,2014
+2015,14.4,Taux de pauvreté : 50 à 59 ans - Territoire de Belfort,D90,1742304,2015
+2012,11.0,Taux de pauvreté : 50 à 59 ans - Essonne,D91,1742305,2012
+2013,11.5,Taux de pauvreté : 50 à 59 ans - Essonne,D91,1742305,2013
+2014,11.5,Taux de pauvreté : 50 à 59 ans - Essonne,D91,1742305,2014
+2015,12.0,Taux de pauvreté : 50 à 59 ans - Essonne,D91,1742305,2015
+2012,12.3,Taux de pauvreté : 50 à 59 ans - Hauts-de-Seine,D92,1742306,2012
+2013,12.8,Taux de pauvreté : 50 à 59 ans - Hauts-de-Seine,D92,1742306,2013
+2014,13.0,Taux de pauvreté : 50 à 59 ans - Hauts-de-Seine,D92,1742306,2014
+2015,13.2,Taux de pauvreté : 50 à 59 ans - Hauts-de-Seine,D92,1742306,2015
+2012,26.5,Taux de pauvreté : 50 à 59 ans - Seine-Saint-Denis,D93,1742307,2012
+2013,27.5,Taux de pauvreté : 50 à 59 ans - Seine-Saint-Denis,D93,1742307,2013
+2014,28.9,Taux de pauvreté : 50 à 59 ans - Seine-Saint-Denis,D93,1742307,2014
+2015,29.8,Taux de pauvreté : 50 à 59 ans - Seine-Saint-Denis,D93,1742307,2015
+2012,15.2,Taux de pauvreté : 50 à 59 ans - Val-de-Marne,D94,1742308,2012
+2013,15.9,Taux de pauvreté : 50 à 59 ans - Val-de-Marne,D94,1742308,2013
+2014,16.4,Taux de pauvreté : 50 à 59 ans - Val-de-Marne,D94,1742308,2014
+2015,17.1,Taux de pauvreté : 50 à 59 ans - Val-de-Marne,D94,1742308,2015
+2012,15.5,Taux de pauvreté : 50 à 59 ans - Val-d'Oise,D95,1742309,2012
+2013,15.9,Taux de pauvreté : 50 à 59 ans - Val-d'Oise,D95,1742309,2013
+2014,15.9,Taux de pauvreté : 50 à 59 ans - Val-d'Oise,D95,1742309,2014
+2015,16.7,Taux de pauvreté : 50 à 59 ans - Val-d'Oise,D95,1742309,2015
+2012,14.8,Taux de pauvreté : Ensemble - Allier,D03,1742265,2012
+2013,15.0,Taux de pauvreté : Ensemble - Allier,D03,1742265,2013
+2014,15.4,Taux de pauvreté : Ensemble - Allier,D03,1742265,2014
+2015,15.5,Taux de pauvreté : Ensemble - Allier,D03,1742265,2015
+2012,16.4,Taux de pauvreté : Ensemble - Alpes-de-Haute-Provence,D04,1742266,2012
+2013,16.5,Taux de pauvreté : Ensemble - Alpes-de-Haute-Provence,D04,1742266,2013
+2014,17.0,Taux de pauvreté : Ensemble - Alpes-de-Haute-Provence,D04,1742266,2014
+2015,16.8,Taux de pauvreté : Ensemble - Alpes-de-Haute-Provence,D04,1742266,2015
+2012,14.1,Taux de pauvreté : Ensemble - Hautes-Alpes,D05,1742267,2012
+2013,14.1,Taux de pauvreté : Ensemble - Hautes-Alpes,D05,1742267,2013
+2014,14.5,Taux de pauvreté : Ensemble - Hautes-Alpes,D05,1742267,2014
+2015,14.2,Taux de pauvreté : Ensemble - Hautes-Alpes,D05,1742267,2015
+2012,15.2,Taux de pauvreté : Ensemble - Alpes-Maritimes,D06,1742268,2012
+2013,15.8,Taux de pauvreté : Ensemble - Alpes-Maritimes,D06,1742268,2013
+2014,16.0,Taux de pauvreté : Ensemble - Alpes-Maritimes,D06,1742268,2014
+2015,15.8,Taux de pauvreté : Ensemble - Alpes-Maritimes,D06,1742268,2015
+2012,11.5,Taux de pauvreté : Ensemble - Landes,D40,1742339,2012
+2013,11.8,Taux de pauvreté : Ensemble - Landes,D40,1742339,2013
+2014,12.0,Taux de pauvreté : Ensemble - Landes,D40,1742339,2014
+2015,12.0,Taux de pauvreté : Ensemble - Landes,D40,1742339,2015
+2012,12.1,Taux de pauvreté : Ensemble - Loir-et-Cher,D41,1742340,2012
+2013,12.4,Taux de pauvreté : Ensemble - Loir-et-Cher,D41,1742340,2013
+2014,12.7,Taux de pauvreté : Ensemble - Loir-et-Cher,D41,1742340,2014
+2015,12.8,Taux de pauvreté : Ensemble - Loir-et-Cher,D41,1742340,2015
+2012,13.9,Taux de pauvreté : Ensemble - Loire,D42,1742341,2012
+2013,14.2,Taux de pauvreté : Ensemble - Loire,D42,1742341,2013
+2014,14.5,Taux de pauvreté : Ensemble - Loire,D42,1742341,2014
+2015,14.9,Taux de pauvreté : Ensemble - Loire,D42,1742341,2015
+2012,12.5,Taux de pauvreté : Ensemble - Haute-Loire,D43,1742342,2012
+2013,12.9,Taux de pauvreté : Ensemble - Haute-Loire,D43,1742342,2013
+2014,12.7,Taux de pauvreté : Ensemble - Haute-Loire,D43,1742342,2014
+2015,12.6,Taux de pauvreté : Ensemble - Haute-Loire,D43,1742342,2015
+2012,18.8,Taux de pauvreté : Ensemble - Nord,D59,1742358,2012
+2013,18.9,Taux de pauvreté : Ensemble - Nord,D59,1742358,2013
+2014,19.1,Taux de pauvreté : Ensemble - Nord,D59,1742358,2014
+2015,19.4,Taux de pauvreté : Ensemble - Nord,D59,1742358,2015
+2012,7.9,Taux de pauvreté : 60 à 74 ans - Ain,D01,1742380,2012
+2013,7.4,Taux de pauvreté : 60 à 74 ans - Ain,D01,1742380,2013
+2014,7.6,Taux de pauvreté : 60 à 74 ans - Ain,D01,1742380,2014
+2015,7.5,Taux de pauvreté : 60 à 74 ans - Ain,D01,1742380,2015
+2012,9.2,Taux de pauvreté : 60 à 74 ans - Allier,D03,1742382,2012
+2013,8.5,Taux de pauvreté : 60 à 74 ans - Allier,D03,1742382,2013
+2014,8.8,Taux de pauvreté : 60 à 74 ans - Allier,D03,1742382,2014
+2015,9.1,Taux de pauvreté : 60 à 74 ans - Allier,D03,1742382,2015
+2012,11.1,Taux de pauvreté : 60 à 74 ans - Alpes-de-Haute-Provence,D04,1742383,2012
+2013,11.0,Taux de pauvreté : 60 à 74 ans - Alpes-de-Haute-Provence,D04,1742383,2013
+2014,11.3,Taux de pauvreté : 60 à 74 ans - Alpes-de-Haute-Provence,D04,1742383,2014
+2015,10.9,Taux de pauvreté : 60 à 74 ans - Alpes-de-Haute-Provence,D04,1742383,2015
+2012,9.1,Taux de pauvreté : 60 à 74 ans - Hautes-Alpes,D05,1742384,2012
+2013,8.6,Taux de pauvreté : 60 à 74 ans - Hautes-Alpes,D05,1742384,2013
+2014,8.9,Taux de pauvreté : 60 à 74 ans - Hautes-Alpes,D05,1742384,2014
+2015,8.7,Taux de pauvreté : 60 à 74 ans - Hautes-Alpes,D05,1742384,2015
+2012,12.7,Taux de pauvreté : 60 à 74 ans - Alpes-Maritimes,D06,1742385,2012
+2013,12.4,Taux de pauvreté : 60 à 74 ans - Alpes-Maritimes,D06,1742385,2013
+2014,12.5,Taux de pauvreté : 60 à 74 ans - Alpes-Maritimes,D06,1742385,2014
+2015,12.1,Taux de pauvreté : 60 à 74 ans - Alpes-Maritimes,D06,1742385,2015
+2012,9.3,Taux de pauvreté : 60 à 74 ans - Ardèche,D07,1742386,2012
+2013,9.1,Taux de pauvreté : 60 à 74 ans - Ardèche,D07,1742386,2013
+2014,9.0,Taux de pauvreté : 60 à 74 ans - Ardèche,D07,1742386,2014
+2015,8.9,Taux de pauvreté : 60 à 74 ans - Ardèche,D07,1742386,2015
+2012,13.0,Taux de pauvreté : 60 à 74 ans - Ardennes,D08,1742387,2012
+2013,11.4,Taux de pauvreté : 60 à 74 ans - Ardennes,D08,1742387,2013
+2014,11.8,Taux de pauvreté : 60 à 74 ans - Ardennes,D08,1742387,2014
+2015,11.8,Taux de pauvreté : 60 à 74 ans - Ardennes,D08,1742387,2015
+2012,11.5,Taux de pauvreté : 60 à 74 ans - Ariège,D09,1742388,2012
+2013,11.3,Taux de pauvreté : 60 à 74 ans - Ariège,D09,1742388,2013
+2014,11.2,Taux de pauvreté : 60 à 74 ans - Ariège,D09,1742388,2014
+2015,11.6,Taux de pauvreté : 60 à 74 ans - Ariège,D09,1742388,2015
+2012,9.7,Taux de pauvreté : 60 à 74 ans - Aube,D10,1742389,2012
+2013,8.8,Taux de pauvreté : 60 à 74 ans - Aube,D10,1742389,2013
+2014,9.0,Taux de pauvreté : 60 à 74 ans - Aube,D10,1742389,2014
+2015,9.1,Taux de pauvreté : 60 à 74 ans - Aube,D10,1742389,2015
+2012,13.8,Taux de pauvreté : 60 à 74 ans - Aude,D11,1742390,2012
+2013,13.2,Taux de pauvreté : 60 à 74 ans - Aude,D11,1742390,2013
+2014,13.4,Taux de pauvreté : 60 à 74 ans - Aude,D11,1742390,2014
+2015,13.3,Taux de pauvreté : 60 à 74 ans - Aude,D11,1742390,2015
+2012,9.4,Taux de pauvreté : 60 à 74 ans - Aveyron,D12,1742391,2012
+2013,9.2,Taux de pauvreté : 60 à 74 ans - Aveyron,D12,1742391,2013
+2014,9.1,Taux de pauvreté : 60 à 74 ans - Aveyron,D12,1742391,2014
+2015,9.3,Taux de pauvreté : 60 à 74 ans - Aveyron,D12,1742391,2015
+2012,13.6,Taux de pauvreté : 60 à 74 ans - Bouches-du-Rhône,D13,1742392,2012
+2013,12.9,Taux de pauvreté : 60 à 74 ans - Bouches-du-Rhône,D13,1742392,2013
+2014,12.9,Taux de pauvreté : 60 à 74 ans - Bouches-du-Rhône,D13,1742392,2014
+2015,12.6,Taux de pauvreté : 60 à 74 ans - Bouches-du-Rhône,D13,1742392,2015
+2012,7.2,Taux de pauvreté : 60 à 74 ans - Calvados,D14,1742393,2012
+2013,6.6,Taux de pauvreté : 60 à 74 ans - Calvados,D14,1742393,2013
+2014,6.9,Taux de pauvreté : 60 à 74 ans - Calvados,D14,1742393,2014
+2015,6.9,Taux de pauvreté : 60 à 74 ans - Calvados,D14,1742393,2015
+2012,10.6,Taux de pauvreté : 60 à 74 ans - Cantal,D15,1742394,2012
+2013,9.7,Taux de pauvreté : 60 à 74 ans - Cantal,D15,1742394,2013
+2014,10.0,Taux de pauvreté : 60 à 74 ans - Cantal,D15,1742394,2014
+2015,9.9,Taux de pauvreté : 60 à 74 ans - Cantal,D15,1742394,2015
+2012,9.8,Taux de pauvreté : 60 à 74 ans - Charente,D16,1742395,2012
+2013,9.0,Taux de pauvreté : 60 à 74 ans - Charente,D16,1742395,2013
+2014,9.1,Taux de pauvreté : 60 à 74 ans - Charente,D16,1742395,2014
+2015,9.1,Taux de pauvreté : 60 à 74 ans - Charente,D16,1742395,2015
+2012,8.1,Taux de pauvreté : 60 à 74 ans - Charente-Maritime,D17,1742396,2012
+2013,7.6,Taux de pauvreté : 60 à 74 ans - Charente-Maritime,D17,1742396,2013
+2014,7.7,Taux de pauvreté : 60 à 74 ans - Charente-Maritime,D17,1742396,2014
+2015,7.6,Taux de pauvreté : 60 à 74 ans - Charente-Maritime,D17,1742396,2015
+2012,9.0,Taux de pauvreté : 60 à 74 ans - Cher,D18,1742397,2012
+2013,8.3,Taux de pauvreté : 60 à 74 ans - Cher,D18,1742397,2013
+2014,8.8,Taux de pauvreté : 60 à 74 ans - Cher,D18,1742397,2014
+2015,8.8,Taux de pauvreté : 60 à 74 ans - Cher,D18,1742397,2015
+2012,9.4,Taux de pauvreté : 60 à 74 ans - Corrèze,D19,1742398,2012
+2013,8.7,Taux de pauvreté : 60 à 74 ans - Corrèze,D19,1742398,2013
+2014,8.7,Taux de pauvreté : 60 à 74 ans - Corrèze,D19,1742398,2014
+2015,8.1,Taux de pauvreté : 60 à 74 ans - Corrèze,D19,1742398,2015
+2012,16.1,Taux de pauvreté : 60 à 74 ans - Corse-du-Sud,D2A,1742399,2012
+2013,14.6,Taux de pauvreté : 60 à 74 ans - Corse-du-Sud,D2A,1742399,2013
+2014,15.1,Taux de pauvreté : 60 à 74 ans - Corse-du-Sud,D2A,1742399,2014
+2015,14.4,Taux de pauvreté : 60 à 74 ans - Corse-du-Sud,D2A,1742399,2015
+2012,18.9,Taux de pauvreté : 60 à 74 ans - Haute-Corse,D2B,1742400,2012
+2013,18.7,Taux de pauvreté : 60 à 74 ans - Haute-Corse,D2B,1742400,2013
+2014,18.7,Taux de pauvreté : 60 à 74 ans - Haute-Corse,D2B,1742400,2014
+2015,17.8,Taux de pauvreté : 60 à 74 ans - Haute-Corse,D2B,1742400,2015
+2012,7.1,Taux de pauvreté : 60 à 74 ans - Côte-d'Or,D21,1742401,2012
+2013,6.4,Taux de pauvreté : 60 à 74 ans - Côte-d'Or,D21,1742401,2013
+2014,6.7,Taux de pauvreté : 60 à 74 ans - Côte-d'Or,D21,1742401,2014
+2015,6.8,Taux de pauvreté : 60 à 74 ans - Côte-d'Or,D21,1742401,2015
+2012,6.7,Taux de pauvreté : 60 à 74 ans - Côtes-d'Armor,D22,1742402,2012
+2013,6.2,Taux de pauvreté : 60 à 74 ans - Côtes-d'Armor,D22,1742402,2013
+2014,6.4,Taux de pauvreté : 60 à 74 ans - Côtes-d'Armor,D22,1742402,2014
+2015,6.6,Taux de pauvreté : 60 à 74 ans - Côtes-d'Armor,D22,1742402,2015
+2012,13.4,Taux de pauvreté : 60 à 74 ans - Creuse,D23,1742403,2012
+2013,12.6,Taux de pauvreté : 60 à 74 ans - Creuse,D23,1742403,2013
+2014,12.2,Taux de pauvreté : 60 à 74 ans - Creuse,D23,1742403,2014
+2015,11.9,Taux de pauvreté : 60 à 74 ans - Creuse,D23,1742403,2015
+2012,11.0,Taux de pauvreté : 60 à 74 ans - Dordogne,D24,1742404,2012
+2013,10.1,Taux de pauvreté : 60 à 74 ans - Dordogne,D24,1742404,2013
+2014,10.1,Taux de pauvreté : 60 à 74 ans - Dordogne,D24,1742404,2014
+2015,10.3,Taux de pauvreté : 60 à 74 ans - Dordogne,D24,1742404,2015
+2012,9.0,Taux de pauvreté : 60 à 74 ans - Doubs,D25,1742405,2012
+2013,7.9,Taux de pauvreté : 60 à 74 ans - Doubs,D25,1742405,2013
+2014,8.0,Taux de pauvreté : 60 à 74 ans - Doubs,D25,1742405,2014
+2015,7.7,Taux de pauvreté : 60 à 74 ans - Doubs,D25,1742405,2015
+2012,10.3,Taux de pauvreté : 60 à 74 ans - Drôme,D26,1742406,2012
+2013,9.6,Taux de pauvreté : 60 à 74 ans - Drôme,D26,1742406,2013
+2014,9.8,Taux de pauvreté : 60 à 74 ans - Drôme,D26,1742406,2014
+2015,9.8,Taux de pauvreté : 60 à 74 ans - Drôme,D26,1742406,2015
+2012,7.7,Taux de pauvreté : 60 à 74 ans - Eure,D27,1742407,2012
+2013,7.2,Taux de pauvreté : 60 à 74 ans - Eure,D27,1742407,2013
+2014,7.2,Taux de pauvreté : 60 à 74 ans - Eure,D27,1742407,2014
+2015,7.4,Taux de pauvreté : 60 à 74 ans - Eure,D27,1742407,2015
+2012,7.8,Taux de pauvreté : 60 à 74 ans - Eure-et-Loir,D28,1742408,2012
+2013,6.8,Taux de pauvreté : 60 à 74 ans - Eure-et-Loir,D28,1742408,2013
+2014,7.1,Taux de pauvreté : 60 à 74 ans - Eure-et-Loir,D28,1742408,2014
+2015,7.3,Taux de pauvreté : 60 à 74 ans - Eure-et-Loir,D28,1742408,2015
+2012,5.8,Taux de pauvreté : 60 à 74 ans - Finistère,D29,1742409,2012
+2013,5.4,Taux de pauvreté : 60 à 74 ans - Finistère,D29,1742409,2013
+2014,5.5,Taux de pauvreté : 60 à 74 ans - Finistère,D29,1742409,2014
+2015,6.0,Taux de pauvreté : 60 à 74 ans - Finistère,D29,1742409,2015
+2012,15.1,Taux de pauvreté : 60 à 74 ans - Gard,D30,1742410,2012
+2013,14.6,Taux de pauvreté : 60 à 74 ans - Gard,D30,1742410,2013
+2014,14.6,Taux de pauvreté : 60 à 74 ans - Gard,D30,1742410,2014
+2015,14.2,Taux de pauvreté : 60 à 74 ans - Gard,D30,1742410,2015
+2012,8.1,Taux de pauvreté : 60 à 74 ans - Haute-Garonne,D31,1742411,2012
+2013,7.6,Taux de pauvreté : 60 à 74 ans - Haute-Garonne,D31,1742411,2013
+2014,7.8,Taux de pauvreté : 60 à 74 ans - Haute-Garonne,D31,1742411,2014
+2015,8.1,Taux de pauvreté : 60 à 74 ans - Haute-Garonne,D31,1742411,2015
+2012,10.2,Taux de pauvreté : 60 à 74 ans - Gers,D32,1742412,2012
+2013,9.7,Taux de pauvreté : 60 à 74 ans - Gers,D32,1742412,2013
+2014,10.1,Taux de pauvreté : 60 à 74 ans - Gers,D32,1742412,2014
+2015,10.2,Taux de pauvreté : 60 à 74 ans - Gers,D32,1742412,2015
+2012,7.8,Taux de pauvreté : 60 à 74 ans - Gironde,D33,1742413,2012
+2013,7.2,Taux de pauvreté : 60 à 74 ans - Gironde,D33,1742413,2013
+2014,7.3,Taux de pauvreté : 60 à 74 ans - Gironde,D33,1742413,2014
+2015,7.6,Taux de pauvreté : 60 à 74 ans - Gironde,D33,1742413,2015
+2012,13.7,Taux de pauvreté : 60 à 74 ans - Hérault,D34,1742414,2012
+2013,13.1,Taux de pauvreté : 60 à 74 ans - Hérault,D34,1742414,2013
+2014,13.3,Taux de pauvreté : 60 à 74 ans - Hérault,D34,1742414,2014
+2015,12.7,Taux de pauvreté : 60 à 74 ans - Hérault,D34,1742414,2015
+2012,12.3,Taux de pauvreté : Ensemble - Deux-Sèvres,D79,1742415,2012
+2013,12.3,Taux de pauvreté : Ensemble - Deux-Sèvres,D79,1742415,2013
+2014,12.5,Taux de pauvreté : Ensemble - Deux-Sèvres,D79,1742415,2014
+2015,12.5,Taux de pauvreté : Ensemble - Deux-Sèvres,D79,1742415,2015
+2012,16.8,Taux de pauvreté : Ensemble - Somme,D80,1742416,2012
+2013,16.9,Taux de pauvreté : Ensemble - Somme,D80,1742416,2013
+2014,17.0,Taux de pauvreté : Ensemble - Somme,D80,1742416,2014
+2015,17.3,Taux de pauvreté : Ensemble - Somme,D80,1742416,2015
+2012,15.1,Taux de pauvreté : Ensemble - Tarn,D81,1742417,2012
+2013,15.1,Taux de pauvreté : Ensemble - Tarn,D81,1742417,2013
+2014,15.3,Taux de pauvreté : Ensemble - Tarn,D81,1742417,2014
+2015,15.7,Taux de pauvreté : Ensemble - Tarn,D81,1742417,2015
+2012,16.3,Taux de pauvreté : Ensemble - Tarn-et-Garonne,D82,1742418,2012
+2013,16.8,Taux de pauvreté : Ensemble - Tarn-et-Garonne,D82,1742418,2013
+2014,17.1,Taux de pauvreté : Ensemble - Tarn-et-Garonne,D82,1742418,2014
+2015,17.2,Taux de pauvreté : Ensemble - Tarn-et-Garonne,D82,1742418,2015
+2012,15.3,Taux de pauvreté : Ensemble - Var,D83,1742419,2012
+2013,15.7,Taux de pauvreté : Ensemble - Var,D83,1742419,2013
+2014,15.9,Taux de pauvreté : Ensemble - Var,D83,1742419,2014
+2015,15.7,Taux de pauvreté : Ensemble - Var,D83,1742419,2015
+2012,19.8,Taux de pauvreté : Ensemble - Vaucluse,D84,1742420,2012
+2013,20.2,Taux de pauvreté : Ensemble - Vaucluse,D84,1742420,2013
+2014,20.4,Taux de pauvreté : Ensemble - Vaucluse,D84,1742420,2014
+2015,20.2,Taux de pauvreté : Ensemble - Vaucluse,D84,1742420,2015
+2012,13.2,Taux de pauvreté : Ensemble - Vienne,D86,1742422,2012
+2013,13.4,Taux de pauvreté : Ensemble - Vienne,D86,1742422,2013
+2014,13.7,Taux de pauvreté : Ensemble - Vienne,D86,1742422,2014
+2015,13.9,Taux de pauvreté : Ensemble - Vienne,D86,1742422,2015
+2012,9.7,Taux de pauvreté : Ensemble - Loire-Atlantique,D44,1742343,2012
+2013,10.0,Taux de pauvreté : Ensemble - Loire-Atlantique,D44,1742343,2013
+2014,10.2,Taux de pauvreté : Ensemble - Loire-Atlantique,D44,1742343,2014
+2015,10.4,Taux de pauvreté : Ensemble - Loire-Atlantique,D44,1742343,2015
+2012,12.2,Taux de pauvreté : Ensemble - Loiret,D45,1742344,2012
+2013,12.6,Taux de pauvreté : Ensemble - Loiret,D45,1742344,2013
+2014,13.0,Taux de pauvreté : Ensemble - Loiret,D45,1742344,2014
+2015,13.4,Taux de pauvreté : Ensemble - Loiret,D45,1742344,2015
+2012,15.2,Taux de pauvreté : Ensemble - Lot,D46,1742345,2012
+2013,15.6,Taux de pauvreté : Ensemble - Lot,D46,1742345,2013
+2014,15.1,Taux de pauvreté : Ensemble - Lot,D46,1742345,2014
+2015,15.0,Taux de pauvreté : Ensemble - Lot,D46,1742345,2015
+2012,16.8,Taux de pauvreté : Ensemble - Lot-et-Garonne,D47,1742346,2012
+2013,16.6,Taux de pauvreté : Ensemble - Lot-et-Garonne,D47,1742346,2013
+2014,16.8,Taux de pauvreté : Ensemble - Lot-et-Garonne,D47,1742346,2014
+2015,17.0,Taux de pauvreté : Ensemble - Lot-et-Garonne,D47,1742346,2015
+2012,15.9,Taux de pauvreté : Ensemble - Lozère,D48,1742347,2012
+2013,15.7,Taux de pauvreté : Ensemble - Lozère,D48,1742347,2013
+2014,15.0,Taux de pauvreté : Ensemble - Lozère,D48,1742347,2014
+2015,15.3,Taux de pauvreté : Ensemble - Lozère,D48,1742347,2015
+2012,11.2,Taux de pauvreté : Ensemble - Maine-et-Loire,D49,1742348,2012
+2013,11.5,Taux de pauvreté : Ensemble - Maine-et-Loire,D49,1742348,2013
+2014,11.7,Taux de pauvreté : Ensemble - Maine-et-Loire,D49,1742348,2014
+2015,11.7,Taux de pauvreté : Ensemble - Maine-et-Loire,D49,1742348,2015
+2012,13.0,Taux de pauvreté : Ensemble - Manche,D50,1742349,2012
+2013,12.7,Taux de pauvreté : Ensemble - Manche,D50,1742349,2013
+2014,12.5,Taux de pauvreté : Ensemble - Manche,D50,1742349,2014
+2015,12.8,Taux de pauvreté : Ensemble - Manche,D50,1742349,2015
+2012,13.6,Taux de pauvreté : Ensemble - Marne,D51,1742350,2012
+2013,13.9,Taux de pauvreté : Ensemble - Marne,D51,1742350,2013
+2014,14.3,Taux de pauvreté : Ensemble - Marne,D51,1742350,2014
+2015,14.7,Taux de pauvreté : Ensemble - Marne,D51,1742350,2015
+2012,15.6,Taux de pauvreté : Ensemble - Haute-Marne,D52,1742351,2012
+2013,15.6,Taux de pauvreté : Ensemble - Haute-Marne,D52,1742351,2013
+2014,15.8,Taux de pauvreté : Ensemble - Haute-Marne,D52,1742351,2014
+2015,15.7,Taux de pauvreté : Ensemble - Haute-Marne,D52,1742351,2015
+2012,11.2,Taux de pauvreté : Ensemble - Mayenne,D53,1742352,2012
+2013,11.4,Taux de pauvreté : Ensemble - Mayenne,D53,1742352,2013
+2014,11.4,Taux de pauvreté : Ensemble - Mayenne,D53,1742352,2014
+2015,11.8,Taux de pauvreté : Ensemble - Mayenne,D53,1742352,2015
+2012,14.2,Taux de pauvreté : Ensemble - Meurthe-et-Moselle,D54,1742353,2012
+2013,14.1,Taux de pauvreté : Ensemble - Meurthe-et-Moselle,D54,1742353,2013
+2014,14.3,Taux de pauvreté : Ensemble - Meurthe-et-Moselle,D54,1742353,2014
+2015,14.6,Taux de pauvreté : Ensemble - Meurthe-et-Moselle,D54,1742353,2015
+2012,15.2,Taux de pauvreté : Ensemble - Meuse,D55,1742354,2012
+2013,15.1,Taux de pauvreté : Ensemble - Meuse,D55,1742354,2013
+2014,14.9,Taux de pauvreté : Ensemble - Meuse,D55,1742354,2014
+2015,15.6,Taux de pauvreté : Ensemble - Meuse,D55,1742354,2015
+2012,10.9,Taux de pauvreté : Ensemble - Morbihan,D56,1742355,2012
+2013,11.1,Taux de pauvreté : Ensemble - Morbihan,D56,1742355,2013
+2014,11.2,Taux de pauvreté : Ensemble - Morbihan,D56,1742355,2014
+2015,11.4,Taux de pauvreté : Ensemble - Morbihan,D56,1742355,2015
+2012,14.5,Taux de pauvreté : Ensemble - Moselle,D57,1742356,2012
+2013,14.2,Taux de pauvreté : Ensemble - Moselle,D57,1742356,2013
+2014,14.3,Taux de pauvreté : Ensemble - Moselle,D57,1742356,2014
+2015,14.7,Taux de pauvreté : Ensemble - Moselle,D57,1742356,2015
+2012,15.4,Taux de pauvreté : Ensemble - Nièvre,D58,1742357,2012
+2013,15.5,Taux de pauvreté : Ensemble - Nièvre,D58,1742357,2013
+2014,15.7,Taux de pauvreté : Ensemble - Nièvre,D58,1742357,2014
+2015,15.7,Taux de pauvreté : Ensemble - Nièvre,D58,1742357,2015
+2012,12.8,Taux de pauvreté : Ensemble - Oise,D60,1742359,2012
+2013,12.9,Taux de pauvreté : Ensemble - Oise,D60,1742359,2013
+2014,13.0,Taux de pauvreté : Ensemble - Oise,D60,1742359,2014
+2015,13.4,Taux de pauvreté : Ensemble - Oise,D60,1742359,2015
+2012,15.4,Taux de pauvreté : Ensemble - Orne,D61,1742360,2012
+2013,15.5,Taux de pauvreté : Ensemble - Orne,D61,1742360,2013
+2014,15.8,Taux de pauvreté : Ensemble - Orne,D61,1742360,2014
+2015,16.1,Taux de pauvreté : Ensemble - Orne,D61,1742360,2015
+2012,20.2,Taux de pauvreté : Ensemble - Pas-de-Calais,D62,1742361,2012
+2013,20.2,Taux de pauvreté : Ensemble - Pas-de-Calais,D62,1742361,2013
+2014,20.2,Taux de pauvreté : Ensemble - Pas-de-Calais,D62,1742361,2014
+2015,20.3,Taux de pauvreté : Ensemble - Pas-de-Calais,D62,1742361,2015
+2012,12.4,Taux de pauvreté : Ensemble - Puy-de-Dôme,D63,1742362,2012
+2013,12.6,Taux de pauvreté : Ensemble - Puy-de-Dôme,D63,1742362,2013
+2014,12.6,Taux de pauvreté : Ensemble - Puy-de-Dôme,D63,1742362,2014
+2015,12.8,Taux de pauvreté : Ensemble - Puy-de-Dôme,D63,1742362,2015
+2012,11.5,Taux de pauvreté : Ensemble - Pyrénées-Atlantiques,D64,1742363,2012
+2013,11.8,Taux de pauvreté : Ensemble - Pyrénées-Atlantiques,D64,1742363,2013
+2014,12.0,Taux de pauvreté : Ensemble - Pyrénées-Atlantiques,D64,1742363,2014
+2015,12.1,Taux de pauvreté : Ensemble - Pyrénées-Atlantiques,D64,1742363,2015
+2012,14.1,Taux de pauvreté : Ensemble - Hautes-Pyrénées,D65,1742364,2012
+2013,14.3,Taux de pauvreté : Ensemble - Hautes-Pyrénées,D65,1742364,2013
+2014,14.8,Taux de pauvreté : Ensemble - Hautes-Pyrénées,D65,1742364,2014
+2015,15.0,Taux de pauvreté : Ensemble - Hautes-Pyrénées,D65,1742364,2015
+2012,20.5,Taux de pauvreté : Ensemble - Pyrénées-Orientales,D66,1742365,2012
+2013,21.0,Taux de pauvreté : Ensemble - Pyrénées-Orientales,D66,1742365,2013
+2014,21.4,Taux de pauvreté : Ensemble - Pyrénées-Orientales,D66,1742365,2014
+2015,20.9,Taux de pauvreté : Ensemble - Pyrénées-Orientales,D66,1742365,2015
+2012,11.6,Taux de pauvreté : Ensemble - Bas-Rhin,D67,1742366,2012
+2013,12.0,Taux de pauvreté : Ensemble - Bas-Rhin,D67,1742366,2013
+2014,12.4,Taux de pauvreté : Ensemble - Bas-Rhin,D67,1742366,2014
+2015,13.1,Taux de pauvreté : Ensemble - Bas-Rhin,D67,1742366,2015
+2012,12.0,Taux de pauvreté : Ensemble - Haut-Rhin,D68,1742367,2012
+2013,12.5,Taux de pauvreté : Ensemble - Haut-Rhin,D68,1742367,2013
+2014,12.7,Taux de pauvreté : Ensemble - Haut-Rhin,D68,1742367,2014
+2015,13.2,Taux de pauvreté : Ensemble - Haut-Rhin,D68,1742367,2015
+2012,13.2,Taux de pauvreté : Ensemble - Rhône,D69,1742368,2012
+2013,13.5,Taux de pauvreté : Ensemble - Rhône,D69,1742368,2013
+2014,13.8,Taux de pauvreté : Ensemble - Rhône,D69,1742368,2014
+2015,14.0,Taux de pauvreté : Ensemble - Rhône,D69,1742368,2015
+2012,14.1,Taux de pauvreté : Ensemble - Haute-Saône,D70,1742369,2012
+2013,14.3,Taux de pauvreté : Ensemble - Haute-Saône,D70,1742369,2013
+2014,14.4,Taux de pauvreté : Ensemble - Haute-Saône,D70,1742369,2014
+2015,14.2,Taux de pauvreté : Ensemble - Haute-Saône,D70,1742369,2015
+2012,12.9,Taux de pauvreté : Ensemble - Saône-et-Loire,D71,1742370,2012
+2013,12.9,Taux de pauvreté : Ensemble - Saône-et-Loire,D71,1742370,2013
+2014,13.1,Taux de pauvreté : Ensemble - Saône-et-Loire,D71,1742370,2014
+2015,13.3,Taux de pauvreté : Ensemble - Saône-et-Loire,D71,1742370,2015
+2012,12.8,Taux de pauvreté : Ensemble - Sarthe,D72,1742371,2012
+2013,12.9,Taux de pauvreté : Ensemble - Sarthe,D72,1742371,2013
+2014,13.2,Taux de pauvreté : Ensemble - Sarthe,D72,1742371,2014
+2015,13.5,Taux de pauvreté : Ensemble - Sarthe,D72,1742371,2015
+2012,9.9,Taux de pauvreté : Ensemble - Savoie,D73,1742372,2012
+2013,10.2,Taux de pauvreté : Ensemble - Savoie,D73,1742372,2013
+2014,10.4,Taux de pauvreté : Ensemble - Savoie,D73,1742372,2014
+2015,10.4,Taux de pauvreté : Ensemble - Savoie,D73,1742372,2015
+2012,9.5,Taux de pauvreté : Ensemble - Haute-Savoie,D74,1742373,2012
+2013,9.3,Taux de pauvreté : Ensemble - Haute-Savoie,D74,1742373,2013
+2014,9.4,Taux de pauvreté : Ensemble - Haute-Savoie,D74,1742373,2014
+2015,9.2,Taux de pauvreté : Ensemble - Haute-Savoie,D74,1742373,2015
+2012,16.1,Taux de pauvreté : Ensemble - Paris,D75,1742374,2012
+2013,16.2,Taux de pauvreté : Ensemble - Paris,D75,1742374,2013
+2014,16.1,Taux de pauvreté : Ensemble - Paris,D75,1742374,2014
+2015,16.2,Taux de pauvreté : Ensemble - Paris,D75,1742374,2015
+2012,14.0,Taux de pauvreté : Ensemble - Seine-Maritime,D76,1742375,2012
+2013,14.2,Taux de pauvreté : Ensemble - Seine-Maritime,D76,1742375,2013
+2014,14.4,Taux de pauvreté : Ensemble - Seine-Maritime,D76,1742375,2014
+2015,14.7,Taux de pauvreté : Ensemble - Seine-Maritime,D76,1742375,2015
+2012,11.1,Taux de pauvreté : Ensemble - Seine-et-Marne,D77,1742376,2012
+2013,11.4,Taux de pauvreté : Ensemble - Seine-et-Marne,D77,1742376,2013
+2014,11.5,Taux de pauvreté : Ensemble - Seine-et-Marne,D77,1742376,2014
+2015,11.8,Taux de pauvreté : Ensemble - Seine-et-Marne,D77,1742376,2015
+2012,8.9,Taux de pauvreté : Ensemble - Yvelines,D78,1742377,2012
+2013,9.3,Taux de pauvreté : Ensemble - Yvelines,D78,1742377,2013
+2014,9.5,Taux de pauvreté : Ensemble - Yvelines,D78,1742377,2014
+2015,9.7,Taux de pauvreté : Ensemble - Yvelines,D78,1742377,2015
+2012,10.6,Taux de pauvreté : 60 à 74 ans - Aisne,D02,1742381,2012
+2013,9.4,Taux de pauvreté : 60 à 74 ans - Aisne,D02,1742381,2013
+2014,10.0,Taux de pauvreté : 60 à 74 ans - Aisne,D02,1742381,2014
+2015,10.1,Taux de pauvreté : 60 à 74 ans - Aisne,D02,1742381,2015
+2012,22.3,Taux de pauvreté : Moins de 30 ans - Puy-de-Dôme,D63,1742600,2012
+2013,23.2,Taux de pauvreté : Moins de 30 ans - Puy-de-Dôme,D63,1742600,2013
+2014,22.7,Taux de pauvreté : Moins de 30 ans - Puy-de-Dôme,D63,1742600,2014
+2015,23.3,Taux de pauvreté : Moins de 30 ans - Puy-de-Dôme,D63,1742600,2015
