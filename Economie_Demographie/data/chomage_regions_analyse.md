@@ -112,4 +112,8 @@
 
 - **Couverture partielle**: Seulement 12 départements sur 96
 - Les départements couverts sont dans la tranche 70-81
-- Une analyse France entière nécessite d'autres séries IDBANK
+- Fichier remplacé par chomage_departements_complet.csv (100 départements)
+
+### Utilisation prévue
+- Analyse historique du chômage régional
+- Complément au fichier chomage_departements_complet

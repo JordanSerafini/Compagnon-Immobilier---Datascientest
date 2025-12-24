@@ -151,3 +151,8 @@
 ### Nettoyage à effectuer
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin
+
+### Utilisation prévue
+- Mesure de l'inflation pour ajuster les prix immobiliers en euros constants
+- Corrélation inflation / évolution des prix du logement
+- Contextualisation des tendances de prix

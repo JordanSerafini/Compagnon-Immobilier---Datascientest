@@ -102,6 +102,11 @@
 - DATASET_NAME
 
 ### Nettoyage à effectuer
-- Supprimer les 203 lignes avec valeurs manquantes
+- Supprimer les lignes avec valeurs manquantes
 - Supprimer les colonnes métadonnées non utilisées
 - Renommer les colonnes pour plus de clarté si besoin
+
+### Utilisation prévue
+- Pression démographique sur le marché immobilier
+- Ratio population / logements disponibles
+- Segmentation des marchés par taille de population

@@ -80,3 +80,8 @@ Les valeurs sont de nature différente selon les séries :
 ### Notes
 - Les valeurs négatives sont normales (contributions négatives au PIB)
 - Filtrer sur NATURE='TAUX' pour n'avoir que les taux de croissance
+
+### Utilisation prévue
+- Contexte macroéconomique pour l'analyse immobilière
+- Corrélation PIB / dynamique des prix immobiliers
+- Variable explicative pour les modèles de prédiction

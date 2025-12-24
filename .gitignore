@@ -1,0 +1,44 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*.bak
+
+# Environnement
+.env
+.env.local
+
+# Claude Code
+.claude/
+
+# Donnees volumineuses
+Economie_Demographie/data/*.csv
+
+# Archives et fichiers telecharges
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Fichiers Excel temporaires
+~$*.xlsx
+~$*.xls
