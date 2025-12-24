@@ -105,7 +105,7 @@ Le nouveau fichier remplace chomage_regions.csv avec une couverture complète.
 - Toutes les colonnes `*_label_en`
 - Colonnes métadonnées redondantes
 
-### Exploitation envisagée
+### Utilisation prévue
 
 - Analyse des disparités territoriales du chômage
 - Corrélation chômage / prix immobilier par département

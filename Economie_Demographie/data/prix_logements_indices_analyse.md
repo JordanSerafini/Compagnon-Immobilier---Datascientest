@@ -87,7 +87,7 @@
 
 ---
 
-## Exploitation envisagée
+## Utilisation prévue
 
 ### Analyses envisageables
 
