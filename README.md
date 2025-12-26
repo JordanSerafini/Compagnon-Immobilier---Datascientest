@@ -9,7 +9,8 @@ Compagnon Immobilier - Datascientest/
 ├── Economie_Demographie/
 │   ├── Notebooks/           # Notebooks Jupyter
 │   ├── data/                # Données brutes et nettoyées
-│   └── venv/                # Environnement virtuel Python
+│   ├── requirements.txt     # Dépendances Python
+│   └── venv/                # Environnement virtuel Python (local, non versionné)
 ├── Prix immobilier/         # Partie prix immobilier
 └── README.md
 ```
@@ -29,7 +30,7 @@ cd "Compagnon Immobilier - Datascientest"
 cd Economie_Demographie
 python3 -m venv venv
 source venv/bin/activate
-pip install pandas numpy matplotlib seaborn pynsee ipykernel
+pip install -r requirements.txt
 ```
 
 ### 3. Configurer le kernel Jupyter
