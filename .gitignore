@@ -30,14 +30,33 @@ Thumbs.db
 # Claude Code
 .claude/
 
-# Donnees volumineuses
-Economie_Demographie/data/*.csv
+# ===========================================
+# DONNEES VOLUMINEUSES (a telecharger separement)
+# ===========================================
 
-# Archives et fichiers telecharges
+# Donnees brutes INSEE (re-extractibles via API)
+Economie_Demographie/data/*.csv
+Economie_Demographie/data/FILO*.csv
+Economie_Demographie/data/meta_*.csv
+
+# DVF (trop volumineux - 500MB+)
+Prix immobilier/Data/*.gz
+
+# Criminalite parquet (14MB - telecharger depuis data.gouv.fr)
+Education_Securite/*.parquet
+
+# Archives
 *.zip
 *.tar.gz
 *.rar
 *.7z
+
+# ===========================================
+# FICHIERS INCLUS DANS GIT (petite taille)
+# ===========================================
+# - Economie_Demographie/data/clean/*.csv (17MB) -> INCLUS
+# - Economie_Demographie/Agregation_Donnees/*.csv (3MB) -> INCLUS
+# - Prix immobilier/Data/ech_annonces_*.csv (8MB) -> INCLUS
 
 # Fichiers Excel temporaires
 ~$*.xlsx
