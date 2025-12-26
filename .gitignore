@@ -38,6 +38,8 @@ Economie_Demographie/data/*.csv
 *.tar.gz
 *.rar
 *.7z
+*.gz
+.csv
 
 # Fichiers Excel temporaires
 ~$*.xlsx
